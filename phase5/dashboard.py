@@ -234,6 +234,26 @@ CSS = """
         font-weight: 700;
         color: #ffffff;
     }
+    
+    /* Premium white-bold clickable tabs styling */
+    div[data-testid="stTabBar"] button {
+        font-weight: 700 !important;
+        color: #ffffff !important;
+        font-size: 1rem !important;
+        border-radius: 4px !important;
+        transition: background-color 0.2s ease, color 0.2s ease !important;
+    }
+    
+    div[data-testid="stTabBar"] button:hover {
+        background-color: rgba(255, 255, 255, 0.08) !important;
+        color: #a78bfa !important;
+    }
+    
+    div[data-testid="stTabBar"] button[aria-selected="true"] {
+        color: #ffffff !important;
+        background-color: rgba(139, 92, 246, 0.25) !important;
+        border-bottom: 3px solid #8b5cf6 !important;
+    }
 </style>
 """
 st.markdown(CSS, unsafe_allow_html=True)
@@ -242,7 +262,9 @@ st.markdown(CSS, unsafe_allow_html=True)
 # Database Helper
 def get_db_connection(db_path: Path) -> sqlite3.Connection:
     """Open read-only SQLite connection strictly to prevent locks."""
-    return sqlite3.connect(f"file:{db_path}?mode=ro", uri=True)
+    conn = sqlite3.connect(f"file:{db_path}?mode=ro", uri=True)
+    conn.row_factory = sqlite3.Row
+    return conn
 
 
 # Load Data (Cached)
@@ -391,129 +413,17 @@ def main() -> None:
     # TAB SETTINGS
     # ----------------------------------------------------
     tab1, tab2, tab3, tab4, tab5 = st.tabs([
-        "📈 Executive Overview",
         "🔍 Deep Theme Insights",
+        "📈 Executive Overview",
         "⚡ Virality & Engagement",
         "📂 Qualitative Evidence Explorer",
         "🛡️ Keyword Pre-screening Diagnostics"
     ])
     
     # ----------------------------------------------------
-    # TAB 1: EXECUTIVE OVERVIEW
+    # TAB 1: DEEP THEME INSIGHTS
     # ----------------------------------------------------
     with tab1:
-        # High Level KPI metrics
-        if "prevalence" in aggs:
-            df_prev = aggs["prevalence"]
-            total_relevant = df_prev["raw_count"].sum()
-            
-            # Find top theme by raw count
-            top_theme_row = df_prev.loc[df_prev["raw_count"].idxmax()]
-            top_theme_name = top_theme_row["theme_label"]
-            
-            # Find top theme by weight
-            top_weighted_row = df_prev.loc[df_prev["weighted_count"].idxmax()]
-            top_weighted_name = top_weighted_row["theme_label"]
-            
-            # Load average score / metrics from database
-            avg_score = 0
-            if db_path.exists():
-                try:
-                    conn = get_db_connection(db_path)
-                    res = conn.execute("SELECT AVG(score) FROM posts WHERE id IN (SELECT post_id FROM post_analysis WHERE stage1_relevant = 1)").fetchone()
-                    avg_score = round(res[0] or 0, 1)
-                    conn.close()
-                except Exception:
-                    avg_score = "N/A"
-            
-            col1, col2, col3, col4 = st.columns(4)
-            with col1:
-                st.markdown(
-                    f"""
-                    <div class="kpi-card">
-                        <div class="kpi-title">Confirmed Relevant Posts</div>
-                        <div class="kpi-value">{total_relevant}</div>
-                    </div>
-                    """,
-                    unsafe_allow_html=True
-                )
-            with col2:
-                st.markdown(
-                    f"""
-                    <div class="kpi-card">
-                        <div class="kpi-title">Average Score (Engagement)</div>
-                        <div class="kpi-value">{avg_score}</div>
-                    </div>
-                    """,
-                    unsafe_allow_html=True
-                )
-            with col3:
-                st.markdown(
-                    f"""
-                    <div class="kpi-card">
-                        <div class="kpi-title">Top Primary Theme</div>
-                        <div class="kpi-value" style="font-size: 1.15rem; font-weight: 600; padding-top: 0.4rem;">{top_theme_name}</div>
-                    </div>
-                    """,
-                    unsafe_allow_html=True
-                )
-            with col4:
-                st.markdown(
-                    f"""
-                    <div class="kpi-card">
-                        <div class="kpi-title">Top Weighted Theme</div>
-                        <div class="kpi-value" style="font-size: 1.15rem; font-weight: 600; padding-top: 0.4rem;">{top_weighted_name}</div>
-                    </div>
-                    """,
-                    unsafe_allow_html=True
-                )
-                
-            st.markdown("### 📊 Research Theme Prevalence")
-            st.markdown(
-                r"This chart illustrates the prevalence of the core research themes. It highlights the difference between "
-                r"**Raw Counts** (how many posts align to a theme) and **Weighted Counts** (adjusting for community engagement "
-                r"via $\ln(1 + \max(\text{score}, 0))$). Weighting shows which narratives are virally amplified within the community."
-            )
-            
-            # Melt dataframe for side-by-side bar chart
-            df_melted = df_prev.melt(
-                id_vars=["theme_label", "theme_slug"],
-                value_vars=["raw_pct", "weighted_pct"],
-                var_name="Metric",
-                value_name="Percentage"
-            )
-            df_melted["Metric"] = df_melted["Metric"].map({
-                "raw_pct": "Raw Counts (%)",
-                "weighted_pct": "Weighted Counts (%)"
-            })
-            
-            fig = px.bar(
-                df_melted,
-                x="Percentage",
-                y="theme_label",
-                color="Metric",
-                barmode="group",
-                orientation="h",
-                color_discrete_sequence=["#3b82f6", "#8b5cf6"],
-                labels={"theme_label": "Research Theme", "Percentage": "Share of Relevant Posts (%)"},
-                height=450
-            )
-            fig.update_layout(
-                paper_bgcolor="rgba(0,0,0,0)",
-                plot_bgcolor="rgba(0,0,0,0)",
-                font_family="Outfit, sans-serif",
-                font_color="#e2e8f0",
-                xaxis=dict(gridcolor="#1f2937", showgrid=True),
-                yaxis=dict(categoryorder="trace", gridcolor="rgba(0,0,0,0)", autorange="reversed"),
-                legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
-                margin=dict(l=0, r=0, t=40, b=0)
-            )
-            st.plotly_chart(fig, use_container_width=True)
-            
-    # ----------------------------------------------------
-    # TAB 2: DEEP THEME INSIGHTS
-    # ----------------------------------------------------
-    with tab2:
         if "prevalence" in aggs:
             df_prev = aggs["prevalence"]
             theme_list = df_prev["theme_label"].tolist()
@@ -655,6 +565,118 @@ def main() -> None:
                         )
                 else:
                     st.markdown("<span style='color: #64748b; font-style: italic;'>No quotes extracted for this theme.</span>", unsafe_allow_html=True)
+                    
+    # ----------------------------------------------------
+    # TAB 2: EXECUTIVE OVERVIEW
+    # ----------------------------------------------------
+    with tab2:
+        # High Level KPI metrics
+        if "prevalence" in aggs:
+            df_prev = aggs["prevalence"]
+            total_relevant = df_prev["raw_count"].sum()
+            
+            # Find top theme by raw count
+            top_theme_row = df_prev.loc[df_prev["raw_count"].idxmax()]
+            top_theme_name = top_theme_row["theme_label"]
+            
+            # Find top theme by weight
+            top_weighted_row = df_prev.loc[df_prev["weighted_count"].idxmax()]
+            top_weighted_name = top_weighted_row["theme_label"]
+            
+            # Load average score / metrics from database
+            avg_score = 0
+            if db_path.exists():
+                try:
+                    conn = get_db_connection(db_path)
+                    res = conn.execute("SELECT AVG(score) FROM posts WHERE id IN (SELECT post_id FROM post_analysis WHERE stage1_relevant = 1)").fetchone()
+                    avg_score = round(res[0] or 0, 1)
+                    conn.close()
+                except Exception:
+                    avg_score = "N/A"
+            
+            col1, col2, col3, col4 = st.columns(4)
+            with col1:
+                st.markdown(
+                    f"""
+                    <div class="kpi-card">
+                        <div class="kpi-title">Confirmed Relevant Posts</div>
+                        <div class="kpi-value">{total_relevant}</div>
+                    </div>
+                    """,
+                    unsafe_allow_html=True
+                )
+            with col2:
+                st.markdown(
+                    f"""
+                    <div class="kpi-card">
+                        <div class="kpi-title">Average Score (Engagement)</div>
+                        <div class="kpi-value">{avg_score}</div>
+                    </div>
+                    """,
+                    unsafe_allow_html=True
+                )
+            with col3:
+                st.markdown(
+                    f"""
+                    <div class="kpi-card">
+                        <div class="kpi-title">Top Primary Theme</div>
+                        <div class="kpi-value" style="font-size: 1.15rem; font-weight: 600; padding-top: 0.4rem;">{top_theme_name}</div>
+                    </div>
+                    """,
+                    unsafe_allow_html=True
+                )
+            with col4:
+                st.markdown(
+                    f"""
+                    <div class="kpi-card">
+                        <div class="kpi-title">Top Weighted Theme</div>
+                        <div class="kpi-value" style="font-size: 1.15rem; font-weight: 600; padding-top: 0.4rem;">{top_weighted_name}</div>
+                    </div>
+                    """,
+                    unsafe_allow_html=True
+                )
+                
+            st.markdown("### 📊 Research Theme Prevalence")
+            st.markdown(
+                r"This chart illustrates the prevalence of the core research themes. It highlights the difference between "
+                r"**Raw Counts** (how many posts align to a theme) and **Weighted Counts** (adjusting for community engagement "
+                r"via $\ln(1 + \max(\text{score}, 0))$). Weighting shows which narratives are virally amplified within the community."
+            )
+            
+            # Melt dataframe for side-by-side bar chart
+            df_melted = df_prev.melt(
+                id_vars=["theme_label", "theme_slug"],
+                value_vars=["raw_pct", "weighted_pct"],
+                var_name="Metric",
+                value_name="Percentage"
+            )
+            df_melted["Metric"] = df_melted["Metric"].map({
+                "raw_pct": "Raw Counts (%)",
+                "weighted_pct": "Weighted Counts (%)"
+            })
+            
+            fig = px.bar(
+                df_melted,
+                x="Percentage",
+                y="theme_label",
+                color="Metric",
+                barmode="group",
+                orientation="h",
+                color_discrete_sequence=["#3b82f6", "#8b5cf6"],
+                labels={"theme_label": "Research Theme", "Percentage": "Share of Relevant Posts (%)"},
+                height=450
+            )
+            fig.update_layout(
+                paper_bgcolor="rgba(0,0,0,0)",
+                plot_bgcolor="rgba(0,0,0,0)",
+                font_family="Outfit, sans-serif",
+                font_color="#e2e8f0",
+                xaxis=dict(gridcolor="#1f2937", showgrid=True),
+                yaxis=dict(categoryorder="trace", gridcolor="rgba(0,0,0,0)", autorange="reversed"),
+                legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
+                margin=dict(l=0, r=0, t=40, b=0)
+            )
+            st.plotly_chart(fig, use_container_width=True)
                     
     # ----------------------------------------------------
     # TAB 3: VIRALITY & ENGAGEMENT
