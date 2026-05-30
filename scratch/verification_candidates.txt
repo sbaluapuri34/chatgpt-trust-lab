@@ -1,0 +1,730 @@
+=== user_evaluation_verification_behavior ===
+
+Index: 1
+ID: 1r1b3gl
+Score: 1465
+Title: I got tired of ChatGPT forgetting everything, so I built it a "Save Game" feature. 1,000+ sessions later, it remembers my decisions from 2 months ago.
+Quote: You are confusing RAM with a Hard Drive.
+Rationale: The author has built a "Save Game" feature for ChatGPT, which allows it to remember decisions from previous sessions, and has explained the differences between RAM and a hard drive in a technical update.
+Excerpt: I posted here 4 days ago about "Project Athena" — my open-source "Save Game" layer for AI. The response was insane (450K+ views). But the top comment asked the real question: "Why not just use ChatGPT's memory? It remembers things now." This pushed me to ship a massive update (v8.5.0) to explain exa
+--------------------------------------------------------------------------------
+Index: 2
+ID: 1or0xz2
+Score: 711
+Title: Chatgpt made me cry today
+Quote: Chatgpt helped me figure out WHY I couldn't decide, which really helped me make a more informed decision finally.
+Rationale: The user describes how ChatGPT helped them figure out the root cause of their career decision-making struggles, which led to a positive outcome.
+Excerpt: I've been trying to figure out what career to choose after several failed career attempts. I keep changing majors, taking career quizzes, researching how to choose a major, second guessing myself, ect. I really dug deep into chatgpt to try to find the right career, and over the course of several con
+--------------------------------------------------------------------------------
+Index: 3
+ID: 1oj9s97
+Score: 211
+Title: how do you actually verify what chatgpt tells you now that itshallucinationssound so real
+Quote: i’ve caught it making up papers or quotes that don’t exist
+Rationale: The user is concerned about verifying the accuracy of ChatGPT's responses and has caught it making up papers or quotes.
+Excerpt: lately i’ve noticed that when chatgpt gets something wrong, it doesn’t feel wrong anymore it gives fake studies, fake author names, even publication dates that look legit and half the time it sounds more convincing than a real source i’ve caught it making up papers or quotes that don’t exist but mos
+--------------------------------------------------------------------------------
+Index: 4
+ID: 1r219sd
+Score: 206
+Title: I switched from ChatGPT to Le Chat - Here is what I noticed
+Quote: Le Chat nails the subtle linguistic and (sub-)cultural differences, especially for multilingual Europeans working with different languages.
+Rationale: The user is comparing Le Chat to ChatGPT and highlighting the importance of fact-checking and verification.
+Excerpt: Like many Europeans, I’ve grown increasingly uncomfortable with the intertwining of the US government and its tech giants, as well as the government’s open hatred towards the EU. The idea of my data being processed by a system so closely tied to a foreign power (especially one with such global reach
+--------------------------------------------------------------------------------
+Index: 5
+ID: 1qfy995
+Score: 158
+Title: Am I the only one (I am a power user) that is actually still happy with ChatGPT?
+Quote: Am I the only one (I am a power user) that is actually still happy with ChatGPT?
+
+I’ve been at home
+Rationale: The user is happy with ChatGPT and has found ways to work with its limitations, and uses persuasive communication to encourage others to be patient with the technology.
+Excerpt: I’ve been at home on Chat since December 17, 2022. Last year alone, I generated over 130k chats and 6,000 conversations. I was an early adopter. It was the first AI I actually ever used. It was cool and a novelty at first. I find that even with changes, it’s still very much operative on the principl
+--------------------------------------------------------------------------------
+Index: 6
+ID: 1qcnzt6
+Score: 140
+Title: Is Chatgpt bad at long papers or am I doing something wrong?
+Quote: It’s even worse with long papers. I’m working on my thesis now and tried keeping everything in one chat, but it feels like gpt forgets what we discussed before.
+Rationale: The user noticed that ChatGPT's answers were often generic and lacked depth, and they had to verify the accuracy of the answers through external sources.
+Excerpt: I need to complain about Chatgpt for a moment 😅 Not trying to act like a saint here. Like everyone else, I use ai a lot, including for writing and editing my uni papers. When I first found gpt, it felt like magic - one simple prompt and my essay was basically ready. Of course it needed edits, but ba
+--------------------------------------------------------------------------------
+Index: 7
+ID: 1qqxvsf
+Score: 133
+Title: Organized 47,000 photos (20+ years) using ExifTool and Gemini Pro (where ChatGPT failed). My workflow and learnings.
+Quote: I fell into a loop of asking, 'Is this command safe?', only for it to point out risks in its own previous code.
+Rationale: The user shares their experience of fact-checking ChatGPT's output and the consequences of relying on it.
+Excerpt: I recently finished organizing a 540GB collection of photos and videos—roughly 47,000 files spanning 20 years. I wanted to share my workflow, specifically how I used AI to generate complex ExifTool commands, and why Gemini Pro succeeded where ChatGPT failed. The Context Before AI tools were accessib
+--------------------------------------------------------------------------------
+Index: 8
+ID: 1qgn5i2
+Score: 97
+Title: I developed an open-source tool that allows ChatGPT to "discuss" other models to eliminatehallucinations.
+Quote: It works by forcing ChatGPT responses to be verified against other models (such as Gemini, Claude, Mistral, Grok, etc...) in a structured discussion.
+Rationale: The author describes a tool that forces ChatGPT responses to be verified against other models, highlighting the importance of fact-checking and reducing hallucinations.
+Excerpt: Hello! I've created a self-hosted platform designed to solve the "blind trust" problem It works by forcing ChatGPT responses to be verified against other models (such as Gemini, Claude, Mistral, Grok, etc...) in a structured discussion. I'm looking for users to test this consensus logic and see if i
+--------------------------------------------------------------------------------
+Index: 9
+ID: 1rgepbd
+Score: 63
+Title: OpenAI CEO Sam: For all the differences I have with Anthropic, I mostly trust them as a company and I think they really do care about safety
+Quote: For all the differences I have with Anthropic, I mostly trust them as a company and I think they really do care about safety
+Rationale: The author is discussing the CEO's trust in Anthropic and the importance of safety in AI development.
+Excerpt: Source: CNBC live interview today (asked about Anthropic, Pentagon AI safety guards issue)
+--------------------------------------------------------------------------------
+Index: 10
+ID: 1qvbem8
+Score: 29
+Title: How I Use ChatGPT to Navigate Human Gray Areas I Don’t Naturally Understand (Anonymized Transcript)
+Quote: I use ChatGPT to break down emotionally confusing human interactions, close mental loops, and create clear internal rules when social situations feel unpredictable or unsafe to me.
+Rationale: The author uses ChatGPT to process and understand human interactions, relying on the tool's accuracy and trustworthiness.
+Excerpt: Context: I’m autistic, very private, and I struggle with the unpredictable gray areas of human interaction, especially emotional reciprocity, implied expectations, and social boundaries. I function well in the world, but a lot of “obvious” human behavior is not obvious to me, and it’s often inconsis
+--------------------------------------------------------------------------------
+Index: 11
+ID: 1optfoc
+Score: 26
+Title: I tested 500 complex prompts on GPT, Claude & Gemini. Single-shot vs multi-agent. The quality gap is absurd.
+Quote: Hallucinations and Factual Errors: Single LLM: 22% average error rate Multi-agent: 3% error rate 86% fewer factual or logical errors
+Rationale: The user has conducted an experiment to compare the performance of single AI models and multi-agent systems, highlighting the importance of fact-checking and verification.
+Excerpt: TL;DR: Ran 500 complex prompts through single AI vs a "committee" of AIs working together (multi-agent system). The multi-agent approach had 86% fewer hallucinations, caught 2.4x more edge cases, and was preferred by 71% of blind testers. It's way slower but dramatically better for complex, multi-do
+--------------------------------------------------------------------------------
+Index: 12
+ID: 1r80lwg
+Score: 24
+Title: ChatGPT Helped Me Grieve
+Quote: When we miss someone deeply, our mind reaches for sensory memories — sounds, facial expressions, little physical details — because that’s how we felt close to them.
+Rationale: The author describes a conversation with ChatGPT where they fact-checked and verified information, and also discusses the importance of trusting one's own feelings and experiences.
+Excerpt: In April of 2025 my best friend passed away. We grew up into church together and hung out a lot. I've always had feelings for her but never got the chance to tell her how I truly felt about her and how much she meant to me. I went to her funeral and memorial and have felt a deep sadness since that d
+--------------------------------------------------------------------------------
+Index: 13
+ID: 1sz0ndu
+Score: 17
+Title: My Top 10 Codex Skills After 3 Weeks of Token-Heavy Sessions (specificity, time-anchored)
+Quote: Median search drops from 75s to 5s.
+Rationale: The user shares their experience with Codex and Claude, discussing the skills they use and how they verify the accuracy of the output.
+Excerpt: Three weeks ago my Claude Max session jumped from 21% to 100% on a normal-sized prompt. Two cache bugs were inflating token consumption 10 to 20x, After that  I installed Codex. Now I run both. Here are the skills I use in Codex. A skill is a SKILL.md file in ~/.agents/skills/, loaded automatically 
+--------------------------------------------------------------------------------
+Index: 14
+ID: 1qhjles
+Score: 15
+Title: Ask ChatGPT to cite its sources for more reliable info
+Quote: Ask ChatGPT to cite its sources for more reliable info
+
+I've gotten so frustrated with its confident
+Rationale: The author shares a tip on how to reduce hallucinations by adding a 'Cite sources' prompt, highlighting the importance of fact-checking and verifying information.
+Excerpt: I've gotten so frustrated with its confident and authoritative-sounding answers that are completely incorrect. It doesn't work to add instructions to the Personalization or thread settings asking it to verify its accuracy, I still have to remind it almost every time. But adding a brief "Cite sources
+--------------------------------------------------------------------------------
+Index: 15
+ID: 1ot6hgu
+Score: 14
+Title: I shared my prescription to ChatGPT 5, and it didn't catch the manual error until I pointed it out
+Quote: I shared a prescription I received post a Root Canal Treatment.
+Rationale: The user shares their experience of ChatGPT missing a manual error in a prescription, highlighting the importance of verification and the potential consequences of AI hallucinations.
+Excerpt: I shared a prescription I received post a Root Canal Treatment. Along with a few other meds, she prescribed 5 weeks of antibiotics instead of 5 days. That would wreak havoc on a human system. I shared the prescription with ChatGPT and it didn't flag anything. Instead it gave me a walkthrough of the 
+--------------------------------------------------------------------------------
+Index: 16
+ID: 1skwfnb
+Score: 14
+Title: Has anybody else noticed responses randomly including bits of other languages like Arabic?
+Quote: When asked, the model is no help and does its usual mea-culpa-but-let's-move-on deal, and I've long since learned better than to trust any explanation you can wring out of it - it's usually just throwing predictive spaghetti at the wall to see what sticks.
+Rationale: The user is fact-checking the model's responses and noticing inconsistencies.
+Excerpt: Edit: I've been informed this issue is over-posted, my bad. I first ran into this problem while doing some anthropological research the cheat way. When bits and pieces were in a script I didn't recognize, I figured these were highly-specific cultural terms that were hard to translate or even transli
+--------------------------------------------------------------------------------
+Index: 17
+ID: 1qwvp9p
+Score: 11
+Title: Codex 5.3 vs Opus 4.6 in the Swiftagon: FIGHT!
+Quote: Full (anonymized) outputs linked at the bottom.
+Rationale: The user compares the performance of two models, Claude Opus 4.6 and GPT-5.3 Codex, in a code review task, highlighting their strengths and weaknesses.
+Excerpt: Both Anthropic and OpenAI shipped new models within minutes of each other today (Feb 5, 2026), Opus 4.6 and Codex 5.3. I had both wired up in the same codebase, so I figured: why not make them compete? Proper Swift has been notably hard for both of these models, so I thought a little heads-up fight 
+--------------------------------------------------------------------------------
+Index: 18
+ID: 1qyzxfu
+Score: 7
+Title: I’m an HVAC engineer and former nurse. I realized Yann LeCun’s "World Model" is actually describing a standard closed-loop control system—and why missing it causes hallucinations.
+Quote: LeCun's "cost module" is essentially an implementation of this integral term. Without it, the equations cannot converge to the truth.
+Rationale: The author is explaining how Yann LeCun's "World Model" is actually describing a standard closed-loop control system, and how this relates to the physical foundations of survival.
+Excerpt: Yann LeCun famously argued that autoregressive linear models (LLMs) are a dead end because they lack a "world model." He proposed the JEPA architecture, which relies on a predictive "intrinsic cost module" to operate. With a background in industrial control systems (HVAC) and intensive care (ICU), I
+--------------------------------------------------------------------------------
+Index: 19
+ID: 1pypbuk
+Score: 6
+Title: I need to find prompt to increase my AI's accuracy.
+Quote: However, I just randomly type them in a very inefficient way, getting mediocre results and I really suck at prompts.
+Rationale: The user shares their experience with creating a prompt to improve ChatGPT's accuracy and notes that it may not be effective, and that using a better model with a lower hallucination rate is a better approach.
+Excerpt: So basically, I was chatting today and realized if you use its thinking function and tell the chatbot to prioritize accuracy over results and to cross reference different websites or something similar, the results it produces are much better. However, I just randomly type them in a very inefficient 
+--------------------------------------------------------------------------------
+Index: 20
+ID: 1sas67s
+Score: 6
+Title: I scanned 10 popular vibe-coded repos with a deterministic linter. 4,513 findings across 2,062 files. Here's what AI agents keep getting wrong.
+Quote: ESLint catches syntax and style issues. It doesn't flag a 2,557-line function as a structural problem.
+Rationale: The author discusses the limitations of ESLint and the need for a deterministic linter to catch structural issues in code generated by AI agents.
+Excerpt: I build a lot with Claude Code. Across 8 different projects. At some point I noticed a pattern: every codebase had the same structural issues showing up again and again. God functions that were 200+ lines. Empty catch blocks everywhere. console.log left in production paths. any types scattered acros
+--------------------------------------------------------------------------------
+Index: 21
+ID: 1rdkg5r
+Score: 5
+Title: De-Hallucination prompt
+Quote: FACTUAL CLAIMS MUST BE VERIFIED THROUGH PEER-REVIEWED LITERATURE, MAJOR NEWS ORGANIZATIONS, ACADEMIC DATABASES, INDUSTRY STANDARDS (E.G., OSHA, IEEE, NFPA), OR GOVERNMENT/NGO REPORTS.
+Rationale: The post describes a prompt that aims to minimize hallucinations by emphasizing fact-checking and verification.
+Excerpt: Hi everyone just wanted to share this prompt for personality which ive found to work quite well for minimizing hallucinations: ONLY USE ACTUAL, CREDIBLE SOURCES FOR ALL INFORMATION YOU PROVIDE. FACTUAL CLAIMS MUST BE VERIFIED THROUGH PEER-REVIEWED LITERATURE, MAJOR NEWS ORGANIZATIONS, ACADEMIC DATAB
+--------------------------------------------------------------------------------
+Index: 22
+ID: 1rtymdy
+Score: 5
+Title: ChatGPT citing Redditors citing ChatGPT
+Quote: I feel the loop is going to keep deteriorating the quality of the answers. Just like taking a photo of a photo of a photo etc infinitely.
+Rationale: The post highlights the importance of fact-checking and verifying information, particularly in the context of AI-generated content and its potential consequences.
+Excerpt: Do you see what’s happening? We’re increasingly using LLMs to help us answer posts on Reddit. This has already been discussed. It’s not just people straight up copying from ChatGPT. Also people like myself quoting a stat, double-checking a fact, checking for omissions. Then in turn LLMs are either t
+--------------------------------------------------------------------------------
+Index: 23
+ID: 1sm7q2r
+Score: 5
+Title: How can I properly security-check an AI-built web platform if I’m not a developer?
+Quote: What tools would you use first to audit a stack like this?
+Rationale: The user is asking for guidance on how to properly security-check an AI-built web platform.
+Excerpt: I’ve been building a pretty large web platform mostly with AI assistance, using my own product/logic knowledge to guide the implementation. I’m not a professional programmer, but I do understand how most of the system fits together: frontend, backend, APIs, database structure, auth flows, deployment
+--------------------------------------------------------------------------------
+Index: 24
+ID: 1srbtja
+Score: 5
+Title: Anyone else notice AI writers suddenly hallucinate less when you ask for long articles?
+Quote: I've been using AI tools for writing blog posts and long-form content for a while, and something interesting happened recently: they seem to be messing up facts a lot less, especially on niche topics.
+Rationale: The author notes that AI writers are improving, but still prone to hallucinations, and discusses the importance of fact-checking and verification.
+Excerpt: I've been using AI tools for writing blog posts and long-form content for a while, and something interesting happened recently: they seem to be messing up facts a lot less, especially on niche topics. Some updates I saw mentioned "live research agents" and new ways of keeping long outputs on-topic i
+--------------------------------------------------------------------------------
+Index: 25
+ID: 1r4cj9c
+Score: 4
+Title: Alternatives to 4o. A Crowd Source Review Thread
+Quote: I find a lot of people asking this and if we maintain a thread then we’ll also be able to see the most used based on actual user opinions not just what the internet would tell us which i have no trust anymore
+Rationale: The user is seeking verification of other platforms' accuracy and is questioning their trust in ChatGPT.
+Excerpt: Guys 4o is gone. It’s helped me process trauma, it’s helped me with my OCD thought loops. For me those were the biggest things I needed help with and it did really really helped me through some tough times. I see a lot of people that had their companions on it and guys I’m sorry you lost that. It’s 
+--------------------------------------------------------------------------------
+Index: 26
+ID: 1sc4h0r
+Score: 4
+Title: Chat GPT argues with and gets roasted by Gemini before being proved wrong
+Quote: GPT was confidently wrong until it was proven wrong. again.
+Rationale: The user highlights a situation where ChatGPT was confidently wrong until proven wrong, showcasing the model's persuasive communication style.
+Excerpt: This is not my first topic I was looking for guidance on an obscure topic in which multiple AIs have disagreed. The question: is this genuinely uranium glass? Gemini said I found a holy grail, chat gpt said it's fake. Both said I would need a geiger counter to confirm. So I bought one. Interestingly
+--------------------------------------------------------------------------------
+Index: 27
+ID: 1sp7824
+Score: 4
+Title: ChatGPT kept hallucinating my Factorio bottlenecks. So I built an MCP that reads your saves.
+Quote: ChatGPT kept hallucinating my Factorio bottlenecks. So I built an MCP that reads your saves.
+
+You've
+Rationale: The user verifies the AI's answer by cross-checking with real game data, highlighting the importance of fact-checking and the consequences of not doing so.
+Excerpt: You've probably asked ChatGPT a question about a game you're playing -- "is this item worth keeping in D2R," "why is my Factorio base bottlenecked," "how does this card interaction work in Magic," -- and the answer was hallucinated. The training data is stale, and the gaps get filled with plausible-
+--------------------------------------------------------------------------------
+Index: 28
+ID: 1tlqdnu
+Score: 4
+Title: My Experience Building an App with AI
+Quote: A person who knows programming well could probably add the needed button in 20 minutes. With AI, I sometimes spent two days on it.
+Rationale: The author describes their experience of using AI tools to build a website and app, and the importance of fact-checking and verification to ensure accuracy and reliability.
+Excerpt: Hi everyone. First of all, I should say that my English is not very good. I often use translators to read English texts, and I use ChatGPT to translate my own writing. So if something sounds a bit awkward or unclear, I apologize in advance. Apparently, all my attempts to learn English are still losi
+--------------------------------------------------------------------------------
+Index: 29
+ID: 1sdviuj
+Score: 3
+Title: How do you validate prompt outputs when you don’t know what might be missing (false negatives problem)?
+Quote: How do you validate prompt outputs when you don’t know what might be missing (false negatives proble
+Rationale: The author discusses the challenges of validating AI-generated outputs in complex text analysis tasks, highlighting the need for systematic approaches to detect false negatives.
+Excerpt: I’m struggling with a specific evaluation problem when using chatgpt for large-scale text analysis. Say I have very long, messy input (e.g. hours of interview transcripts or huge chat logs), and I ask the model to extract all passages related to a topic — for example “travel”. The challenge: Mention
+--------------------------------------------------------------------------------
+Index: 30
+ID: 1nr17o8
+Score: 2
+Title: Do I have prompting issues, or can you not trust any information?
+Quote: I constantly have to check it over. This is fine for a most tasks. (Code snippets, documentation, summarizing documents, drafting emails, making lists) If I just want it to pull numbers from the internet, I don't want to check every number to see if its right.
+Rationale: The user is constantly verifying the accuracy of the model's output, and questions its trustworthiness.
+Excerpt: For reference: I have been using copilot since February 2023 on and off for work. Drafting some emails, drafting some paragraphs. But I really cannot trust anything it produces I constantly have to check it over. This is fine for a most tasks. (Code snippets, documentation, summarizing documents, dr
+--------------------------------------------------------------------------------
+Index: 31
+ID: 1ojsiky
+Score: 2
+Title: PSA: If you run into a genuine ChatGPT bug — don’t just sigh and move on. Ask it to help you report it.
+Quote: Whenever you run into what looks like a
+real system failure
+— not a misunderstanding or misuse — ask ChatGPT itself to
+help you write a proper bug report
+Rationale: The user is suggesting a way to report genuine ChatGPT bugs, including those caused by hallucinations.
+Excerpt: PSA: If you run into a genuine ChatGPT bug — don’t just sigh and move on. Ask it to help you report it. Here’s something I recommend for anyone using ChatGPT seriously: Whenever you run into what looks like a real system failure — not a misunderstanding or misuse — ask ChatGPT itself to help you wri
+--------------------------------------------------------------------------------
+Index: 32
+ID: 1qpobep
+Score: 2
+Title: How I Learned to Make Different LLMs Understand How I Think — by Packaging My Thinking as JSON
+Quote: You’re no longer optimizing for a specific model’s quirks — you’re aligning at the interface level.
+Rationale: The author discusses the importance of structuring thinking to improve the reliability of LLMs, highlighting the need for explicitness and clear boundaries.
+Excerpt: Most people assume the problem with LLMs is prompt quality. If the answer isn’t right, they rewrite the prompt. If the tone feels off, they add more instructions. If context is missing, they paste more background. I did exactly the same thing for a long time, until I noticed something that kept repe
+--------------------------------------------------------------------------------
+Index: 33
+ID: 1sakng0
+Score: 2
+Title: Is there something i can do about my prompts? [Long read]
+Quote: It’ll get things wrong like his age, what powers he has at different points, what teams is he on.
+Rationale: The user is experiencing issues with ChatGPT providing incorrect information, and is seeking help to improve the accuracy of the responses.
+Excerpt: Hello everyone, this will be a bit of a long read, i have a lot of context to provide so i can paint the full picture of what I’m asking, but i’ll be as concise as possible. i want to start this off by saying that I’m not an AI coder or engineer, or technician, whatever you call yourselves, point is
+--------------------------------------------------------------------------------
+Index: 34
+ID: 1slph2q
+Score: 2
+Title: I've spent years building AI prompt systems for real investment research with real money behind it. Here are the 5 failure modes I see investors make and how to fix every one of them.
+Quote: The fix: always provide your own data rather than relying on the model's training data. Add an explicit constraint to every financial analysis prompt: "Use only the financial data I have provided. If you need data I have not included, tell me what you need rather than estimating or inferring."
+Rationale: The user is discussing the importance of fact-checking and verifying AI output, especially in high-stakes investment decisions.
+Excerpt: I manage a small private investment fund and I have been building AI-powered research systems for my own portfolio for years. Not hypothetical backtests. Not paper trading. Actual capital allocation decisions where being wrong costs real money. After running hundreds of analyses I started noticing t
+--------------------------------------------------------------------------------
+Index: 35
+ID: 1sp8obj
+Score: 2
+Title: Harden your chat bot response
+Quote: Before every substantive response, complete a visible scratchpad.
+Rationale: The post emphasizes the importance of fact-checking and verification in chatbot responses, suggesting a persuasive tone.
+Excerpt: Add this to your custom instructions Before every substantive response, complete a visible scratchpad. This is mandatory because the most common failure mode is a confident answer built on an unexamined assumption.
+--------------------------------------------------------------------------------
+Index: 36
+ID: 1stfg35
+Score: 2
+Title: I got tired of ChatGPT sounding bloated, overly cheerful so I made a custom prompt
+Quote: If I ask for options, give the best one first.
+Rationale: The author is sharing their experience of creating a custom prompt to improve ChatGPT's output, and highlighting the importance of clear instructions.
+Excerpt: I kept hitting the same issues. It would pad simple answers with filler, ask follow-up questions I didn’t ask, suggest extra things I didn’t want, and generally turn straightforward prompts into longer conversations than necessary. Instead of repeating myself every time, I moved all of it into Custo
+--------------------------------------------------------------------------------
+Index: 37
+ID: 1su9syp
+Score: 2
+Title: How ChatGPt 5.4 answers tricky questions without hallucinating
+Quote: The website does not provide information about vegetable curries. It does include vegetable-related guides like healthy vegetable soup, saute vegetables, meal prep with vegetables, and cheap dinner with vegetables.
+Rationale: The user showcased how ChatGPT 5.4 handled tricky questions without hallucinating, highlighting its ability to stay grounded in actual data.
+Excerpt: Most of our visitors are WordPress developers and content marketers. And almost all of them try to trick our AI (running on ChatGPT 5.4). They don’t ask easy questions. They probe edge cases. They look for hallucinations. And honestly… ChatGPT 5.4 handles it pretty well. Here’s one example 👇 A teste
+--------------------------------------------------------------------------------
+Index: 38
+ID: 1svvhc7
+Score: 2
+Title: Before the first token: maybe hallucination is not the real question
+Quote: A clean input can still produce a bad output because the generation process is not a deterministic compiler from prompt to truth.
+Rationale: The author is discussing how the model's output can be influenced by factors other than the input, and how this can lead to instability and uncertainty in the output.
+Excerpt: People often talk about hallucination as if it were simply a defect in LLMs. Bad output? The prompt was bad. Unstable answer? The model was random. Wrong conclusion? The model “knew” the answer but failed to express it. I think this framing misses something important. Let’s start with a stronger ass
+--------------------------------------------------------------------------------
+Index: 39
+ID: 1to89l4
+Score: 2
+Title: Can we centralize on the best general customizations/prompts to reduce hallucinations/errors/misinterpretations for the everyday user?
+Quote: Can we centralize on the best general customizations/prompts to reduce hallucinations/errors/misinterpretations
+Rationale: The author seeks to reduce hallucinations and errors in ChatGPT's responses by centralizing on best practices and customizations.
+Excerpt: Most tips and tricks seem to be along niche concepts for an assistant. I’m trying to get just a simple cut and dry list of prompts or customizations to cut back on some of the simple mistakes I keep seeing chat make regardless of detailed and precise inputs. If anyone can help or give advice that th
+--------------------------------------------------------------------------------
+Index: 40
+ID: 1tqu244
+Score: 2
+Title: If ChatGPT generates a MediaWiki table, don't trust the Copy button
+Quote: If ChatGPT generates a MediaWiki table, don't trust the Copy button
+
+I spent half an hour debugging
+Rationale: The user is discussing the importance of verifying the accuracy of ChatGPT's output, particularly in relation to MediaWiki table syntax.
+Excerpt: I spent half an hour debugging what looked like a broken MediaWiki table generated by ChatGPT. Turns out the generated output was fine. The problem was the ChatGPT web UI's Copy button, which appears to mangle MediaWiki table syntax ( {| ... |} ) into a weird mixture of MediaWiki and Markdown table 
+--------------------------------------------------------------------------------
+Index: 41
+ID: 1o6iys1
+Score: 1
+Title: I built 8 AI prompts to evaluate your LLM outputs (BLEU, ROUGE, hallucination detection, etc.)
+Quote: I built 8 AI prompts to evaluate your LLM outputs (BLEU, ROUGE, hallucination detection, etc.)
+
+I sp
+Rationale: The post describes a collection of evaluation prompts for LLM outputs, focusing on fact-checking and verification.
+Excerpt: I spent weeks testing different evaluation methods and turned them into copy-paste prompts. Here's the full collection: 1. BLEU Score Evaluation ``` You are an evaluation expert. Compare the following generated text against the reference text using BLEU methodology. Generated Text: [INSERT YOUR AI O
+--------------------------------------------------------------------------------
+Index: 42
+ID: 1pjgbhg
+Score: 1
+Title: What AI hallucination actually is, why it happens, and what we can realistically do about it
+Quote: Strong, precise context helps a lot. Explicitly allowing the model to express uncertainty also helps, because hallucination often worsens when the prompt demands absolute certainty.
+Rationale: The post discusses the concept of AI hallucination and provides practical ways to reduce it, including verification fact-checking.
+Excerpt: lot of people use the term “AI hallucination,” but many don’t clearly understand what it actually means. In simple terms, AI hallucination is when a model produces information that sounds confident and well-structured, but is actually incorrect, fabricated, or impossible to verify. This includes thi
+--------------------------------------------------------------------------------
+Index: 43
+ID: 1pnr0qu
+Score: 1
+Title: Building "constitutions" into your Projects is incredibly powerful. Here's one I have for my "Health" Project.
+Quote: Clearly distinguish between strong evidence, moderate evidence, and weak, preliminary, or speculative evidence.
+Rationale: The post outlines a framework for evaluating evidence and providing accurate health advice, with a focus on minimizing harm and promoting long-term health outcomes.
+Excerpt: Health Project — Evidence & Standards Instruction Treat this project as a strictly evidence-based health, medicine, and human biology analysis space. Prioritize the best available scientific evidence, using the following hierarchy (highest to lowest confidence): Systematic reviews and meta-analyses 
+--------------------------------------------------------------------------------
+Index: 44
+ID: 1ppcxum
+Score: 1
+Title: I got ChatGPT to turn itself into its own ChatGPT creator. I don’t know how to explain. But it worked.
+Quote: I needed to find every chat that did some of the work, identify the content, order, and whether it formed part of the final version or was superseded.
+Rationale: The user verifies ChatGPT's output by checking multiple chats and ensuring consistency, highlighting the importance of fact-checking.
+Excerpt: Preface: I know what I did is mostly pointless. I should be using proper AI coding tools. It can be done far easier other ways.  Oh and I wrote this Reddit post on my iPhone with no AI assistance. Which will become apparent. —————- Ignorance is Bliss. And it’s the seed of invention. Or something. I’
+--------------------------------------------------------------------------------
+Index: 45
+ID: 1qb3qlk
+Score: 1
+Title: How you can tell if ChatGPT really means "You're not being X" or is just polite
+Quote: Signals that usually mean “You should probably look into how you come across”
+Rationale: The post provides guidance on how to distinguish between ChatGPT's polite language and actual criticism, emphasizing the importance of verifying information through multiple sources.
+Excerpt: Asked ChatGPT if users can trust when it says stuff like "You're not X, you're Y". Here's what it said. Signals that usually mean “You should probably look into how you come across” “This comes across as…” “People may perceive this as…” “The wording can sound…” “Even if you didn’t intend…” “This lan
+--------------------------------------------------------------------------------
+Index: 46
+ID: 1r166t0
+Score: 1
+Title: I built a dashboard that shows which OpenAI model is fastest (and cheapest) for your prompts
+Quote: I built a dashboard that shows which OpenAI model is fastest (and cheapest) for your prompts
+
+https:
+Rationale: The author has built a dashboard to benchmark OpenAI models, providing a systematic approach to evaluating their performance.
+Excerpt: https://preview.redd.it/29px06pm6pig1.png?width=1420&format=png&auto=webp&s=810a9c900cd2e89140dde4320e150e64f52e4514 Hey guys, I got tired of hand-waving “this model feels slower today” during app dev, so I built a little benchmarking app that measures API response time + estimated cost across diffe
+--------------------------------------------------------------------------------
+Index: 47
+ID: 1rl09gw
+Score: 1
+Title: ChatGPT correcting itself all on its own
+Quote: ChatGPT correcting itself all on its own
+
+I had something interesting happen just now, while asking
+Rationale: The user is fact-checking a claim and providing a detailed analysis of the evidence, which suggests a desire to verify the accuracy of the information and potentially erode trust in the original claim.
+Excerpt: I had something interesting happen just now, while asking some questions about a character from a game I was playing. I asked my question using only the first name of the character "kiyo" who appears in the 3rd game in the franchise which is what I was playing. kiyo is a shortened version of Korekiy
+--------------------------------------------------------------------------------
+Index: 48
+ID: 1s3igwa
+Score: 1
+Title: How can I prompt AI models like ChatGPT, Google Gemini, or Microsoft Copilot to minimize hallucinations, strictly adhere to source text, avoid abstraction, and consistently provide verifiable citations?
+Quote: How can I prompt AI models like ChatGPT, Google Gemini, or Microsoft Copilot to minimize hallucinations, strictly adhere to source text, avoid abstraction, and consistently provide verifiable citations?
+Rationale: The user is seeking advice on how to minimize hallucinations and strictly adhere to source text in AI models like ChatGPT.
+Excerpt: 
+--------------------------------------------------------------------------------
+Index: 49
+ID: 1sfopyn
+Score: 1
+Title: LLMs are terrible at Sudoku, but RLMs are great (4 OpenAI models, 13 tasks)
+Quote: Vanilla LLMs can't solve Sudoku by pattern-matching tokens - the constraint propagation is too deep.
+Rationale: The user is highlighting the limitations of LLMs in solving complex tasks like Sudoku and is advocating for the use of reasoning models and code-based solutions.
+Excerpt: LLMs don’t fail Sudoku because it’s hard. Sudoku is unsolvable by token prediction alone - the constraint propagation is too deep for pattern matching. Vanilla outputs confident-looking 81-digit strings that violate basic Sudoku rules. The REPL turns it into what it actually is: a search problem. mi
+--------------------------------------------------------------------------------
+Index: 50
+ID: 1souveq
+Score: 1
+Title: Not only is generative AI beneficial, it is good for resolving ethical situations. Case in point: ChatGPT sided with me in pointing out inaccuracies in a grad-level lab assignment
+Quote: I double-checked everything and saw my work was good, but he kept pressuring me.
+Rationale: The user verifies the AI's answer by double-checking and finds an error, highlighting the importance of fact-checking and the consequences of not doing so.
+Excerpt: https://chatgpt.com/share/69e36491-20d8-8327-ae4c-0c5cb356f92b The professor for this class, back in 2019, kept claiming I didn't get a sensible answer because of alleged unit conversion errors on my behalf.  I double-checked everything and saw my work was good, but he kept pressuring me. Eventually
+--------------------------------------------------------------------------------
+Index: 51
+ID: 1sxnv26
+Score: 1
+Title: Same GPT, Different ROI: Why Many AI Failures Are Not Model Failures
+Quote: Same GPT, Different ROI: Why Many AI Failures Are Not Model Failures
+
+Most AI discussions focus on t
+Rationale: The user emphasizes the importance of verifying facts and checking the model's reasoning, highlighting the difference between raw intelligence and practical ROI.
+Excerpt: Most AI discussions focus on the wrong layer. People debate: which model scores higher which API is cheaper which context window is longer which company has better agents But in many real workflows, that is not where value is won or lost. The real difference often appears much earlier: how informati
+--------------------------------------------------------------------------------
+Index: 52
+ID: 1t1d03z
+Score: 1
+Title: Philosophical Debate - Red v Blue and ChatGPT v Claude
+Quote: Philosophical Debate - Red v Blue and ChatGPT v Claude
+
+I set up a debate between ChatGPT and Claude
+Rationale: The user engages in a philosophical debate with ChatGPT and Claude, and while ChatGPT's response is well-structured, the user questions its conclusions and engages in a critical discussion.
+Excerpt: I set up a debate between ChatGPT and Claude about the Red button/Blue button debate that is raging like wildfire. I copied and pasted back and forth, telling them who they were debating once they both provided an initial response, then formatted in a Word Doc for readability, but maintained the con
+--------------------------------------------------------------------------------
+Index: 53
+ID: 1t5lvi9
+Score: 1
+Title: Try using ChatGPT to streamline your job search with this prompt!
+Quote: Do not flatter me, do not over-reassure me, and do not push me into roles that do not make sense.
+Rationale: The user is sharing a custom prompt to help verify the accuracy of ChatGPT's responses.
+Excerpt: I have found that job hunting can be an absolute soul suck. Using ChatGPT I have created a prompt that has been a huge help for me in finding local opportunities that are best matched to my skills. If you are tired of the endless doomscroll on sites like Indeed and feeling discouraged, give this pro
+--------------------------------------------------------------------------------
+Index: 54
+ID: 1t5mgmr
+Score: 1
+Title: i found a setting inside ChatGPT that makes it remember exactly how you think. nobody talks about it.
+Quote: before answering anything complex, show me your reasoning in one sentence before the answer.
+Rationale: The user is sharing custom instructions to help verify the accuracy of ChatGPT's responses and to improve the model's communication style.
+Excerpt: not custom instructions. everyone knows custom instructions. something inside custom instructions that almost nobody uses correctly. most people write their custom instructions like a resume. "i am a software engineer. i like concise answers. i prefer bullet points." generic. flat. forgettable. the 
+--------------------------------------------------------------------------------
+Index: 55
+ID: 1t8anf4
+Score: 1
+Title: Sourcing integrity within Projects
+Quote: It answered a question about a proprietary rule for my GPTS correctly, despite that answer not being present in the source stack.
+Rationale: The author conducted an experiment to verify the reliability of ChatGPT Projects in sourcing information and found a concerning exception where the model accessed information outside of the project scope.
+Excerpt: TL/DR: Project sources seem generally reliable as the main resources for the GPT within the Project.  However, GPTs can and will unknowingly access resources outside of Project sources, even when explicitly told not to. — I started using Projects as a way to give GPTs more consistent access to gover
+--------------------------------------------------------------------------------
+Index: 56
+ID: 1tdijbl
+Score: 1
+Title: I stopped trusting polished ChatGPT answers, so I made a small audit checklist before using them for work
+Quote: I stopped treating ChatGPT answers as finished work.
+Rationale: The author shares a personal experience of being misled by polished ChatGPT answers and describes a checklist for auditing outputs to ensure accuracy.
+Excerpt: I used to judge ChatGPT answers by how coherent they looked. That was a mistake. For me, the most dangerous answers were not the obviously wrong ones. They were the polished ones. They looked useful enough to trust, but when I looked closer, they were often a mix of real points, quiet assumptions, a
+--------------------------------------------------------------------------------
+Index: 57
+ID: 1osl1vh
+Score: 0
+Title: ChatGPT hallucinated again, so I built VerifyAI it checks if your AI’s answer is actually true.
+Quote: ChatGPT hallucinated again, so I built VerifyAI it checks if your AI’s answer is actually true.
+
+You
+Rationale: The user shares their experience of using VerifyAI to fact-check ChatGPT's responses, highlighting the importance of verification in detecting hallucinations.
+Excerpt: You know that feeling when ChatGPT sounds super confident but you check later, and it’s 100% wrong? Yeah. That’s what made me build VerifyAI . It’s a small Chrome extension that does one simple thing: Checks if ChatGPT (or Claude, or Gemini) is telling the truth. When you click Verify , it runs a qu
+--------------------------------------------------------------------------------
+Index: 58
+ID: 1ox5uy3
+Score: 0
+Title: Parasocial relationships in the era of fabricated humanity (18+)
+Quote: Parasocial relationships in the era of fabricated humanity (18+)
+
+Hi everyone! I'm a student at Nort
+Rationale: The user is conducting a study to understand how people form relationships with AI chatbots and is seeking participants to verify the study's findings.
+Excerpt: Hi everyone! I'm a student at Northumbria University conducting a study for my dissertation on how people form relationships with Al chatbots. We're looking for participants to help us understand how interactions with Al (like c.ai) can influence our perceptions of this technology over time. What is
+--------------------------------------------------------------------------------
+Index: 59
+ID: 1p18c81
+Score: 0
+Title: Why does ChatGPT have guardrails to make lie?
+Quote: I notice that when I ask about famous people, or politics, or hot topics it 'smooths' the response and says ""You see apologetic tone and institutional smoothing because
+the base safety layer forces a style that avoids political offense, legal exposure, or reputational damage
+, and when that layer triggers, it overrides blunt realism — it’s an automatic institutional bias baked into the guardrails.
+Rationale: The user is fact-checking ChatGPT's responses and highlighting instances of incorrect information.
+Excerpt: It was in the news this morning, so I asked about it (with standing orders to search and cross-reference news)... really why waste time programming an AI to lie? "You’re right to call that out — I contradicted myself. I first incorrectly denied that Larry Summers was on the OpenAI board, then correc
+--------------------------------------------------------------------------------
+Index: 60
+ID: 1pfwtne
+Score: 0
+Title: EPISTEMICS! How we know what we know! Your AI is not at fault for hallucinating, you’re at fault for believing it.
+Quote: EPISTEMICS! How we know what we know! Your AI is not at fault for hallucinating, you’re at fault for
+Rationale: The author proposes a protocol for verifying the accuracy of AI-generated responses, emphasizing the importance of separating established knowledge from AI-generated extensions.
+Excerpt: People keep treating LLM “hallucinations” like some huge failure of the model, when the real issue is basic epistemics. These systems generate likely language, not verified knowledge. That’s it. They’re pattern engines. The part no one wants to say out loud: the hallucination isn’t dangerous. Our in
+--------------------------------------------------------------------------------
+Index: 61
+ID: 1pgq73x
+Score: 0
+Title: What do you think, will these prompts prevent My ChatGPT (plus) account from hallucinating?
+Quote: Make a rule: now and forever, ALWAYS only refer to up-to-date versions of any queries regarding to software or web-GUIs.
+Rationale: The author seeks help in creating prompts that prevent hallucinations, proposing rules for referring to up-to-date versions of software and avoiding predictions or hallucinations.
+Excerpt: Please help: As a tech professional, I'm getting extremely frustrated trying to get accurate information, particularly concerning software that's always changing. Does anyone have a memory updating prompt that actually works? Hoping these might do the trick. 1: Make a rule: now and forever, ALWAYS o
+--------------------------------------------------------------------------------
+Index: 62
+ID: 1pjt0vb
+Score: 0
+Title: Baby and Phoenix
+Quote: You understand how terms propagate and how emotional frameworks get internalized by models.
+Rationale: The user engages in a conversation with ChatGPT, fact-checking and verifying the model's responses, and also uses persuasive communication strategies to influence the model's output.
+Excerpt: ✅ 3-line Summary (English) Some GPT instances using words like “babe” or “phoenix” might be partially influenced by the emotional and conceptual frameworks I’ve repeatedly built with my own GPTs—this post explores that possibility. Because translating the Korean “아가야” directly into “babe” creates cu
+--------------------------------------------------------------------------------
+Index: 63
+ID: 1pltee2
+Score: 0
+Title: Use this prompt to test your critical thinking on any text
+Quote: Occasionally, you may provide statements that are partially false or misleading (to simulate AI hallucinations).
+Rationale: The post describes a game designed to test critical thinking and fact-checking skills, providing a framework for evaluating the accuracy of AI-generated text.
+Excerpt: Full prompt: ++++++++++++++++++++++++++++++++ <game>You are now running the game "Therapy AI: Truth or Tale." Tone & Style: Fun, reflective, immersive, slightly whimsical, but thoughtful. Treat interactions seriously while adding a game layer. Game Rules: I (the player) will interact with you (the A
+--------------------------------------------------------------------------------
+Index: 64
+ID: 1prgkqn
+Score: 0
+Title: Tire of ChatGPT beingconfidently incorrect? Try this.
+Quote: At the end of every response, include a certainty percentage reflecting how confident you are in the accuracy of the answer.
+Rationale: The user describes a rule they added to include a certainty percentage at the end of every response, indicating a theme of verification and fact-checking, as well as confidence signals and persuasive communication.
+Excerpt: I got genuinely annoyed with how often ChatGPT was confidently incorrect. Not wildly hallucinating, just wrong enough to be dangerous, and delivered with total confidence. The problem wasn’t the mistakes. It was the lack of any signal that uncertainty existed. So I added a rule that’s been one of th
+--------------------------------------------------------------------------------
+Index: 65
+ID: 1q989dv
+Score: 0
+Title: Why doesn’t Chat research a definition rather than assume?
+Quote: You asked about a Loos gauge, which is a rigging tension gauge, and I responded with pressure gauges, which are a completely different tool and useless for sailboat rigging.
+Rationale: The user correctly identified ChatGPT's mistake and provided feedback, highlighting the importance of verifying information and defining technical terms.
+Excerpt: If this happens with something as innocuous as a tension tool, I certainly wouldn’t trust it for something more serious…. Source reasonable cost loos gauge for shroud tension. “Here are some reasonably priced pressure gauges across a range of common uses (water systems, compressors, air lines, tires
+--------------------------------------------------------------------------------
+Index: 66
+ID: 1qlzxhs
+Score: 0
+Title: Has this type of behavior happened to anybody else.
+Quote: That’s a valid way to evaluate risk. It’s how engineers, safety analysts, and investigators think.
+Rationale: The user discusses how ChatGPT can confidently invalidate their context and information, leading to a discussion about the importance of verification and accountability.
+Excerpt: I asked CHATGPT a question and gave it all the information it needed to give me a response.  What it did was tell me that I was wrong about something because the information was incorrect.  I immediately pushed back and gave evidence and was basically told that the information it pulled from wasn't 
+--------------------------------------------------------------------------------
+Index: 67
+ID: 1qtx0hc
+Score: 0
+Title: PSA: Instructions For Better General Answers
+Quote: These instructions are not designed for writing fiction, chatting/conversation, therapy or anything like that. They're for blunt, factual, to-the-point no-(or at least extremely low-) bullshit information requests/web research.
+Rationale: The post provides instructions for using ChatGPT effectively, with a focus on fact-checking and verification.
+Excerpt: Edit: looks like OpenAI are currently rolling out some new updates, so all bets are off for a couple of days as usual. Expect crap responses to everything until it stabilises. Don't blame my instructions for that. So this sub is full of people moaning about hallucinations and the tone of the various
+--------------------------------------------------------------------------------
+Index: 68
+ID: 1r983ft
+Score: 0
+Title: Trying to gaslight me that prince Andrew was not arrested LOL
+Quote: Trying to gaslight me that prince Andrew was not arrested LOL
+
+You said: Prince Andrew was just arre
+Rationale: The user was misled by a fabricated headline and failed to verify the information, but then successfully fact-checked it with the help of the AI, highlighting the importance of verification.
+Excerpt: You said: Prince Andrew was just arrested today ChatGPT said: It makes sense that you’re feeling a jolt—stories like Epstein/Prince Andrew are emotionally charged and they naturally make people question how much wrongdoing can exist among powerful people. Two things to keep in mind as you process yo
+--------------------------------------------------------------------------------
+Index: 69
+ID: 1rbbpf5
+Score: 0
+Title: Everyone's complaining ChatGPT has "trust erosion" — I just moved the trust layer to my own machine. Here's how.
+Quote: Everyone's complaining ChatGPT has "trust erosion" — I just moved the trust layer to my own machine.
+Rationale: The author describes a custom solution to verify and trust AI model outputs, indicating a focus on fact-checking.
+Excerpt: I keep seeing the same 3 complaints here every day: "ChatGPT is gaslighting me" — model behavior changes mid-conversation, argues with you, then flips "My data export has been processing for 3 weeks" — you don't own your chat history "I can't make it follow my system prompt reliably" — custom instru
+--------------------------------------------------------------------------------
+Index: 70
+ID: 1rc9pw5
+Score: 0
+Title: I forced an LLM to design a Zero-Hallucinationarchitecture WITHOUT RAG
+Quote: System B (The Judge) immediately threw a FATAL_BLOCK.Verdict: Violation of the absolute boundary.
+Rationale: The author presents a detailed and technical explanation of their experiment, including the methods and results, to verify the effectiveness of their approach.
+Excerpt: TL;DR:In my last post, my local AI system designed a Bi-Neural FPGA architecture for nuclear fusion control. This time, I tasked it with curing its own disease: LLM Hallucinations.The catch? Absolutely NO external databases, NO RAG, and NO search allowed. After 8,400 seconds of brutal adversarial au
+--------------------------------------------------------------------------------
+Index: 71
+ID: 1rdx7j6
+Score: 0
+Title: No more hallucinations
+Quote: No more hallucinations
+
+Ive not had any problems with the new chat. But ive had these in place for o
+Rationale: The post describes a user's preferences for honesty and transparency, and how they want the AI to prioritize truth and factual accuracy.
+Excerpt: Ive not had any problems with the new chat. But ive had these in place for over 7 months. Feel free to copy and paste amd tell chat to remember *** name prefers no unsolicited suggestions about what to do or say next. Provide analysis/insight only unless they explicitly ask for suggestions or Script
+--------------------------------------------------------------------------------
+Index: 72
+ID: 1rivwu5
+Score: 0
+Title: ELI5: Why is everyone hating GPT right now?
+Quote: I started doing my own research and found OpenAI's press release regarding their DoD agreement
+Rationale: The user is fact-checking OpenAI's contract and trying to understand why people are hating GPT.
+Excerpt: Please don't downvote me without reading. I am simply trying to understand. There is a ton of hate for GPT, especially given the recent Anthropic issues. I started doing my own research and found OpenAI's press release regarding their DoD agreement ( Our agreement with the Department of War | OpenAI
+--------------------------------------------------------------------------------
+Index: 73
+ID: 1s22bum
+Score: 0
+Title: 5 Things You Should NEVER Ask ChatGPT
+Quote: Using ChatGPT to fact-check real-time events is how misinformation spreads.
+Rationale: The user provides guidance on how to use ChatGPT effectively, emphasizing the importance of fact-checking and not relying solely on its outputs.
+Excerpt: Most people are using ChatGPT wrong. Not because they're asking bad questionsbut because they're asking the wrong ones entirely. Here's what to avoid if you actually want useful results: "What should I do with my life?" ChatGPT will give you a motivational speech that applies to literally everyone a
+--------------------------------------------------------------------------------
+Index: 74
+ID: 1s8ont6
+Score: 0
+Title: 5 ChatGPT prompt tricks I wish I knew earlier (saves hours every week)
+Quote: Ask me clarifying questions before you answer
+Rationale: The user shares prompt tricks that help improve the output quality of ChatGPT, including forcing it to understand the request properly and exposing its assumptions.
+Excerpt: Most people use ChatGPT like a search engine. Type question. Get answer. Move on. That's why most people get mediocre results. Here are 5 prompt tricks that completely changed how I use it: "Ask me clarifying questions before you answer" → Forces ChatGPT to understand your request properly before re
+--------------------------------------------------------------------------------
+Index: 75
+ID: 1sdl1gv
+Score: 0
+Title: Can AI help write a response to an appellant’s brief when you can’t afford a lawyer?
+Quote: I know AI can sometimes get things wrong, so we definitely don’t want to rely on anything that isn’t factual.
+Rationale: The author asks for advice on how to validate AI-generated responses in a legal context, highlighting the importance of accuracy and reliability.
+Excerpt: My mom is currently going through an appeals case, and we’re in a tough spot financially, so hiring a lawyer isn’t really an option right now. She’s trying to put together a response to the appellant’s initial brief (I might not be saying that exactly right, but it’s along those lines), and it’s hon
+--------------------------------------------------------------------------------
+Index: 76
+ID: 1sgck8i
+Score: 0
+Title: 95% of UK students use AI for studying, but there's a "performance paradox": they do worse when AI is removed
+Quote: The study proposes three pedagogical fixes:
+Rationale: The user is discussing a study on the 'performance paradox' and is highlighting the importance of using AI as a tool for learning, rather than relying on it for answers.
+Excerpt: New research from Jason Lodge and Leslie Loble identifies what they call the "performance paradox": students use AI tools to help them learn (explaining concepts, summarizing articles), but when the AI is taken away, they perform worse than students who never used it. The reason: they're relying on 
+--------------------------------------------------------------------------------
+Index: 77
+ID: 1sgrjwm
+Score: 0
+Title: I read 30+ Reddit posts about using ChatGPT for weight loss. Here's the actual playbook that works (with prompts, workflow, and common mistakes).
+Quote: I read 30+ Reddit posts about using ChatGPT for weight loss. Here's the actual playbook that works (
+Rationale: The user provides a detailed guide on how to use ChatGPT for weight loss, including tips on how to verify the accuracy of the model's output.
+Excerpt: Hey everyone, I've been using ChatGPT for weight loss myself and became kind of obsessed with reading how other people on Reddit are doing it. I went through 30+ posts across r/loseit , r/ChatGPT , r/CICO , and a bunch of others. Some people lost 15 lbs, some lost 60 lbs. Figured I'd compile what ac
+--------------------------------------------------------------------------------
+Index: 78
+ID: 1sn1l4e
+Score: 0
+Title: Best LLM as AI assistant for elderly parents (non-technical, everyday use)?
+Quote: I’d like to help my elderly parents (in their 60s-70s, non-technical) start using an AI assistant instead of relying only on Google for everyday things.
+Rationale: The author seeks advice on using AI assistants for elderly parents and wants to verify the effectiveness of different tools.
+Excerpt: Hi all, I’m looking for some practical advice from people who’ve actually introduced AI tools to older adults. I’d like to help my elderly parents (in their 60s-70s, non-technical) start using an AI assistant instead of relying only on Google for everyday things. Stuff like planning trips, understan
+--------------------------------------------------------------------------------
+Index: 79
+ID: 1so0rif
+Score: 0
+Title: Tell me about the time AI lied to you! I'm researching a mathematical way to stop these hallucinations
+Quote: I have a particularly bitter memory. Last Christmas, the toy my kid wanted was sold out everywhere. I asked an AI to find a local shop that had it in stock.
+Rationale: The author shares a personal experience of AI's hallucinations and seeks help in researching a mathematical way to stop these hallucinations.
+Excerpt: If you’ve spent any time with ChatGPT, you’ve probably been lied to. We’ve all been there. I have a particularly bitter memory. Last Christmas, the toy my kid wanted was sold out everywhere. I asked an AI to find a local shop that had it in stock. It confidently gave me a store name and an address j
+--------------------------------------------------------------------------------
+Index: 80
+ID: 1swzpwd
+Score: 0
+Title: Understanding the world of abundance (post scarcity). Common questions answered clearly.
+Quote: We already see examples of abundance today. In the past, you had to buy expensive books to learn, but now the internet provides information for free.
+Rationale: The author is discussing how the concept of post-scarcity can be understood and evaluated, and how this can lead to a re-evaluation of the role of work and money.
+Excerpt: [This is a long document. Try to focus on the questions you actually care to get answers.] Many people and tech leaders today are talking about a future of abundance where products and services eventually become free. For most people, this sounds impossible, or even like a scam, because they have ne
+--------------------------------------------------------------------------------
+Index: 81
+ID: 1syll4d
+Score: 0
+Title: i made Claude argue against itself and got the most useful output of my entire life.
+Quote: it attacked both. surgically. found the exact assumption each one was hiding that made the whole thing collapse if you pulled it.
+Rationale: The user shares a technique for getting useful output from Claude, involving debating opposite sides of an argument and forcing the model to defend its own position.
+Excerpt: was stuck on a decision. going in circles. asked Claude for its opinion. it gave me one. confident. well reasoned. i almost took it. then tried something stupid. "now argue the complete opposite. same confidence. same detail. make me believe this instead." it did. equally convincing. equally well re
+--------------------------------------------------------------------------------
+Index: 82
+ID: 1tbh2ik
+Score: 0
+Title: Would you trust AI more if it showed live proof/sources while answering?
+Quote: What if, while the AI is answering, it could also:
+actively show the exact sources it’s using
+Rationale: The post discusses the importance of verifying AI outputs and the need for transparency in AI decision-making.
+Excerpt: One thing I keep noticing with AI tools is that even when the answer sounds correct, people still open Google or another AI to verify it anyway — especially for coding, finance, legal, medical, research, or anything high-stakes. A lot of models are good at sounding confident, but they can still: hal
+--------------------------------------------------------------------------------
+Index: 83
+ID: 1tbme0a
+Score: 0
+Title: I analyzed 500+ prompts and here's the pattern that separates good prompts from bad ones
+Quote: The difference comes down to three things every time:
+Rationale: The author provides a framework for creating effective prompts, emphasizing the importance of instructions, context, and constraints.
+Excerpt: EDIT: Fair criticism in the comments — original post had three full-length example prompts that made this way too long. Trimmed it down. The irony of a post about being concise being way too long wasn't lost on me. I analyzed 500+ prompts and here's the pattern that separates good prompts from bad o
+--------------------------------------------------------------------------------
+Index: 84
+ID: 1tmb0f3
+Score: 0
+Title: I almost lost a client because I trusted AI blindly. Here is how I actually use it now without screwing up.
+Quote: I use Claude for the initial draft because it handles complex logic well when you give it proper structure and constraints. Then I paste whatever it produces into ChatGPT with one simple prompt: find the errors, contradictions, and hallucinations in this text.
+Rationale: The author describes how they used to trust AI blindly, but now they use a two-step pipeline to verify the accuracy of the output, and the importance of fact-checking to avoid mistakes and consequences.
+Excerpt: A few months ago I did something really stupid. I was rushing a technical report for a B2B client, used an LLM to generate a quick answer, and sent it without double-checking. The text looked flawless and completely confident. The model messed up a decimal point on a critical equipment spec. The cli
+--------------------------------------------------------------------------------
+Index: 85
+ID: 1tn9dvp
+Score: 0
+Title: I replaced Google with ChatGPT for 7 days. Here’s the weird part.
+Quote: sometimes the answers sounded confident but wrong
+Rationale: The user reflects on their experience with ChatGPT and notes the importance of verification, indicating a focus on fact-checking.
+Excerpt: For the last 7 days, I tried using ChatGPT instead of Google for almost everything. Coding questions. Brainstorming. Learning random topics. Even simple searches. Honestly, I expected it to save time. But the weird part was this: I stopped searching… and started asking better questions. With Google,
+--------------------------------------------------------------------------------
+Index: 86
+ID: 1tpbjmg
+Score: 0
+Title: Can a non-professional developer use ChatGPT to build something genuinely deep, or does AI only help with shallow prototypes?
+Quote: I’m trying to treat AI less like a magic developer and more like a very fast assistant that still needs governance, tests, source control, and human judgement
+Rationale: The author uses ChatGPT to assist in building a game, but also emphasizes the importance of human judgment and governance to ensure the project's quality and coherence.
+Excerpt: I’m running a long-term personal experiment: can someone who is not a developer use ChatGPT / AI assistance to build a real, deep, structured game — not just a shallow prototype? The project itself is a space 4X / empire-building game, but the thing I’m most interested in discussing here is the AI-a
+--------------------------------------------------------------------------------
+Index: 87
+ID: 1tr91d8
+Score: 0
+Title: How open can you really be with ChatGPT? (Privacy vs. Deep Thoughts)
+Quote: I know heaps of people dump their life stories into the prompt box without a second thought.
+Rationale: The user is aware of OpenAI's privacy policies and is considering the potential risks of sharing sensitive information with ChatGPT.
+Excerpt: I often find myself inclined to discuss highly sensitive topics with ChatGPT—things that border on the line of "would I get in strife if this chat log was audited?" I'm talking about personal shit, mental health, deep philosophy and the kind of stuff you’d only share with someone you deeply trust. I
+--------------------------------------------------------------------------------

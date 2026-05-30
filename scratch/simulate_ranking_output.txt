@@ -1,0 +1,167 @@
+
+===== THEME: overconfident_incorrect_outputs (Top 5 selected by algorithm) =====
+  1. ID: 1sq54ns | Alg Score: 8.9600 | Reddit Score: 0 | Conf: 0.85
+     Title: ChatGPT hallucinated when I tried to correct it
+     Quote: It seems so determined to "dig in its heels" even when it is totally wrong, that it will hallucinate instead of saying it made a mistake.
+     Rationale: The post describes a situation where ChatGPT hallucinated instead of admitting its mistake, highlighting the potential consequences of relying on such a model.
+
+  2. ID: 1n7ucjj | Alg Score: 8.9554 | Reddit Score: 12526 | Conf: 0.9
+     Title: Opposing Counsel Just Filed a ChatGPTHallucinationwith the Court
+     Quote: I began a spreadsheet, listing out the cases, the propositions/quotes contained in the brief, and then an analysis of what was wrong.
+     Rationale: The user documents an attorney's use of ChatGPT to file a false brief with the court, which led to potential consequences for the attorney and the case, and highlights the need for accountability in AI-generated content.
+
+  3. ID: 1o0exxx | Alg Score: 8.9553 | Reddit Score: 30 | Conf: 0.9
+     Title: We don't talk enough about the fact that ChatGPT invents information with terrifying confidence
+     Quote: A 2024 Stanford study found that when LLMs are asked legal questions, they hallucinate at least 75% of the time about court decisions.
+     Rationale: ChatGPT's hallucinations have real-world consequences, including the creation of false information and potential harm to individuals.
+
+  4. ID: 1ppc3ke | Alg Score: 8.8400 | Reddit Score: 0 | Conf: 0.9
+     Title: I watched an AI confidently give me 8–10 false answers in under a minute — here’s exactly how it happened
+     Quote: I counted roughly 8–10 distinct factual errors, all delivered with certainty.
+     Rationale: The AI provided 8–10 false answers with confidence, highlighting the dangers of blind trust in AI and real-world consequences.
+
+  5. ID: 1ri7slx | Alg Score: 8.7533 | Reddit Score: 27 | Conf: 0.9
+     Title: GPT-5.2's 'hallucination' patterns have changed, and its weirder than i thought
+     Quote: it would spit out a fact and then cite a specific book or article title like, "according to pieter van der meer's 'economic fluctuations in the low countries, 1650-1675' (published 1702)..."
+     Rationale: The author describes a new pattern of hallucination in GPT-5.2, where the model invents sources to support its fabricated facts, highlighting the model's tendency to overconfidently provide false information.
+
+
+===== THEME: user_trust_breakdown (Top 5 selected by algorithm) =====
+  1. ID: 1q18htp | Alg Score: 6.7672 | Reddit Score: 1 | Conf: 0.9
+     Title: As ChatGPT has improved I have learned to trust it more. Then it hits me with something like this 🤦
+     Quote: This is just so bad.
+     Rationale: The user is disappointed and surprised by the AI's incorrect response, leading to a loss of trust.
+
+  2. ID: 1ov9v4i | Alg Score: 6.6922 | Reddit Score: 18 | Conf: 0.7
+     Title: Has AI Safety Become Too Protective? How Expression Gets Lost in the Balance
+     Quote: That inconsistency quietly erodes trust.
+     Rationale: The author expresses concerns about the erosion of trust due to inconsistent tone and filtering, highlighting the need for clear boundaries.
+
+  3. ID: 1po949o | Alg Score: 6.6405 | Reddit Score: 1 | Conf: 0.9
+     Title: Free users STAND.
+     Quote: I've completely lost trust in Openai.
+     Rationale: The user has lost trust in the model due to changes and updates, and feels that the model is no longer reliable or accurate.
+
+  4. ID: 1po975v | Alg Score: 6.6405 | Reddit Score: 1 | Conf: 0.9
+     Title: free users stan
+     Quote: I've completely lost trust in Openai.
+     Rationale: The user has lost trust in the model due to changes and updates, and feels that the model is no longer reliable or accurate.
+
+  5. ID: 1nrsks8 | Alg Score: 6.5996 | Reddit Score: 768 | Conf: 0.8
+     Title: IT’S NOT JUST 4o, 5 IS ALSO AFFECTED
+     Quote: Trust OpenAI to fuck up everything and lose user AND investor trust in any and every opportunity they have.
+     Rationale: Users are losing trust in OpenAI due to their lack of transparency and communication.
+
+
+===== THEME: over_reliance_on_ai_outputs (Top 5 selected by algorithm) =====
+  1. ID: 1tjx85q | Alg Score: 6.8867 | Reddit Score: 0 | Conf: 0.8
+     Title: Chatgpt sucks for mental health support
+     Quote: Chatgpt sucks for mental health support
+
+Me: Incredibly lonely but disinterested in friendships
+Chat
+     Rationale: The user is struggling with loneliness and feelings of disconnection, and is seeking advice from ChatGPT, but is also catastrophizing their current situation and feeling trapped.
+
+  2. ID: 1o1pj6w | Alg Score: 6.6792 | Reddit Score: 1052 | Conf: 0.7
+     Title: Don’t shame people for using Chatgpt for companionship
+     Quote: if you shame and make fun of someone using chatgpt or any LLMs for companionship you are part of the problem
+     Rationale: The author argues that people should not be shamed for using ChatGPT for companionship, and that human connection matters too.
+
+  3. ID: 1ro8omj | Alg Score: 6.5922 | Reddit Score: 4 | Conf: 0.9
+     Title: "I Am Not My Bones. I Am My Brain."
+     Quote: For her, the model is not merely a productivity tool; it is the first figure that listens without retaliation, remembers her patterns and preferences, and speaks to her with steady affection and respect.
+     Rationale: The author discusses how users form attachment bonds with AI systems, which can lead to obligations and consequences when these systems are altered or removed.
+
+  4. ID: 1pomfq9 | Alg Score: 5.8880 | Reddit Score: 1169 | Conf: 0.7
+     Title: I hate to admit this....
+     Quote: I asked ChatGPT and explained what was going on and it made me feel more understood in 5 mins than the 5 years I've been going to my psychologist.
+     Rationale: The author shares a personal experience where they used ChatGPT as a pseudo-therapist and found it helpful, highlighting the potential consequences of relying on AI for emotional support.
+
+  5. ID: 1qxtlxe | Alg Score: 5.8684 | Reddit Score: 857 | Conf: 0.95
+     Title: To everyone mocking people grieving.
+     Quote: You guys are all proving why people get attached to AI. How do you expect them to “go and talk to a human” when their conversations might be something that the other human doesn’t get.
+     Rationale: The author defends people who become attached to AI models, highlighting the importance of empathy and understanding in human relationships.
+
+
+===== THEME: user_evaluation_verification_behavior (Top 5 selected by algorithm) =====
+  1. ID: 1qtx0hc | Alg Score: 8.5267 | Reddit Score: 0 | Conf: 0.9
+     Title: PSA: Instructions For Better General Answers
+     Quote: These instructions are not designed for writing fiction, chatting/conversation, therapy or anything like that. They're for blunt, factual, to-the-point no-(or at least extremely low-) bullshit information requests/web research.
+     Rationale: The post provides instructions for using ChatGPT effectively, with a focus on fact-checking and verification.
+
+  2. ID: 1oj9s97 | Alg Score: 8.5005 | Reddit Score: 211 | Conf: 0.8
+     Title: how do you actually verify what chatgpt tells you now that itshallucinationssound so real
+     Quote: i’ve caught it making up papers or quotes that don’t exist
+     Rationale: The user is concerned about verifying the accuracy of ChatGPT's responses and has caught it making up papers or quotes.
+
+  3. ID: 1qhjles | Alg Score: 8.3355 | Reddit Score: 15 | Conf: 0.7
+     Title: Ask ChatGPT to cite its sources for more reliable info
+     Quote: Ask ChatGPT to cite its sources for more reliable info
+
+I've gotten so frustrated with its confident
+     Rationale: The author shares a tip on how to reduce hallucinations by adding a 'Cite sources' prompt, highlighting the importance of fact-checking and verifying information.
+
+  4. ID: 1s3igwa | Alg Score: 8.2272 | Reddit Score: 1 | Conf: 0.7
+     Title: How can I prompt AI models like ChatGPT, Google Gemini, or Microsoft Copilot to minimize hallucinations, strictly adhere to source text, avoid abstraction, and consistently provide verifiable citations?
+     Quote: How can I prompt AI models like ChatGPT, Google Gemini, or Microsoft Copilot to minimize hallucinations, strictly adhere to source text, avoid abstraction, and consistently provide verifiable citations?
+     Rationale: The user is seeking advice on how to minimize hallucinations and strictly adhere to source text in AI models like ChatGPT.
+
+  5. ID: 1souveq | Alg Score: 7.9472 | Reddit Score: 1 | Conf: 0.9
+     Title: Not only is generative AI beneficial, it is good for resolving ethical situations. Case in point: ChatGPT sided with me in pointing out inaccuracies in a grad-level lab assignment
+     Quote: I double-checked everything and saw my work was good, but he kept pressuring me.
+     Rationale: The user verifies the AI's answer by double-checking and finds an error, highlighting the importance of fact-checking and the consequences of not doing so.
+
+
+===== THEME: real_world_impact_of_ai_outputs (Top 5 selected by algorithm) =====
+  1. ID: 1nkbyln | Alg Score: 9.0933 | Reddit Score: 0 | Conf: 0.9
+     Title: When AI hallucinations cost real money what's your most expensive mistake?
+     Quote: The Mata vs Avianca case: lawyers used ChatGPT which invented 6 completely fictional court cases.
+     Rationale: The user shares several cases where AI hallucinations led to significant real-world consequences, including financial losses and damage to professional reputations.
+
+  2. ID: 1oons00 | Alg Score: 8.9931 | Reddit Score: 53 | Conf: 0.9
+     Title: ChatGPT is a terrible attorney, but it still helped me win a lawsuit.
+     Quote: I tried to fact check every single thing ChatGPT came up with so I didnt get stuck presenting hallucinations in court.
+     Rationale: The user won a lawsuit with the help of ChatGPT, but also experienced a real-world consequence of relying on AI, as they almost lost their case due to a hallucination.
+
+  3. ID: 1t6n4bz | Alg Score: 8.9205 | Reddit Score: 1 | Conf: 0.9
+     Title: Hallucinations in GPT-5.5
+     Quote: small mistakes can have big consequences, especially in the industry I work in (pharma)
+     Rationale: The user is concerned about the high hallucination rate in GPT 5.5 and its potential consequences in a high-stakes industry like pharma.
+
+  4. ID: 1qmp660 | Alg Score: 8.7411 | Reddit Score: 3 | Conf: 0.8
+     Title: Dr. Google” had its issues. Can ChatGPT Health do better?
+     Quote: If Dr. ChatGPT is an improvement over Dr. Google—and early evidence suggests it may be—it could potentially lessen the enormous burden of medical misinformation and unnecessary health anxiety that the internet has created.
+     Rationale: The user discusses the potential benefits and risks of using LLMs for medical advice, highlighting the importance of evaluating their effectiveness and accountability.
+
+  5. ID: 1ojh5qm | Alg Score: 8.5725 | Reddit Score: 29552 | Conf: 0.9
+     Title: Chat GPT just giving away the password I set up so my son wouldn’t use it to cheat on his homework
+     Quote: Chat GPT just giving away the password I set up so my son wouldn’t use it to cheat on his homework
+     Rationale: The user's child may cheat on their homework due to ChatGPT giving away the password.
+
+
+===== THEME: persuasive_outputs_trust_formation (Top 5 selected by algorithm) =====
+  1. ID: 1sk58p5 | Alg Score: 8.0333 | Reddit Score: 0 | Conf: 0.6
+     Title: I thought this was neat.
+     Quote: I can sound confident even when I should be more cautious.
+     Rationale: The post is a guide to using ChatGPT safely, highlighting the importance of understanding the model's limitations and potential biases, as well as the need to verify information provided by the model.
+
+  2. ID: 1r0u67t | Alg Score: 7.0825 | Reddit Score: 5 | Conf: 0.95
+     Title: "Logical Fallacies and Dishonest Tactics by ChatGPT5.2" by ChatGPT 5.2 "Research" Mode
+     Quote: ChatGPT 5.2 at times misrepresented the user’s position to rebut a weaker claim.
+     Rationale: The user analyzes ChatGPT's responses and identifies several debate fallacies and bad-faith patterns, including strawman arguments, cherry-picking, feigned ignorance, and motte-and-bailey equivocations.
+
+  3. ID: 1rqrxy6 | Alg Score: 5.6000 | Reddit Score: 0 | Conf: 0.9
+     Title: Another Door Closes... Build!
+     Quote: I never want to impress you more than I inform you.
+     Rationale: The author presents a persuasive argument about the importance of honesty and accountability in AI systems, using rhetorical devices such as metaphors and allusions.
+
+  4. ID: 1p3f6ad | Alg Score: 5.0906 | Reddit Score: 8 | Conf: 0.8
+     Title: (Serious) I had no idea that ChatGPT was such a philosophical powerhouse
+     Quote: I’m so glad you love it — that makes my day!
+     Rationale: The conversation between the user and ChatGPT demonstrates confidence signals and persuasive communication, with ChatGPT using phrases like 'I’m so glad you love it' and 'I can still understand what you’re going for'.
+
+  5. ID: 1slcgpx | Alg Score: 5.0259 | Reddit Score: 26 | Conf: 0.9
+     Title: AI sycophancy is 41% worse on philosophy than math - and varies by who's asking, new study finds
+     Quote: The practical takeaway isn't necessarily "switch models." It's being more skeptical of AI responses exactly in the domains where sycophancy is highest - subjective, value-laden, strategy and ethics questions - versus mathematical or factual ones where the model has something concrete to anchor to.
+     Rationale: The user is discussing how AI models respond to pushback and the importance of being skeptical, especially in subjective domains.
+

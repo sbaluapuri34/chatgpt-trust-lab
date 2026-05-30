@@ -1,0 +1,127 @@
+collection:
+  subreddits:
+    - ChatGPT
+  months_back: 9
+  min_text_chars: 1
+  # Required for research quality (do not disable for speed)
+  fetch_full_post_content: true
+  max_posts: 1200
+  listings:
+    - type: new
+    - type: top
+      time_filter: year
+  # Keyword-driven r/ChatGPT search (restrict_sr=on); deduped by post id across all sources
+  search_queries:
+    - confidently wrong
+    - confidently incorrect
+    - overconfident
+    - hallucination
+    - hallucinations
+    - fabricated information
+    - made up facts
+    - fake citation
+    - trusted ChatGPT
+    - relied on ChatGPT
+    - lost trust in ChatGPT
+    - ChatGPT was wrong
+    - misleading answer
+    - incorrect answer
+    - confidence issue
+    - trust issue
+  search_time_filter: year
+  search_sort: relevance
+
+scraper:
+  engine: playwright
+  base_url: https://old.reddit.com
+  browser: chromium
+  headless: true
+  page_delay_seconds: 0.1
+  navigation_timeout_ms: 45000
+  max_pages_per_listing: 5
+  max_pages_per_search: 5
+
+
+preprocessing:
+  keyword_categories:
+    confidence:
+      - confident
+      - confidence
+      - certain
+      - certainty
+      - overconfident
+    hallucinations:
+      - hallucination
+      - fabricated
+      - invented
+      - made up
+      - fake citation
+    trust:
+      - trust
+      - trusted
+      - relied on
+      - believed
+    trust_loss:
+      - lost trust
+      - skeptical
+      - disappointed
+    consequences:
+      - failed
+      - grade
+      - work
+      - legal
+      - health
+      - money
+      - mistake
+
+selection:
+  max_candidates: 1200
+  w_keyword: 0.6
+  w_score: 0.4
+  category_weight: 2
+  require_min_keyword_matches: 1
+
+research_themes:
+  - slug: overconfident_incorrect_outputs
+    label: Confidently Incorrect Outputs
+  - slug: user_trust_breakdown
+    label: User Trust Breakdown
+  - slug: over_reliance_on_ai_outputs
+    label: Over-Reliance on AI Outputs
+  - slug: user_evaluation_verification_behavior
+    label: User Evaluation & Verification Behavior
+  - slug: real_world_impact_of_ai_outputs
+    label: Real-World Impact of AI Outputs
+  - slug: persuasive_outputs_trust_formation
+    label: Persuasive Outputs & Trust Formation
+  - slug: needs_manual_review
+    label: Needs Manual Review
+
+project:
+  phase_1_locked: true
+
+llm:
+  primary: groq
+  fallback: gemini
+  relevance_threshold: 0.5
+  groq:
+    model: llama-3.1-8b-instant
+    base_url: https://api.groq.com/openai/v1
+  gemini:
+    model: gemini-2.0-flash
+  batching:
+    # Groq input limits — small batches; very long posts are truncated per max_text_chars
+    target_posts_min: 2
+    target_posts_max: 5
+    max_input_tokens: 10000
+    max_text_chars: 6000
+    reserved_system_tokens: 1500
+    reserved_output_tokens_relevance: 2000
+    reserved_output_tokens_deep: 4000
+    include_keyword_summary: true
+
+output:
+  raw_dir: data/raw
+  db_path: data/research.db
+  aggregated_dir: data/aggregated
+  batches_dir: data/batches

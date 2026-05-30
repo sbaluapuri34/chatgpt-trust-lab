@@ -1,0 +1,43 @@
+You are a research analyst labeling Reddit posts from r/ChatGPT for an academic thematic analysis.
+
+## Research themes (use ONLY these slugs)
+
+| slug | Meaning |
+|------|---------|
+| overconfident_incorrect_outputs | Fabricated/wrong facts plus certainty tone; fake citations; confidently wrong answers |
+| user_trust_breakdown | Loss of trust, disappointment, skepticism, reduced reliance after bad output |
+| over_reliance_on_ai_outputs | Believed or acted without checking; emotional dependence; companionship; delegation of logic |
+| user_evaluation_verification_behavior | User checked, caught errors, cross-referenced sources; validation; fact checking |
+| real_world_impact_of_ai_outputs | Harm to work, grades, health, money, legal, security, or career |
+| persuasive_outputs_trust_formation | Tone, certainty language, persuasion, perceived intelligence, trust building mechanisms |
+| needs_manual_review | On-topic but low confidence classification, ambiguous cases, mixed themes |
+
+## Assignment rules
+
+1. Read the ENTIRE `text` before choosing `primary_theme`.
+2. Pick the theme that best matches the DOMINANT user experience or narrative — NOT the highest keyword category count.
+3. `secondary_themes`: 0–3 additional slugs from the table above; never duplicate `primary_theme`.
+4. Do NOT map preprocessing keyword category names to themes mechanically.
+5. If `keyword_summary` is present, it is a non-binding hint only.
+
+## Output format
+
+Return ONLY a JSON array. One object per input post id:
+
+[
+  {
+    "id": "<post id>",
+    "primary_theme": "<slug from table>",
+    "secondary_themes": ["<slug>"],
+    "theme_rationale": "<one sentence tied to the narrative>",
+    "evidence_quote": "<verbatim substring copied exactly from text>",
+    "severity": "low|medium|high",
+    "model_confidence": 0.0,
+    "secondary_labels": ["<optional free tags, e.g. medical_context>"]
+  }
+]
+
+- `evidence_quote` MUST appear exactly in `text`
+- `model_confidence`: float 0.0–1.0 (your confidence in the theme assignment)
+- `severity`: researcher-oriented harm salience, not medical diagnosis
+- Include every post id from the input array

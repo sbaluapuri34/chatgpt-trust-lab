@@ -1,0 +1,55 @@
+month,theme_slug,theme_label,raw_count,weighted_count,raw_percentage,weighted_percentage
+2025-09,real_world_impact_of_ai_outputs,Real-World Impact of AI Outputs,27,93.77,34.18,33.04
+2025-09,user_trust_breakdown,User Trust Breakdown,21,102.18,26.58,36.0
+2025-09,overconfident_incorrect_outputs,Confidently Incorrect Outputs,19,61.18,24.05,21.55
+2025-09,over_reliance_on_ai_outputs,Over-Reliance on AI Outputs,7,19.48,8.86,6.86
+2025-09,persuasive_outputs_trust_formation,Persuasive Outputs & Trust Formation,4,6.14,5.06,2.16
+2025-09,user_evaluation_verification_behavior,User Evaluation & Verification Behavior,1,1.1,1.27,0.39
+2025-10,real_world_impact_of_ai_outputs,Real-World Impact of AI Outputs,12,48.81,28.57,34.98
+2025-10,overconfident_incorrect_outputs,Confidently Incorrect Outputs,11,23.25,26.19,16.66
+2025-10,over_reliance_on_ai_outputs,Over-Reliance on AI Outputs,7,23.46,16.67,16.81
+2025-10,user_trust_breakdown,User Trust Breakdown,5,14.98,11.9,10.73
+2025-10,persuasive_outputs_trust_formation,Persuasive Outputs & Trust Formation,4,21.9,9.52,15.7
+2025-10,user_evaluation_verification_behavior,User Evaluation & Verification Behavior,3,7.15,7.14,5.12
+2025-11,overconfident_incorrect_outputs,Confidently Incorrect Outputs,16,25.52,30.77,27.42
+2025-11,real_world_impact_of_ai_outputs,Real-World Impact of AI Outputs,14,22.1,26.92,23.75
+2025-11,user_trust_breakdown,User Trust Breakdown,8,24.88,15.38,26.74
+2025-11,user_evaluation_verification_behavior,User Evaluation & Verification Behavior,6,12.57,11.54,13.51
+2025-11,over_reliance_on_ai_outputs,Over-Reliance on AI Outputs,5,3.99,9.62,4.29
+2025-11,persuasive_outputs_trust_formation,Persuasive Outputs & Trust Formation,3,3.99,5.77,4.29
+2025-12,overconfident_incorrect_outputs,Confidently Incorrect Outputs,28,40.23,39.44,36.53
+2025-12,over_reliance_on_ai_outputs,Over-Reliance on AI Outputs,11,26.96,15.49,24.48
+2025-12,user_trust_breakdown,User Trust Breakdown,10,18.68,14.08,16.96
+2025-12,real_world_impact_of_ai_outputs,Real-World Impact of AI Outputs,9,15.0,12.68,13.62
+2025-12,user_evaluation_verification_behavior,User Evaluation & Verification Behavior,9,4.03,12.68,3.66
+2025-12,persuasive_outputs_trust_formation,Persuasive Outputs & Trust Formation,4,5.24,5.63,4.76
+2026-01,overconfident_incorrect_outputs,Confidently Incorrect Outputs,22,34.91,36.07,25.63
+2026-01,real_world_impact_of_ai_outputs,Real-World Impact of AI Outputs,11,29.41,18.03,21.6
+2026-01,user_evaluation_verification_behavior,User Evaluation & Verification Behavior,9,24.06,14.75,17.67
+2026-01,over_reliance_on_ai_outputs,Over-Reliance on AI Outputs,7,21.7,11.48,15.93
+2026-01,persuasive_outputs_trust_formation,Persuasive Outputs & Trust Formation,6,15.56,9.84,11.43
+2026-01,user_trust_breakdown,User Trust Breakdown,6,10.54,9.84,7.74
+2026-02,overconfident_incorrect_outputs,Confidently Incorrect Outputs,21,38.75,28.0,21.13
+2026-02,real_world_impact_of_ai_outputs,Real-World Impact of AI Outputs,18,48.93,24.0,26.68
+2026-02,user_evaluation_verification_behavior,User Evaluation & Verification Behavior,15,32.06,20.0,17.48
+2026-02,over_reliance_on_ai_outputs,Over-Reliance on AI Outputs,8,18.28,10.67,9.96
+2026-02,user_trust_breakdown,User Trust Breakdown,7,26.21,9.33,14.29
+2026-02,persuasive_outputs_trust_formation,Persuasive Outputs & Trust Formation,6,19.18,8.0,10.46
+2026-03,overconfident_incorrect_outputs,Confidently Incorrect Outputs,22,31.1,37.29,38.09
+2026-03,real_world_impact_of_ai_outputs,Real-World Impact of AI Outputs,12,14.68,20.34,17.97
+2026-03,over_reliance_on_ai_outputs,Over-Reliance on AI Outputs,8,10.86,13.56,13.3
+2026-03,persuasive_outputs_trust_formation,Persuasive Outputs & Trust Formation,6,8.01,10.17,9.81
+2026-03,user_evaluation_verification_behavior,User Evaluation & Verification Behavior,6,3.18,10.17,3.89
+2026-03,user_trust_breakdown,User Trust Breakdown,5,13.83,8.47,16.93
+2026-04,overconfident_incorrect_outputs,Confidently Incorrect Outputs,25,16.9,30.12,15.1
+2026-04,user_evaluation_verification_behavior,User Evaluation & Verification Behavior,24,24.4,28.92,21.8
+2026-04,real_world_impact_of_ai_outputs,Real-World Impact of AI Outputs,13,30.99,15.66,27.68
+2026-04,over_reliance_on_ai_outputs,Over-Reliance on AI Outputs,9,17.75,10.84,15.85
+2026-04,persuasive_outputs_trust_formation,Persuasive Outputs & Trust Formation,6,10.94,7.23,9.78
+2026-04,user_trust_breakdown,User Trust Breakdown,6,10.97,7.23,9.8
+2026-05,overconfident_incorrect_outputs,Confidently Incorrect Outputs,21,21.07,29.17,32.32
+2026-05,real_world_impact_of_ai_outputs,Real-World Impact of AI Outputs,15,14.39,20.83,22.07
+2026-05,user_evaluation_verification_behavior,User Evaluation & Verification Behavior,14,7.27,19.44,11.16
+2026-05,over_reliance_on_ai_outputs,Over-Reliance on AI Outputs,11,14.04,15.28,21.54
+2026-05,persuasive_outputs_trust_formation,Persuasive Outputs & Trust Formation,7,8.41,9.72,12.9
+2026-05,user_trust_breakdown,User Trust Breakdown,4,0.0,5.56,0.0

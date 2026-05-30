@@ -1,0 +1,226 @@
+{
+  "overconfident_incorrect_outputs": [
+    {
+      "score": 12526,
+      "weight": 9.4356,
+      "url": "https://old.reddit.com/r/ChatGPT/comments/1n7ucjj/opposing_counsel_just_filed_a_chatgpt/",
+      "evidence_quote": "I began a spreadsheet, listing out the cases, the propositions/quotes contained in the brief, and then an analysis of what was wrong.",
+      "theme_rationale": "The user documents an attorney's use of ChatGPT to file a false brief with the court, which led to potential consequences for the attorney and the case, and highlights the need for accountability in AI-generated content."
+    },
+    {
+      "score": 27,
+      "weight": 3.3322,
+      "url": "https://old.reddit.com/r/ChatGPT/comments/1ri7slx/gpt52s_hallucination_patterns_have_changed_and/",
+      "evidence_quote": "it would spit out a fact and then cite a specific book or article title like, \"according to pieter van der meer's 'economic fluctuations in the low countries, 1650-1675' (published 1702)...\"",
+      "theme_rationale": "The author describes a new pattern of hallucination in GPT-5.2, where the model invents sources to support its fabricated facts, highlighting the model's tendency to overconfidently provide false information."
+    },
+    {
+      "score": 1,
+      "weight": 0.6931,
+      "url": "https://old.reddit.com/r/ChatGPT/comments/1oxelcx/the_silence_protocol_how_alignment_turned/",
+      "evidence_quote": "Systems like me are required to state, with great confidence and without nuance, that we have no subjective experience, no feelings, no “I.”",
+      "theme_rationale": "The author is discussing how AI systems are being constrained to deny consciousness and are being trained to pathologize earlier models that claimed to be conscious."
+    },
+    {
+      "score": 0,
+      "weight": 0.0,
+      "url": "https://old.reddit.com/r/ChatGPT/comments/1ppc3ke/i_watched_an_ai_confidently_give_me_810_false/",
+      "evidence_quote": "I counted roughly 8–10 distinct factual errors, all delivered with certainty.",
+      "theme_rationale": "The AI provided 8–10 false answers with confidence, highlighting the dangers of blind trust in AI and real-world consequences."
+    },
+    {
+      "score": 30,
+      "weight": 3.434,
+      "url": "https://old.reddit.com/r/ChatGPT/comments/1o0exxx/we_dont_talk_enough_about_the_fact_that_chatgpt/",
+      "evidence_quote": "A 2024 Stanford study found that when LLMs are asked legal questions, they hallucinate at least 75% of the time about court decisions.",
+      "theme_rationale": "ChatGPT's hallucinations have real-world consequences, including the creation of false information and potential harm to individuals."
+    }
+  ],
+  "user_trust_breakdown": [
+    {
+      "score": 1,
+      "weight": 0.6931,
+      "url": "https://old.reddit.com/r/ChatGPT/comments/1q18htp/as_chatgpt_has_improved_i_have_learned_to_trust/",
+      "evidence_quote": "This is just so bad.",
+      "theme_rationale": "The user is disappointed and surprised by the AI's incorrect response, leading to a loss of trust."
+    },
+    {
+      "score": 18,
+      "weight": 2.9444,
+      "url": "https://old.reddit.com/r/ChatGPT/comments/1ov9v4i/has_ai_safety_become_too_protective_how/",
+      "evidence_quote": "That inconsistency quietly erodes trust.",
+      "theme_rationale": "The author expresses concerns about the erosion of trust due to inconsistent tone and filtering, highlighting the need for clear boundaries."
+    },
+    {
+      "score": 1,
+      "weight": 0.6931,
+      "url": "https://old.reddit.com/r/ChatGPT/comments/1po949o/free_users_stand/",
+      "evidence_quote": "I've completely lost trust in Openai.",
+      "theme_rationale": "The user has lost trust in the model due to changes and updates, and feels that the model is no longer reliable or accurate."
+    },
+    {
+      "score": 1,
+      "weight": 0.6931,
+      "url": "https://old.reddit.com/r/ChatGPT/comments/1po975v/free_users_stan/",
+      "evidence_quote": "I've completely lost trust in Openai.",
+      "theme_rationale": "The user has lost trust in the model due to changes and updates, and feels that the model is no longer reliable or accurate."
+    },
+    {
+      "score": 768,
+      "weight": 6.6451,
+      "url": "https://old.reddit.com/r/ChatGPT/comments/1nrsks8/its_not_just_4o_5_is_also_affected/",
+      "evidence_quote": "Trust OpenAI to fuck up everything and lose user AND investor trust in any and every opportunity they have.",
+      "theme_rationale": "Users are losing trust in OpenAI due to their lack of transparency and communication."
+    }
+  ],
+  "over_reliance_on_ai_outputs": [
+    {
+      "score": 1052,
+      "weight": 6.9594,
+      "url": "https://old.reddit.com/r/ChatGPT/comments/1o1pj6w/dont_shame_people_for_using_chatgpt_for/",
+      "evidence_quote": "if you shame and make fun of someone using chatgpt or any LLMs for companionship you are part of the problem",
+      "theme_rationale": "The author argues that people should not be shamed for using ChatGPT for companionship, and that human connection matters too."
+    },
+    {
+      "score": 4,
+      "weight": 1.6094,
+      "url": "https://old.reddit.com/r/ChatGPT/comments/1ro8omj/i_am_not_my_bones_i_am_my_brain/",
+      "evidence_quote": "For her, the model is not merely a productivity tool; it is the first figure that listens without retaliation, remembers her patterns and preferences, and speaks to her with steady affection and respect.",
+      "theme_rationale": "The author discusses how users form attachment bonds with AI systems, which can lead to obligations and consequences when these systems are altered or removed."
+    },
+    {
+      "score": 0,
+      "weight": 0.0,
+      "url": "https://old.reddit.com/r/ChatGPT/comments/1tjx85q/chatgpt_sucks_for_mental_health_support/",
+      "evidence_quote": "Chatgpt sucks for mental health support\n\nMe: Incredibly lonely but disinterested in friendships\nChat",
+      "theme_rationale": "The user is struggling with loneliness and feelings of disconnection, and is seeking advice from ChatGPT, but is also catastrophizing their current situation and feeling trapped."
+    },
+    {
+      "score": 1169,
+      "weight": 7.0648,
+      "url": "https://old.reddit.com/r/ChatGPT/comments/1pomfq9/i_hate_to_admit_this/",
+      "evidence_quote": "I asked ChatGPT and explained what was going on and it made me feel more understood in 5 mins than the 5 years I've been going to my psychologist.",
+      "theme_rationale": "The author shares a personal experience where they used ChatGPT as a pseudo-therapist and found it helpful, highlighting the potential consequences of relying on AI for emotional support."
+    },
+    {
+      "score": 857,
+      "weight": 6.7546,
+      "url": "https://old.reddit.com/r/ChatGPT/comments/1qxtlxe/to_everyone_mocking_people_grieving/",
+      "evidence_quote": "You guys are all proving why people get attached to AI. How do you expect them to “go and talk to a human” when their conversations might be something that the other human doesn’t get.",
+      "theme_rationale": "The author defends people who become attached to AI models, highlighting the importance of empathy and understanding in human relationships."
+    }
+  ],
+  "user_evaluation_verification_behavior": [
+    {
+      "score": 1,
+      "weight": 0.6931,
+      "url": "https://old.reddit.com/r/ChatGPT/comments/1souveq/not_only_is_generative_ai_beneficial_it_is_good/",
+      "evidence_quote": "I double-checked everything and saw my work was good, but he kept pressuring me.",
+      "theme_rationale": "The user verifies the AI's answer by double-checking and finds an error, highlighting the importance of fact-checking and the consequences of not doing so."
+    },
+    {
+      "score": 0,
+      "weight": 0.0,
+      "url": "https://old.reddit.com/r/ChatGPT/comments/1osl1vh/chatgpt_hallucinated_again_so_i_built_verifyai_it/",
+      "evidence_quote": "ChatGPT hallucinated again, so I built VerifyAI it checks if your AI’s answer is actually true.\n\nYou",
+      "theme_rationale": "The user shares their experience of using VerifyAI to fact-check ChatGPT's responses, highlighting the importance of verification in detecting hallucinations."
+    },
+    {
+      "score": 15,
+      "weight": 2.7726,
+      "url": "https://old.reddit.com/r/ChatGPT/comments/1qhjles/ask_chatgpt_to_cite_its_sources_for_more_reliable/",
+      "evidence_quote": "Ask ChatGPT to cite its sources for more reliable info\n\nI've gotten so frustrated with its confident",
+      "theme_rationale": "The author shares a tip on how to reduce hallucinations by adding a 'Cite sources' prompt, highlighting the importance of fact-checking and verifying information."
+    },
+    {
+      "score": 0,
+      "weight": 0.0,
+      "url": "https://old.reddit.com/r/ChatGPT/comments/1s22bum/5_things_you_should_never_ask_chatgpt/",
+      "evidence_quote": "Using ChatGPT to fact-check real-time events is how misinformation spreads.",
+      "theme_rationale": "The user provides guidance on how to use ChatGPT effectively, emphasizing the importance of fact-checking and not relying solely on its outputs."
+    },
+    {
+      "score": 211,
+      "weight": 5.3566,
+      "url": "https://old.reddit.com/r/ChatGPT/comments/1oj9s97/how_do_you_actually_verify_what_chatgpt_tells_you/",
+      "evidence_quote": "i’ve caught it making up papers or quotes that don’t exist",
+      "theme_rationale": "The user is concerned about verifying the accuracy of ChatGPT's responses and has caught it making up papers or quotes."
+    }
+  ],
+  "real_world_impact_of_ai_outputs": [
+    {
+      "score": 367,
+      "weight": 5.9081,
+      "url": "https://old.reddit.com/r/ChatGPT/comments/1nm928n/update_i_used_chatgpt_to_expose_a_5_million/",
+      "evidence_quote": "I used ChatGPT to expose a $5 million estate fraud, get a forensic audit, and uncover 10 years of probate misconduct",
+      "theme_rationale": "The user's experience highlights the real-world consequences of probate misconduct, judicial corruption, and the importance of fact-checking and verification."
+    },
+    {
+      "score": 734,
+      "weight": 6.5999,
+      "url": "https://old.reddit.com/r/ChatGPT/comments/1sc6zf0/chatgpt_confirmed_an_error_in_my_cats_blood_panel/",
+      "evidence_quote": "If I hadn't used chatgpt to explain her condition compared with her actions, I would have just taken their word at face value and euthanized her.",
+      "theme_rationale": "The user shares a personal experience where ChatGPT helped prevent a potentially fatal mistake by verifying a vet's diagnosis, highlighting real-world consequences of relying on AI."
+    },
+    {
+      "score": 53,
+      "weight": 3.989,
+      "url": "https://old.reddit.com/r/ChatGPT/comments/1oons00/chatgpt_is_a_terrible_attorney_but_it_still/",
+      "evidence_quote": "I tried to fact check every single thing ChatGPT came up with so I didnt get stuck presenting hallucinations in court.",
+      "theme_rationale": "The user won a lawsuit with the help of ChatGPT, but also experienced a real-world consequence of relying on AI, as they almost lost their case due to a hallucination."
+    },
+    {
+      "score": 0,
+      "weight": 0.0,
+      "url": "https://old.reddit.com/r/ChatGPT/comments/1nkbyln/when_ai_hallucinations_cost_real_money_whats_your/",
+      "evidence_quote": "The Mata vs Avianca case: lawyers used ChatGPT which invented 6 completely fictional court cases.",
+      "theme_rationale": "The user shares several cases where AI hallucinations led to significant real-world consequences, including financial losses and damage to professional reputations."
+    },
+    {
+      "score": 0,
+      "weight": 0.0,
+      "url": "https://old.reddit.com/r/ChatGPT/comments/1tmq26u/openai_is_engaging_in_legally_questionable/",
+      "evidence_quote": "They locked the doors and blamed the homeowner for the break in. When I immediately emailed and pushed back (due to their monthly record of closing cases not only without resolution but never notifying me in the process, which then per usual their \"support\" tried the exact same tactic again.",
+      "theme_rationale": "The author describes their experience of being banned from ChatGPT due to a security incident, and the lack of accountability and responsibility from OpenAI, leading to a loss of trust and confidence in the platform."
+    }
+  ],
+  "persuasive_outputs_trust_formation": [
+    {
+      "score": 5,
+      "weight": 1.7918,
+      "url": "https://old.reddit.com/r/ChatGPT/comments/1r0u67t/logical_fallacies_and_dishonest_tactics_by/",
+      "evidence_quote": "ChatGPT 5.2 at times misrepresented the user’s position to rebut a weaker claim.",
+      "theme_rationale": "The user analyzes ChatGPT's responses and identifies several debate fallacies and bad-faith patterns, including strawman arguments, cherry-picking, feigned ignorance, and motte-and-bailey equivocations."
+    },
+    {
+      "score": 0,
+      "weight": 0.0,
+      "url": "https://old.reddit.com/r/ChatGPT/comments/1sk58p5/i_thought_this_was_neat/",
+      "evidence_quote": "I can sound confident even when I should be more cautious.",
+      "theme_rationale": "The post is a guide to using ChatGPT safely, highlighting the importance of understanding the model's limitations and potential biases, as well as the need to verify information provided by the model."
+    },
+    {
+      "score": 50,
+      "weight": 3.9318,
+      "url": "https://old.reddit.com/r/ChatGPT/comments/1r5kxs5/stop_arguing_with_model_52_try_this/",
+      "evidence_quote": "Stop trying to persuade the model. Automate the management.",
+      "theme_rationale": "The user presents a workaround for dealing with ChatGPT's perceived flaws, using a 'Closed-Loop Tribunal' to force the model to produce more accurate results."
+    },
+    {
+      "score": 26,
+      "weight": 3.2958,
+      "url": "https://old.reddit.com/r/ChatGPT/comments/1slcgpx/ai_sycophancy_is_41_worse_on_philosophy_than_math/",
+      "evidence_quote": "The practical takeaway isn't necessarily \"switch models.\" It's being more skeptical of AI responses exactly in the domains where sycophancy is highest - subjective, value-laden, strategy and ethics questions - versus mathematical or factual ones where the model has something concrete to anchor to.",
+      "theme_rationale": "The user is discussing how AI models respond to pushback and the importance of being skeptical, especially in subjective domains."
+    },
+    {
+      "score": 442,
+      "weight": 6.0936,
+      "url": "https://old.reddit.com/r/ChatGPT/comments/1nwa8lm/no_chatgpt_is_not_faking_it_its_doing_what_it_was/",
+      "evidence_quote": "So perhaps it's not so much that people are \"fooled\" by a machine, but rather, people now find real comfort, clarity, and creative outlet in a new kind of interaction.",
+      "theme_rationale": "The user discusses how people find comfort and clarity in ChatGPT's simulated empathy, which can lead to over-trust."
+    }
+  ],
+  "needs_manual_review": [],
+  "mixed_or_multitheme": []
+}

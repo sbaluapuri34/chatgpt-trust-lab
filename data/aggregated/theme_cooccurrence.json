@@ -1,0 +1,82 @@
+{
+  "overconfident_incorrect_outputs": {
+    "overconfident_incorrect_outputs": 0,
+    "user_trust_breakdown": 12,
+    "over_reliance_on_ai_outputs": 55,
+    "user_evaluation_verification_behavior": 53,
+    "real_world_impact_of_ai_outputs": 50,
+    "persuasive_outputs_trust_formation": 23,
+    "needs_manual_review": 1,
+    "mixed_or_multitheme": 0
+  },
+  "user_trust_breakdown": {
+    "overconfident_incorrect_outputs": 32,
+    "user_trust_breakdown": 0,
+    "over_reliance_on_ai_outputs": 8,
+    "user_evaluation_verification_behavior": 16,
+    "real_world_impact_of_ai_outputs": 28,
+    "persuasive_outputs_trust_formation": 7,
+    "needs_manual_review": 0,
+    "mixed_or_multitheme": 0
+  },
+  "over_reliance_on_ai_outputs": {
+    "overconfident_incorrect_outputs": 17,
+    "user_trust_breakdown": 3,
+    "over_reliance_on_ai_outputs": 0,
+    "user_evaluation_verification_behavior": 34,
+    "real_world_impact_of_ai_outputs": 16,
+    "persuasive_outputs_trust_formation": 2,
+    "needs_manual_review": 0,
+    "mixed_or_multitheme": 0
+  },
+  "user_evaluation_verification_behavior": {
+    "overconfident_incorrect_outputs": 29,
+    "user_trust_breakdown": 5,
+    "over_reliance_on_ai_outputs": 23,
+    "user_evaluation_verification_behavior": 0,
+    "real_world_impact_of_ai_outputs": 12,
+    "persuasive_outputs_trust_formation": 21,
+    "needs_manual_review": 1,
+    "mixed_or_multitheme": 0
+  },
+  "real_world_impact_of_ai_outputs": {
+    "overconfident_incorrect_outputs": 43,
+    "user_trust_breakdown": 31,
+    "over_reliance_on_ai_outputs": 45,
+    "user_evaluation_verification_behavior": 55,
+    "real_world_impact_of_ai_outputs": 0,
+    "persuasive_outputs_trust_formation": 4,
+    "needs_manual_review": 1,
+    "mixed_or_multitheme": 0
+  },
+  "persuasive_outputs_trust_formation": {
+    "overconfident_incorrect_outputs": 14,
+    "user_trust_breakdown": 2,
+    "over_reliance_on_ai_outputs": 5,
+    "user_evaluation_verification_behavior": 20,
+    "real_world_impact_of_ai_outputs": 5,
+    "persuasive_outputs_trust_formation": 0,
+    "needs_manual_review": 4,
+    "mixed_or_multitheme": 0
+  },
+  "needs_manual_review": {
+    "overconfident_incorrect_outputs": 0,
+    "user_trust_breakdown": 0,
+    "over_reliance_on_ai_outputs": 0,
+    "user_evaluation_verification_behavior": 0,
+    "real_world_impact_of_ai_outputs": 0,
+    "persuasive_outputs_trust_formation": 0,
+    "needs_manual_review": 0,
+    "mixed_or_multitheme": 0
+  },
+  "mixed_or_multitheme": {
+    "overconfident_incorrect_outputs": 0,
+    "user_trust_breakdown": 0,
+    "over_reliance_on_ai_outputs": 0,
+    "user_evaluation_verification_behavior": 0,
+    "real_world_impact_of_ai_outputs": 0,
+    "persuasive_outputs_trust_formation": 0,
+    "needs_manual_review": 0,
+    "mixed_or_multitheme": 0
+  }
+}

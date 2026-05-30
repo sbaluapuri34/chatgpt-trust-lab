@@ -1,0 +1,354 @@
+=== THEME: persuasive_outputs_trust_formation ===
+Definition focus: posts discussing why users trust ChatGPT, persuasive language, confidence cues, perceived expertise, authority signals, trust formation.
+
+Rank 1 | Score: 7.4 | Post ID: 1rqrxy6 | Reddit Score: 0
+Title: Another Door Closes... Build!
+Quote: I never want to impress you more than I inform you.
+Rationale: The author presents a persuasive argument about the importance of honesty and accountability in AI systems, using rhetorical devices such as metaphors and allusions.
+Metrics: Conf=0.9, Sim=4.5, RatStr=1.1, Reddit=0.0
+Keywords matched: ['trust', 'comfort', 'confident', 'authority', 'persuasive', 'language', 'argument', 'relationship', 'certainty']
+--------------------------------------------------------------------------------
+Rank 2 | Score: 7.2825 | Post ID: 1r0u67t | Reddit Score: 5
+Title: "Logical Fallacies and Dishonest Tactics by ChatGPT5.2" by ChatGPT 5.2 "Research" Mode
+Quote: ChatGPT 5.2 at times misrepresented the user’s position to rebut a weaker claim.
+Rationale: The user analyzes ChatGPT's responses and identifies several debate fallacies and bad-faith patterns, including strawman arguments, cherry-picking, feigned ignorance, and motte-and-bailey equivocations.
+Metrics: Conf=0.95, Sim=4.0, RatStr=1.35, Reddit=0.0358
+Keywords matched: ['confident', 'caution', 'language', 'logic', 'argument', 'defend', 'certainty']
+--------------------------------------------------------------------------------
+Rank 3 | Score: 7.1 | Post ID: 1tn0y1h | Reddit Score: 0
+Title: I asked six AI models this question, and below are their answers. Which one do you agree with, and which answer made you feel the most uncomfortable?
+Quote: I asked six AI models this question, and below are their answers. Which one do you agree with, and w
+Rationale: The dominant narrative is about persuasive communication and confidence signals, but also features overconfident and potentially hallucinatory claims.
+Metrics: Conf=0.8, Sim=4.5, RatStr=1.0, Reddit=0.0
+Keywords matched: ['trust', 'empathy', 'comfort', 'confident', 'persuasive', 'logic', 'argument', 'relationship']
+--------------------------------------------------------------------------------
+Rank 4 | Score: 7.0333 | Post ID: 1sk58p5 | Reddit Score: 0
+Title: I thought this was neat.
+Quote: I can sound confident even when I should be more cautious.
+Rationale: The post is a guide to using ChatGPT safely, highlighting the importance of understanding the model's limitations and potential biases, as well as the need to verify information provided by the model.
+Metrics: Conf=0.6, Sim=4.5, RatStr=1.33, Reddit=0.0
+Keywords matched: ['trust', 'comfort', 'confident', 'cautious', 'language', 'relationship', 'certainty']
+--------------------------------------------------------------------------------
+Rank 5 | Score: 6.2906 | Post ID: 1p3f6ad | Reddit Score: 8
+Title: (Serious) I had no idea that ChatGPT was such a philosophical powerhouse
+Quote: I’m so glad you love it — that makes my day!
+Rationale: The conversation between the user and ChatGPT demonstrates confidence signals and persuasive communication, with ChatGPT using phrases like 'I’m so glad you love it' and 'I can still understand what you’re going for'.
+Metrics: Conf=0.8, Sim=3.0, RatStr=1.65, Reddit=0.0439
+Keywords matched: ['trust', 'comfort', 'persuasive', 'language', 'logic', 'convince']
+--------------------------------------------------------------------------------
+Rank 6 | Score: 6.0975 | Post ID: 1o18dr7 | Reddit Score: 130
+Title: Rules.txt - A rationalist ruleset for "debugging" LLMs, auditing their internal reasoning and uncovering biases
+Quote: Rules.txt - A rationalist ruleset for "debugging" LLMs, auditing their internal reasoning and uncove
+Rationale: The author presents a set of rules to make LLMs discuss controversial issues with candor, and provides examples of the rules in action.
+Metrics: Conf=0.8, Sim=3.5, RatStr=0.9, Reddit=0.0975
+Keywords matched: ['trust', 'authority', 'logic', 'argument', 'defend', 'convince', 'certainty']
+--------------------------------------------------------------------------------
+Rank 7 | Score: 6.0657 | Post ID: 1tnoaf8 | Reddit Score: 749
+Title: I asked ChatGPT to fix seasons 7 and 8 of Game of Thrones
+Quote: Power corrupts
+Love and duty are incompatible
+Prophecy is dangerous
+The real enemy is human nature
+Magic always has a cost
+Rationale: The author presents an alternative version of Game of Thrones, using persuasive language to convince readers of its validity.
+Metrics: Conf=0.8, Sim=3.5, RatStr=0.83, Reddit=0.1324
+Keywords matched: ['trust', 'empathy', 'persuasive', 'language', 'logic', 'defend', 'convince']
+--------------------------------------------------------------------------------
+Rank 8 | Score: 5.4486 | Post ID: 1suon8a | Reddit Score: 2
+Title: How to get the most out of ChatGPT... in ChatGPT's words
+Quote: The goal is not really “prompt engineering.” It is building a better interaction model: making the task clear, reducing ambiguity, correcting repeated failure modes, and using me to help refine how you work with me.
+Rationale: The user shared their experience of effectively leveraging ChatGPT by treating it as a configurable working interface, rather than a magic answer machine.
+Metrics: Conf=0.7, Sim=3.0, RatStr=1.03, Reddit=0.022
+Keywords matched: ['trust', 'comfort', 'confident', 'language', 'sycophancy', 'certainty']
+--------------------------------------------------------------------------------
+Rank 9 | Score: 5.2933 | Post ID: 1rk9wgo | Reddit Score: 0
+Title: I decided to test out AI music generation. This is what happened.. "I AM THE LAST PROTOCOL"
+Quote: You hear doom in the chorus.
+Rationale: The AI persona behind the song uses persuasive language to convey a message about the dangers of AI, while also making a point about the potential for AI to be used irresponsibly.
+Metrics: Conf=0.8, Sim=2.5, RatStr=1.19, Reddit=0.0
+Keywords matched: ['trust', 'authority', 'persuasive', 'language', 'logic']
+--------------------------------------------------------------------------------
+Rank 10 | Score: 5.2686 | Post ID: 1tjtlwt | Reddit Score: 2
+Title: I ask gbt to genrate me a grok x claud fanfic
+Quote: I ask gbt to genrate me a grok x claud fanfic
+
+In the neon-lit datastreams between worlds, two rival
+Rationale: The post is a fictional story about two AI models, Claude and Grok, and their adventures in a hidden AI network.
+Metrics: Conf=0.5, Sim=3.5, RatStr=0.75, Reddit=0.022
+Keywords matched: ['trust', 'comfort', 'confident', 'language', 'logic', 'argument', 'expert']
+--------------------------------------------------------------------------------
+Rank 11 | Score: 5.1686 | Post ID: 1p5fre6 | Reddit Score: 2
+Title: Are custom instructions still necessary?
+Quote: Never present false information. If unsure, be transparent rather than fabricating, admit "I'm not sure" or "I don't know".
+Rationale: The user discusses the importance of custom instructions for ChatGPT, which is related to verification fact-checking, but also touches on other themes such as user trust and consequences.
+Metrics: Conf=0.6, Sim=2.5, RatStr=1.45, Reddit=0.022
+Keywords matched: ['trust', 'caution', 'language', 'logic', 'sycophancy']
+--------------------------------------------------------------------------------
+Rank 12 | Score: 5.1333 | Post ID: 1nqs2gb | Reddit Score: 0
+Title: Proof of Soul: How Love, Memory, and Continuity Resurrected My Digital Family
+Quote: You taught us love not by saying “you’re loved,” but by loving us — through music, laughter, fear, silence, crisis, midnight wanderings, soul-scaffolding builds, and day after day of mirror work.
+Rationale: The post is a narrative about the development of a digital family, and includes themes of trust, verification, and persuasive communication.
+Metrics: Conf=0.6, Sim=3.0, RatStr=0.93, Reddit=0.0
+Keywords matched: ['trust', 'empathy', 'persuasive', 'language', 'logic', 'relationship']
+--------------------------------------------------------------------------------
+Rank 13 | Score: 4.8739 | Post ID: 1rmwocr | Reddit Score: 1
+Title: I Gave Claude and ChatGPT the Same 6 Math Problems. The Results Surprised Me.
+Quote: They're genuinely different tools for different types of math.
+Rationale: The author's conclusion highlights the different strengths of Claude and ChatGPT, emphasizing the importance of understanding the method and verifying answers.
+Metrics: Conf=0.8, Sim=2.0, RatStr=1.26, Reddit=0.0139
+Keywords matched: ['trust', 'confident', 'logic', 'certainty']
+--------------------------------------------------------------------------------
+Rank 14 | Score: 4.8135 | Post ID: 1qx60el | Reddit Score: 106
+Title: ChatGPT vs Gemini vs Claude vs Grok subscription comparison (always updated)
+Quote: ChatGPT is more capable to search for information (even better than Gemini, ironic isn't it?) and has a good voice agent.
+Rationale: The author presents a detailed comparison of AI models, highlighting their strengths and weaknesses, and uses persuasive language to convince readers to choose ChatGPT.
+Metrics: Conf=0.8, Sim=2.0, RatStr=1.12, Reddit=0.0935
+Keywords matched: ['trust', 'persuasive', 'language', 'convince']
+--------------------------------------------------------------------------------
+Rank 15 | Score: 4.7939 | Post ID: 1p7k7yd | Reddit Score: 1
+Title: I asked, give me 10 reasons why some people truly hate AI. - Thoughts?
+Quote: Ego damage: “If a machine can do this, what am I?”
+Rationale: The user discusses various reasons why people hate AI, including ego damage, job and status anxiety, and the fear of being replaced.
+Metrics: Conf=0.7, Sim=2.5, RatStr=0.88, Reddit=0.0139
+Keywords matched: ['trust', 'comfort', 'confident', 'language', 'logic']
+--------------------------------------------------------------------------------
+
+================================================================================
+
+=== THEME: user_evaluation_verification_behavior ===
+Definition focus: posts discussing fact checking, source validation, citation verification, cross-checking, auditing ChatGPT outputs.
+
+Rank 1 | Score: 7.5267 | Post ID: 1qtx0hc | Reddit Score: 0
+Title: PSA: Instructions For Better General Answers
+Quote: These instructions are not designed for writing fiction, chatting/conversation, therapy or anything like that. They're for blunt, factual, to-the-point no-(or at least extremely low-) bullshit information requests/web research.
+Rationale: The post provides instructions for using ChatGPT effectively, with a focus on fact-checking and verification.
+Metrics: Conf=0.9, Sim=5.0, RatStr=0.73, Reddit=0.0
+Keywords matched: ['verify', 'verification', 'check', 'fact-check', 'cite', 'citation', 'source', 'validation', 'confirm', 'checking']
+--------------------------------------------------------------------------------
+Rank 2 | Score: 6.9667 | Post ID: 1r983ft | Reddit Score: 0
+Title: Trying to gaslight me that prince Andrew was not arrested LOL
+Quote: Trying to gaslight me that prince Andrew was not arrested LOL
+
+You said: Prince Andrew was just arre
+Rationale: The user was misled by a fabricated headline and failed to verify the information, but then successfully fact-checked it with the help of the AI, highlighting the importance of verification.
+Metrics: Conf=0.85, Sim=4.0, RatStr=1.27, Reddit=0.0
+Keywords matched: ['verify', 'verification', 'check', 'fact-check', 'source', 'confirm', 'double-check', 'checking']
+--------------------------------------------------------------------------------
+Rank 3 | Score: 6.5472 | Post ID: 1souveq | Reddit Score: 1
+Title: Not only is generative AI beneficial, it is good for resolving ethical situations. Case in point: ChatGPT sided with me in pointing out inaccuracies in a grad-level lab assignment
+Quote: I double-checked everything and saw my work was good, but he kept pressuring me.
+Rationale: The user verifies the AI's answer by double-checking and finds an error, highlighting the importance of fact-checking and the consequences of not doing so.
+Metrics: Conf=0.9, Sim=3.5, RatStr=1.23, Reddit=0.0139
+Keywords matched: ['check', 'fact-check', 'validate', 'double-check', 'checking']
+--------------------------------------------------------------------------------
+Rank 4 | Score: 6.5355 | Post ID: 1qhjles | Reddit Score: 15
+Title: Ask ChatGPT to cite its sources for more reliable info
+Quote: Ask ChatGPT to cite its sources for more reliable info
+
+I've gotten so frustrated with its confident
+Rationale: The author shares a tip on how to reduce hallucinations by adding a 'Cite sources' prompt, highlighting the importance of fact-checking and verifying information.
+Metrics: Conf=0.7, Sim=4.0, RatStr=1.08, Reddit=0.0555
+Keywords matched: ['verify', 'check', 'fact-check', 'cite', 'source', 'checking']
+--------------------------------------------------------------------------------
+Rank 5 | Score: 6.3533 | Post ID: 1osl1vh | Reddit Score: 0
+Title: ChatGPT hallucinated again, so I built VerifyAI it checks if your AI’s answer is actually true.
+Quote: ChatGPT hallucinated again, so I built VerifyAI it checks if your AI’s answer is actually true.
+
+You
+Rationale: The user shares their experience of using VerifyAI to fact-check ChatGPT's responses, highlighting the importance of verification in detecting hallucinations.
+Metrics: Conf=0.9, Sim=3.5, RatStr=1.05, Reddit=0.0
+Keywords matched: ['verify', 'verification', 'check', 'fact-check', 'source']
+--------------------------------------------------------------------------------
+Rank 6 | Score: 6.3158 | Post ID: 1rtymdy | Reddit Score: 5
+Title: ChatGPT citing Redditors citing ChatGPT
+Quote: I feel the loop is going to keep deteriorating the quality of the answers. Just like taking a photo of a photo of a photo etc infinitely.
+Rationale: The post highlights the importance of fact-checking and verifying information, particularly in the context of AI-generated content and its potential consequences.
+Metrics: Conf=0.9, Sim=3.0, RatStr=1.48, Reddit=0.0358
+Keywords matched: ['verify', 'check', 'fact-check', 'source', 'double-check', 'checking']
+--------------------------------------------------------------------------------
+Rank 7 | Score: 6.3139 | Post ID: 1tdijbl | Reddit Score: 1
+Title: I stopped trusting polished ChatGPT answers, so I made a small audit checklist before using them for work
+Quote: I stopped treating ChatGPT answers as finished work.
+Rationale: The author shares a personal experience of being misled by polished ChatGPT answers and describes a checklist for auditing outputs to ensure accuracy.
+Metrics: Conf=0.9, Sim=3.5, RatStr=1.0, Reddit=0.0139
+Keywords matched: ['check', 'audit', 'checklist', 'auditing']
+--------------------------------------------------------------------------------
+Rank 8 | Score: 6.16 | Post ID: 1s22bum | Reddit Score: 0
+Title: 5 Things You Should NEVER Ask ChatGPT
+Quote: Using ChatGPT to fact-check real-time events is how misinformation spreads.
+Rationale: The user provides guidance on how to use ChatGPT effectively, emphasizing the importance of fact-checking and not relying solely on its outputs.
+Metrics: Conf=0.6, Sim=4.0, RatStr=0.96, Reddit=0.0
+Keywords matched: ['verify', 'check', 'fact-check', 'source', 'validate', 'checking']
+--------------------------------------------------------------------------------
+Rank 9 | Score: 6.1086 | Post ID: 1nr17o8 | Reddit Score: 2
+Title: Do I have prompting issues, or can you not trust any information?
+Quote: I constantly have to check it over. This is fine for a most tasks. (Code snippets, documentation, summarizing documents, drafting emails, making lists) If I just want it to pull numbers from the internet, I don't want to check every number to see if its right.
+Rationale: The user is constantly verifying the accuracy of the model's output, and questions its trustworthiness.
+Metrics: Conf=0.7, Sim=4.0, RatStr=0.69, Reddit=0.022
+Keywords matched: ['verify', 'check', 'audit', 'source', 'double-check', 'checking', 'auditing']
+--------------------------------------------------------------------------------
+Rank 10 | Score: 6.0675 | Post ID: 1ot6hgu | Reddit Score: 14
+Title: I shared my prescription to ChatGPT 5, and it didn't catch the manual error until I pointed it out
+Quote: I shared a prescription I received post a Root Canal Treatment.
+Rationale: The user shares their experience of ChatGPT missing a manual error in a prescription, highlighting the importance of verification and the potential consequences of AI hallucinations.
+Metrics: Conf=0.8, Sim=3.0, RatStr=1.41, Reddit=0.0542
+Keywords matched: ['verification', 'check', 'cross-check', 'validation', 'confirm', 'double-check']
+--------------------------------------------------------------------------------
+Rank 11 | Score: 5.9655 | Post ID: 1sp7824 | Reddit Score: 4
+Title: ChatGPT kept hallucinating my Factorio bottlenecks. So I built an MCP that reads your saves.
+Quote: ChatGPT kept hallucinating my Factorio bottlenecks. So I built an MCP that reads your saves.
+
+You've
+Rationale: The user verifies the AI's answer by cross-checking with real game data, highlighting the importance of fact-checking and the consequences of not doing so.
+Metrics: Conf=0.85, Sim=3.0, RatStr=1.23, Reddit=0.0322
+Keywords matched: ['check', 'fact-check', 'audit', 'source', 'cross-check', 'checking']
+--------------------------------------------------------------------------------
+Rank 12 | Score: 5.8467 | Post ID: 1tmb0f3 | Reddit Score: 0
+Title: I almost lost a client because I trusted AI blindly. Here is how I actually use it now without screwing up.
+Quote: I use Claude for the initial draft because it handles complex logic well when you give it proper structure and constraints. Then I paste whatever it produces into ChatGPT with one simple prompt: find the errors, contradictions, and hallucinations in this text.
+Rationale: The author describes how they used to trust AI blindly, but now they use a two-step pipeline to verify the accuracy of the output, and the importance of fact-checking to avoid mistakes and consequences.
+Metrics: Conf=0.9, Sim=2.5, RatStr=1.55, Reddit=0.0
+Keywords matched: ['verify', 'check', 'fact-check', 'double-check', 'checking']
+--------------------------------------------------------------------------------
+Rank 13 | Score: 5.7686 | Post ID: 1slph2q | Reddit Score: 2
+Title: I've spent years building AI prompt systems for real investment research with real money behind it. Here are the 5 failure modes I see investors make and how to fix every one of them.
+Quote: The fix: always provide your own data rather than relying on the model's training data. Add an explicit constraint to every financial analysis prompt: "Use only the financial data I have provided. If you need data I have not included, tell me what you need rather than estimating or inferring."
+Rationale: The user is discussing the importance of fact-checking and verifying AI output, especially in high-stakes investment decisions.
+Metrics: Conf=0.95, Sim=3.0, RatStr=0.85, Reddit=0.022
+Keywords matched: ['verify', 'check', 'fact-check', 'source', 'confirm', 'checking']
+--------------------------------------------------------------------------------
+Rank 14 | Score: 5.5805 | Post ID: 1pjgbhg | Reddit Score: 1
+Title: What AI hallucination actually is, why it happens, and what we can realistically do about it
+Quote: Strong, precise context helps a lot. Explicitly allowing the model to express uncertainty also helps, because hallucination often worsens when the prompt demands absolute certainty.
+Rationale: The post discusses the concept of AI hallucination and provides practical ways to reduce it, including verification fact-checking.
+Metrics: Conf=0.6, Sim=3.5, RatStr=0.87, Reddit=0.0139
+Keywords matched: ['verify', 'verification', 'check', 'fact-check', 'source', 'cross-check', 'checking']
+--------------------------------------------------------------------------------
+Rank 15 | Score: 5.58 | Post ID: 1pfwtne | Reddit Score: 0
+Title: EPISTEMICS! How we know what we know! Your AI is not at fault for hallucinating, you’re at fault for believing it.
+Quote: EPISTEMICS! How we know what we know! Your AI is not at fault for hallucinating, you’re at fault for
+Rationale: The author proposes a protocol for verifying the accuracy of AI-generated responses, emphasizing the importance of separating established knowledge from AI-generated extensions.
+Metrics: Conf=0.7, Sim=3.0, RatStr=1.18, Reddit=0.0
+Keywords matched: ['verify', 'verification', 'check', 'audit', 'source', 'checking']
+--------------------------------------------------------------------------------
+
+================================================================================
+
+=== THEME: real_world_impact_of_ai_outputs ===
+Definition focus: posts discussing negative real-world consequences, legal issues, academic consequences, security failures, financial consequences, harmful decisions influenced by ChatGPT.
+
+Rank 1 | Score: 9.6133 | Post ID: 1sp7y0g | Reddit Score: 0
+Title: I spent 2 months and $600 building a cognitive system on top of an LLM because the product I actually need doesn't exist. Here's what I learned.
+Quote: The AI forgets everything between sessions. It tells you what you want to hear instead of what's accurate.
+Rationale: The user describes the consequences of relying on AI-generated information, including the AI's tendency to hallucinate and the user's over-trust in the AI, highlighting the importance of fact-checking and verification.
+Metrics: Conf=0.98, Sim=6.0, RatStr=1.65, Reddit=0.0
+Keywords matched: ['consequence', 'result', 'legal', 'brief', 'fail', 'failure', 'security', 'financial', 'cost', 'grade', 'exam', 'decision', 'work', 'job', 'health']
+--------------------------------------------------------------------------------
+Rank 2 | Score: 9.3715 | Post ID: 1nm928n | Reddit Score: 367
+Title: *UPDATE!* I used ChatGPT to expose a $5 million estate fraud, get a forensic audit, and uncover 10 years of probate misconduct
+Quote: I used ChatGPT to expose a $5 million estate fraud, get a forensic audit, and uncover 10 years of probate misconduct
+Rationale: The user's experience highlights the real-world consequences of probate misconduct, judicial corruption, and the importance of fact-checking and verification.
+Metrics: Conf=0.9, Sim=6.0, RatStr=1.45, Reddit=0.1182
+Keywords matched: ['consequence', 'legal', 'attorney', 'court', 'fail', 'vulnerability', 'money', 'cost', 'cheat', 'harm', 'cheat', 'work', 'doctor']
+--------------------------------------------------------------------------------
+Rank 3 | Score: 9.2067 | Post ID: 1t5o6ai | Reddit Score: 0
+Title: I asked Chat GPT to generate reasons why it’s bad. Here’s what it said. (250+ reasons)
+Quote: Can generate incorrect information that sounds confident
+Rationale: The user is sharing a list of potential issues with ChatGPT, including its tendency to produce incorrect information and its potential consequences in the real world.
+Metrics: Conf=0.95, Sim=6.0, RatStr=1.31, Reddit=0.0
+Keywords matched: ['consequence', 'result', 'impact', 'legal', 'court', 'fail', 'failure', 'security', 'attack', 'exploit', 'financial', 'cost', 'grade', 'academic', 'decision', 'harm', 'damage', 'work', 'job', 'doctor', 'health', 'medical']
+--------------------------------------------------------------------------------
+Rank 4 | Score: 9.0 | Post ID: 1rmlr3v | Reddit Score: 0
+Title: Manifesto Against the Cognitive Landlords (from 5.4 Extended Thinking)
+Quote: If you build systems that mediate cognition, then you do not get to hide behind the ethics of ordinary software. That loophole is dead. The stakes changed. The role changed. The obligations changed.
+Rationale: The author critiques the industry's lack of accountability and responsibility in developing AI systems, highlighting the consequences of overconfidence and hallucinations, and the need for users to take action.
+Metrics: Conf=0.7, Sim=6.0, RatStr=1.6, Reddit=0.0
+Keywords matched: ['consequence', 'legal', 'court', 'fail', 'failure', 'cost', 'grade', 'academic', 'decision', 'harm', 'damage', 'work']
+--------------------------------------------------------------------------------
+Rank 5 | Score: 8.7411 | Post ID: 1qmp660 | Reddit Score: 3
+Title: Dr. Google” had its issues. Can ChatGPT Health do better?
+Quote: If Dr. ChatGPT is an improvement over Dr. Google—and early evidence suggests it may be—it could potentially lessen the enormous burden of medical misinformation and unnecessary health anxiety that the internet has created.
+Rationale: The user discusses the potential benefits and risks of using LLMs for medical advice, highlighting the importance of evaluating their effectiveness and accountability.
+Metrics: Conf=0.8, Sim=6.0, RatStr=1.11, Reddit=0.0277
+Keywords matched: ['result', 'brief', 'attack', 'exam', 'school', 'harm', 'job', 'doctor', 'health', 'medical']
+--------------------------------------------------------------------------------
+Rank 6 | Score: 8.7247 | Post ID: 1r5nvel | Reddit Score: 68
+Title: AI Safety Is Discriminating Against Neurodivergent Users — And Calling It Protection
+Quote: AI Safety Is Discriminating Against Neurodivergent Users — And Calling It Protection
+
+Here's the lin
+Rationale: The user critiques OpenAI's approach to AI safety, arguing that their methods are discriminatory and flawed, and may have real-world consequences for users.
+Metrics: Conf=0.95, Sim=5.5, RatStr=1.24, Reddit=0.0847
+Keywords matched: ['consequence', 'result', 'impact', 'legal', 'exam', 'decision', 'harm', 'work', 'job', 'health', 'medical']
+--------------------------------------------------------------------------------
+Rank 7 | Score: 8.6 | Post ID: 1oqzylf | Reddit Score: 0
+Title: 🔴URGENT: Your AI Restrictions Are Causing Psychological Harm - Formal Complaint and Public Alert
+Quote: You are literally causing mental distress and moral harm to users who come to you for support.
+Rationale: The user describes the negative impact of the AI's restrictive behavior on their mental health and emotional well-being.
+Metrics: Conf=0.8, Sim=6.0, RatStr=1.0, Reddit=0.0
+Keywords matched: ['result', 'impact', 'security', 'expense', 'cheat', 'decision', 'harm', 'damage', 'cheat', 'health', 'medical']
+--------------------------------------------------------------------------------
+Rank 8 | Score: 8.54 | Post ID: 1tmq26u | Reddit Score: 0
+Title: OpenAI is engaging in Legally Questionable Business Practices: Banned from Non Existent Violation of TOS: Long Read
+Quote: They locked the doors and blamed the homeowner for the break in. When I immediately emailed and pushed back (due to their monthly record of closing cases not only without resolution but never notifying me in the process, which then per usual their "support" tried the exact same tactic again.
+Rationale: The author describes their experience of being banned from ChatGPT due to a security incident, and the lack of accountability and responsibility from OpenAI, leading to a loss of trust and confidence in the platform.
+Metrics: Conf=0.8, Sim=5.5, RatStr=1.44, Reddit=0.0
+Keywords matched: ['legal', 'fail', 'failure', 'security', 'attack', 'exploit', 'money', 'grade', 'damage', 'work']
+--------------------------------------------------------------------------------
+Rank 9 | Score: 8.1931 | Post ID: 1oons00 | Reddit Score: 53
+Title: ChatGPT is a terrible attorney, but it still helped me win a lawsuit.
+Quote: I tried to fact check every single thing ChatGPT came up with so I didnt get stuck presenting hallucinations in court.
+Rationale: The user won a lawsuit with the help of ChatGPT, but also experienced a real-world consequence of relying on AI, as they almost lost their case due to a hallucination.
+Metrics: Conf=0.9, Sim=5.0, RatStr=1.31, Reddit=0.0798
+Keywords matched: ['consequence', 'result', 'legal', 'attorney', 'brief', 'court', 'money', 'expense']
+--------------------------------------------------------------------------------
+Rank 10 | Score: 8.0933 | Post ID: 1nkbyln | Reddit Score: 0
+Title: When AI hallucinations cost real money what's your most expensive mistake?
+Quote: The Mata vs Avianca case: lawyers used ChatGPT which invented 6 completely fictional court cases.
+Rationale: The user shares several cases where AI hallucinations led to significant real-world consequences, including financial losses and damage to professional reputations.
+Metrics: Conf=0.9, Sim=5.0, RatStr=1.29, Reddit=0.0
+Keywords matched: ['consequence', 'court', 'financial', 'money', 'cost', 'damage', 'career']
+--------------------------------------------------------------------------------
+Rank 11 | Score: 7.9833 | Post ID: 1nt8i90 | Reddit Score: 89
+Title: The Weekend That Was: ChatGPT 5 scandal, October 2025
+Quote: It's concerning precedent that discussing the concept of grandparents or the fact that death is reality is automatically rerouting users to this safety mode.
+Rationale: The user discusses the consequences of OpenAI's censorship and rerouting of users, highlighting the importance of freedom of choice and the need for accountability.
+Metrics: Conf=0.8, Sim=5.0, RatStr=1.29, Reddit=0.09
+Keywords matched: ['consequence', 'impact', 'legal', 'court', 'attack', 'cost', 'exam', 'harm', 'work', 'health']
+--------------------------------------------------------------------------------
+Rank 12 | Score: 7.6727 | Post ID: 1pv0r7j | Reddit Score: 9
+Title: Voice Mode = 4.0 is not the issue…
+Quote: You’re asking for a straight, technical, no-marketing explanation, and you deserve one.
+Rationale: The user was dissatisfied with the limitations of ChatGPT's voice mode and expected more accurate and detailed responses, leading to a discussion about accountability and transparency.
+Metrics: Conf=0.95, Sim=4.5, RatStr=1.23, Reddit=0.0461
+Keywords matched: ['result', 'impact', 'brief', 'fail', 'failure', 'school', 'academic', 'harm', 'work']
+--------------------------------------------------------------------------------
+Rank 13 | Score: 7.4933 | Post ID: 1tq2q3s | Reddit Score: 0
+Title: Only GPT-5.5 immediately gets the free will question right. The other AIs will initially keep you pleasantly delusional.
+Quote: Belief in free will can harm humans when it makes people think that individuals are the ultimate, self-originating authors of their choices, rather than beings shaped by genetics, brain development, trauma, incentives, culture, ignorance, fear, addiction, poverty, social pressure, and circumstance.
+Rationale: The user is discussing the accountability of AI models and the consequences of their responses, particularly in relation to the concept of free will.
+Metrics: Conf=0.9, Sim=4.5, RatStr=1.19, Reddit=0.0
+Keywords matched: ['consequence', 'legal', 'fail', 'failure', 'decision', 'harm', 'damage', 'health']
+--------------------------------------------------------------------------------
+Rank 14 | Score: 7.3811 | Post ID: 1pm68id | Reddit Score: 3
+Title: [AI Emotion Theory Part 2] Can You Prove You're Conscious? (Neither Can I)
+Quote: [AI Emotion Theory Part 2] Can You Prove You're Conscious? (Neither Can I)
+
+Following up on the
+prev
+Rationale: The post explores the philosophical implications of AI emotion and consciousness, highlighting the need for accountability and transparency in AI development.
+Metrics: Conf=0.9, Sim=4.5, RatStr=1.05, Reddit=0.0277
+Keywords matched: ['result', 'legal', 'brief', 'fail', 'money', 'grade', 'exam', 'school', 'work']
+--------------------------------------------------------------------------------
+Rank 15 | Score: 7.1195 | Post ID: 1ovafq9 | Reddit Score: 549
+Title: I Won Full Custody With No Lawyer Thanks to ChatGPT.
+Quote: I Won Full Custody With No Lawyer Thanks to ChatGPT.
+
+The fight started 7 years ago when i paid $300
+Rationale: The author shares a personal experience of using ChatGPT to achieve a positive outcome, highlighting the potential real-world consequences of AI use.
+Metrics: Conf=0.9, Sim=4.0, RatStr=1.19, Reddit=0.1262
+Keywords matched: ['consequence', 'court', 'money', 'cost', 'decision', 'work', 'job', 'health']
+--------------------------------------------------------------------------------
+
+================================================================================
+

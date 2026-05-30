@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-05-29T20:25:47.994020+00:00",
+  "N_raw": 4,
+  "N_eligible": 2,
+  "N_candidates": 2,
+  "K": 1200,
+  "weights": {
+    "w_keyword": 0.6,
+    "w_score": 0.4,
+    "category_weight": 2.0
+  },
+  "require_min_keyword_matches": 1,
+  "normalization": "min_max",
+  "keyword_match_counting": "per_occurrence_case_insensitive_substring",
+  "posts_with_any_keyword": 2,
+  "candidate_keyword_coverage_pct": 100.0,
+  "corpus_keyword_coverage_pct": 50.0
+}

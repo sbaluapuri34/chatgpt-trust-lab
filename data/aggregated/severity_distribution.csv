@@ -1,0 +1,19 @@
+theme_slug,theme_label,severity,raw_count,weighted_count
+over_reliance_on_ai_outputs,Over-Reliance on AI Outputs,high,22,68.64
+over_reliance_on_ai_outputs,Over-Reliance on AI Outputs,low,31,44.85
+over_reliance_on_ai_outputs,Over-Reliance on AI Outputs,medium,20,43.02
+overconfident_incorrect_outputs,Confidently Incorrect Outputs,high,115,165.39
+overconfident_incorrect_outputs,Confidently Incorrect Outputs,low,20,45.08
+overconfident_incorrect_outputs,Confidently Incorrect Outputs,medium,50,82.44
+persuasive_outputs_trust_formation,Persuasive Outputs & Trust Formation,high,4,2.48
+persuasive_outputs_trust_formation,Persuasive Outputs & Trust Formation,low,32,80.23
+persuasive_outputs_trust_formation,Persuasive Outputs & Trust Formation,medium,10,16.67
+real_world_impact_of_ai_outputs,Real-World Impact of AI Outputs,high,101,263.58
+real_world_impact_of_ai_outputs,Real-World Impact of AI Outputs,low,9,10.38
+real_world_impact_of_ai_outputs,Real-World Impact of AI Outputs,medium,21,44.11
+user_evaluation_verification_behavior,User Evaluation & Verification Behavior,high,12,22.67
+user_evaluation_verification_behavior,User Evaluation & Verification Behavior,low,57,66.56
+user_evaluation_verification_behavior,User Evaluation & Verification Behavior,medium,18,26.6
+user_trust_breakdown,User Trust Breakdown,high,44,141.09
+user_trust_breakdown,User Trust Breakdown,low,4,7.6
+user_trust_breakdown,User Trust Breakdown,medium,24,73.58

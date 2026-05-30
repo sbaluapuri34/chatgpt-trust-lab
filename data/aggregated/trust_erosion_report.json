@@ -1,0 +1,13 @@
+{
+  "metrics": {
+    "total_relevant_posts": 594,
+    "true_positives": 8,
+    "false_positives": 64,
+    "false_negatives": 12,
+    "true_negatives": 510,
+    "precision_of_signal": 0.1111,
+    "recall_of_signal": 0.4,
+    "f1_score": 0.1739
+  },
+  "interpretation": "This diagnostic panel compares the final LLM-assigned 'trust_erosion' research theme with the preprocessing keyword pre-screening signal 'match_trust_loss'. A high precision indicates that keyword matches are highly predictive of final thematic alignment, while recall measures how many trust erosion posts had pre-screening flags."
+}

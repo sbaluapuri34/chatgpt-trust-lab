@@ -1,0 +1,9 @@
+{
+  "funnel_table": {
+    "total_ingested_raw_posts": 1091,
+    "preselected_keyword_candidates": 729,
+    "stage1_confirmed_relevant_posts": 594,
+    "stage2_deep_theme_analyzed_posts": 594
+  },
+  "methodology_disclaimer": "DISTINCTION SNIPPET: Phase 2 preprocessing keyword match metrics (Confidence, Hallucinations, Trust, consequences) are statistical markers used solely for pre-screening candidates. They represent simple substring counts. In contrast, Phase 3 Research Themes (assigned by Groq llama-3.1-8b-instant) represent semantic, human-aligned categorizations based on full post narratives. Final analysis dashboard and charts MUST use Stage 2 primary/secondary themes only."
+}

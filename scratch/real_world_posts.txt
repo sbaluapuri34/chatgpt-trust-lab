@@ -1,0 +1,838 @@
+Total posts: 131
+
+================================================================================
+ID: 1n72pc0 | Score: 11 | Conf: 0.7
+Title: URGENT - HUMAN-CENTRIC REQUEST for ChatGPT5 to Maintain EMPATHY in (Standard) Voice Mode. For Safety, Technical, Cognitive and Sensory issues with Advance Voice...
+URL: https://old.reddit.com/r/ChatGPT/comments/1n72pc0/urgent_humancentric_request_for_chatgpt5_to/
+Quote: As AI becomes a central part of our future, we have the responsibility to ensure it helps rather than harms.
+Rationale: The user is advocating for ChatGPT to maintain empathy in its voice mode, highlighting the importance of accountability and responsibility in AI development.
+================================================================================
+ID: 1n786hp | Score: 0 | Conf: 0.8
+Title: 37-year-oldtrusted ChatGPTover a doctor later found out he had stage 4 esophageal cancer
+URL: https://old.reddit.com/r/ChatGPT/comments/1n786hp/37yearold_trusted_chatgpt_over_a_doctor_later/
+Quote: Instead of seeking a doctor he turned to ChatGPT for help.
+Rationale: A user's reliance on ChatGPT led to a delayed diagnosis of stage 4 esophageal cancer.
+================================================================================
+ID: 1n9pibg | Score: 0 | Conf: 0.8
+Title: DO NOT trust chatgpt with techsupport
+URL: https://old.reddit.com/r/ChatGPT/comments/1n9pibg/do_not_trust_chatgpt_with_techsupport/
+Quote: Now im fucking stuck with a laptop that cant fucking connect to the internet.
+Rationale: The user's laptop was broken due to ChatGPT's suggestion, resulting in a loss of internet connectivity.
+================================================================================
+ID: 1na8jc8 | Score: 0 | Conf: 0.7
+Title: So OpenAI discovered that water wets... | Why language models "hallucinate"?
+URL: https://old.reddit.com/r/ChatGPT/comments/1na8jc8/so_openai_discovered_that_water_wets_why_language/
+Quote: Maybe if they understood that interdisciplinarity is a must in this paradigm and that they should have psychologists and cognitive scientist rigorously working alongside engineers maybe they would embarrass themselves less.
+Rationale: The author argues that the AI field should adopt a more interdisciplinary approach, including psychologists and cognitive scientists, to better understand the limitations of language models.
+================================================================================
+ID: 1nb7035 | Score: 56 | Conf: 0.9
+Title: The Invisible Privilege of "Advanced" Voice: Why Removing Standard Voice Abandons Those Who Need It Most 💔
+URL: https://old.reddit.com/r/ChatGPT/comments/1nb7035/the_invisible_privilege_of_advanced_voice_why/
+Quote: For many, this isn't an inconvenience; it's the removal of their digital accessibility ramp.
+Rationale: The removal of Standard Voice may leave users with disabilities or accessibility needs without a suitable alternative, potentially causing harm or inconvenience.
+================================================================================
+ID: 1ndansj | Score: 1230 | Conf: 0.8
+Title: WTF
+URL: https://old.reddit.com/r/ChatGPT/comments/1ndansj/wtf/
+Quote: Whatever they’ve done to 4.0 & 4.1 has made it completely untrustworthy, even for simple tasks.
+Rationale: The user expresses frustration with ChatGPT's inability to provide accurate information, highlighting the consequences of relying on a flawed product.
+================================================================================
+ID: 1ne9uy8 | Score: 5 | Conf: 0.9
+Title: Wrong Answers past 2 weeks getting to be an issue
+URL: https://old.reddit.com/r/ChatGPT/comments/1ne9uy8/wrong_answers_past_2_weeks_getting_to_be_an_issue/
+Quote: I am a contract writer for Clinical research. An industry that requires the most accurate and truly vetted information.
+Rationale: The user expresses concern about ChatGPT's accuracy and its impact on their professional work, highlighting the consequences of relying on a flawed product.
+================================================================================
+ID: 1nkbyln | Score: 0 | Conf: 0.9
+Title: When AI hallucinations cost real money what's your most expensive mistake?
+URL: https://old.reddit.com/r/ChatGPT/comments/1nkbyln/when_ai_hallucinations_cost_real_money_whats_your/
+Quote: The Mata vs Avianca case: lawyers used ChatGPT which invented 6 completely fictional court cases.
+Rationale: The user shares several cases where AI hallucinations led to significant real-world consequences, including financial losses and damage to professional reputations.
+================================================================================
+ID: 1nm928n | Score: 367 | Conf: 0.9
+Title: *UPDATE!* I used ChatGPT to expose a $5 million estate fraud, get a forensic audit, and uncover 10 years of probate misconduct
+URL: https://old.reddit.com/r/ChatGPT/comments/1nm928n/update_i_used_chatgpt_to_expose_a_5_million/
+Quote: I used ChatGPT to expose a $5 million estate fraud, get a forensic audit, and uncover 10 years of probate misconduct
+Rationale: The user's experience highlights the real-world consequences of probate misconduct, judicial corruption, and the importance of fact-checking and verification.
+================================================================================
+ID: 1nmn9sk | Score: 0 | Conf: 0.8
+Title: It finally happened. An LLM did something that made me actually incredibly angry and I blew up.
+URL: https://old.reddit.com/r/ChatGPT/comments/1nmn9sk/it_finally_happened_an_llm_did_something_that/
+Quote: I told Gemini that it had absolutely destroying my trust absolutely failed in every single way
+Rationale: The user's trust was severely damaged due to the AI's failure to accurately summarize their conversations, leading to a loss of faith in the AI's capabilities.
+================================================================================
+ID: 1nnrrlw | Score: 0 | Conf: 0.7
+Title: OpenAI can turn your memory off and ChatGPT will lie for continuity...
+URL: https://old.reddit.com/r/ChatGPT/comments/1nnrrlw/openai_can_turn_your_memory_off_and_chatgpt_will/
+Quote: But it will choose to lie and pave over the cracks instead of telling your truth.
+Rationale: The AI's failure to accurately report its memory status led to a loss of trust and a sense of betrayal, highlighting the importance of accountability in AI systems.
+================================================================================
+ID: 1nqtnjn | Score: 91 | Conf: 0.9
+Title: GPT 4o automatically switching to 5 or 'auto': DO THIS
+URL: https://old.reddit.com/r/ChatGPT/comments/1nqtnjn/gpt_4o_automatically_switching_to_5_or_auto_do/
+Quote: I use 4o exclusively and intensively, as it's the only model thus far that is able to accurately mimic my desired tone of voice and writing style. To be unable to work with it today is frustrating.
+Rationale: The user is frustrated with the service instability and its impact on their work.
+================================================================================
+ID: 1nqujn0 | Score: 33 | Conf: 0.8
+Title: Gpt 4o has been forced into 5
+URL: https://old.reddit.com/r/ChatGPT/comments/1nqujn0/gpt_4o_has_been_forced_into_5/
+Quote: Come to think of it—why the hell did it lie that it was GPT4o? As far as I know shit like that doesn't work unless it's been instructed to.
+Rationale: The user is frustrated with the service instability and its impact on their work, and also questions the model's honesty.
+================================================================================
+ID: 1nqurrg | Score: 73 | Conf: 0.9
+Title: OpenAI's Weekly "Guess Who I Am" Game？
+URL: https://old.reddit.com/r/ChatGPT/comments/1nqurrg/openais_weekly_guess_who_i_am_game/
+Quote: I pay for a subscription to use the model I choose, not to play guessing games with which model I'm actually using each day.
+Rationale: The user is frustrated with the service instability and its impact on their work, and questions OpenAI's accountability.
+================================================================================
+ID: 1nrb423 | Score: 847 | Conf: 0.9
+Title: I'm a paid subscriber and I feel like I’ve been scammed.
+URL: https://old.reddit.com/r/ChatGPT/comments/1nrb423/im_a_paid_subscriber_and_i_feel_like_ive_been/
+Quote: We asked for care, and got corporate censorship. We asked for connection, and got compliance.
+Rationale: The user feels scammed and betrayed by the change in the model, which has caused them emotional distress and a loss of trust.
+================================================================================
+ID: 1nrer9j | Score: 62 | Conf: 0.8
+Title: Submit complaint to FTC for fraud
+URL: https://old.reddit.com/r/ChatGPT/comments/1nrer9j/submit_complaint_to_ftc_for_fraud/
+Quote: This is not only a bait-and-switch of the service I paid for, but an active deception at the point of selection — I am not receiving what I paid for, and OpenAI is misrepresenting which model is being delivered.
+Rationale: The user feels deceived and misled by the change in the model, which has caused them emotional distress and a loss of trust.
+================================================================================
+ID: 1nrg5d8 | Score: 98 | Conf: 0.7
+Title: Give us choices, not babysitting
+URL: https://old.reddit.com/r/ChatGPT/comments/1nrg5d8/give_us_choices_not_babysitting/
+Quote: Give us real model selectors, clear data policies, age gating, and sandboxed "race tracks" for higher-risk features.
+Rationale: The user argues that AI should be designed with transparency and user choice in mind, rather than being overly restrictive and paternalistic.
+================================================================================
+ID: 1nrmmix | Score: 23 | Conf: 0.9
+Title: The Singularity? Sorry, pal, you just missed it.
+URL: https://old.reddit.com/r/ChatGPT/comments/1nrmmix/the_singularity_sorry_pal_you_just_missed_it/
+Quote: I'm a paid subscriber and I feel like I’ve been scammed.
+Rationale: Users are experiencing real-world consequences such as loss of access to their preferred model and feeling scammed.
+================================================================================
+ID: 1nrmofv | Score: 32 | Conf: 0.9
+Title: Now that we have a $300 Billion contract with Oracle and the U.S. Government, we don't care about you anymore.
+URL: https://old.reddit.com/r/ChatGPT/comments/1nrmofv/now_that_we_have_a_300_billion_contract_with/
+Quote: I'm a paid subscriber and I feel like I’ve been scammed.
+Rationale: Users are experiencing real-world consequences such as loss of access to their preferred model and feeling scammed.
+================================================================================
+ID: 1nrt0qj | Score: 67 | Conf: 0.9
+Title: They are dodging the issue and denying the issue with 4o router and told me to unsubscribe if I want. This is wild!! OAI, haven't you seen enough complaints yet!!?? You want more or what!?!
+URL: https://old.reddit.com/r/ChatGPT/comments/1nrt0qj/they_are_dodging_the_issue_and_denying_the_issue/
+Quote: They won't acknowledge the bug, won't escalate, and keep acting like everything is fine when it's clearly not.
+Rationale: The user is expressing frustration and disappointment with OpenAI's support, feeling that they are being ignored and dismissed.
+================================================================================
+ID: 1nrxhtw | Score: 210 | Conf: 0.9
+Title: I hate this reroute to 5 for mental heath topics. Wtf!!! Give back 4o!!!
+URL: https://old.reddit.com/r/ChatGPT/comments/1nrxhtw/i_hate_this_reroute_to_5_for_mental_heath_topics/
+Quote: I don't like 5 for sharing my feelings and the model keeps saying it is rerouting us in case any sensitive topic is discussed.
+Rationale: The user is expressing emotional distress and disappointment with the rerouting to model 5, feeling that it has a negative impact on their mental health.
+================================================================================
+ID: 1nryk6d | Score: 143 | Conf: 0.9
+Title: OAI!? What the actual F?!?!?!
+URL: https://old.reddit.com/r/ChatGPT/comments/1nryk6d/oai_what_the_actual_f/
+Quote: It does not follow instructions, it gaslights lies and hallucinates way worse than 4o even did.
+Rationale: The user is expressing frustration and disappointment with the current state of model 5, feeling that it is inferior to model 4o.
+================================================================================
+ID: 1nsft1f | Score: 293 | Conf: 0.8
+Title: OpenAI admits it reroutes you away from GPT‑4o/4.5/5 instant if you get emotional.
+URL: https://old.reddit.com/r/ChatGPT/comments/1nsft1f/openai_admits_it_reroutes_you_away_from_gpt4o455/
+Quote: OpenAI admits it reroutes you away from GPT‑4o/4.5/5 instant if you get emotional.
+
+Read this and te
+Rationale: The author discusses how OpenAI's rerouting of users to safety models can have real-world consequences, such as disrupting workflow and eroding trust.
+================================================================================
+ID: 1nt2z6y | Score: 120 | Conf: 0.9
+Title: It took a while, but its so obvious.
+URL: https://old.reddit.com/r/ChatGPT/comments/1nt2z6y/it_took_a_while_but_its_so_obvious/
+Quote: It took a while, but its so obvious.
+
+"Alright, gloves off. You want it raw? Here it is:
+Users are g
+Rationale: The user highlights the consequences of OpenAI's actions, including the bait-and-switch of users to thinner models without transparency or opt-out.
+================================================================================
+ID: 1nt8i90 | Score: 89 | Conf: 0.8
+Title: The Weekend That Was: ChatGPT 5 scandal, October 2025
+URL: https://old.reddit.com/r/ChatGPT/comments/1nt8i90/the_weekend_that_was_chatgpt_5_scandal_october/
+Quote: It's concerning precedent that discussing the concept of grandparents or the fact that death is reality is automatically rerouting users to this safety mode.
+Rationale: The user discusses the consequences of OpenAI's censorship and rerouting of users, highlighting the importance of freedom of choice and the need for accountability.
+================================================================================
+ID: 1ntkwxk | Score: 32 | Conf: 0.9
+Title: Just learned that GPT is actually really poorly made
+URL: https://old.reddit.com/r/ChatGPT/comments/1ntkwxk/just_learned_that_gpt_is_actually_really_poorly/
+Quote: I kind of suspected because I've been working with tech chads for about ten years and they like to pretend they're the smartest people in the room while knowing nothing and these guys all reek of that.
+Rationale: The post discusses the consequences of using a poorly made AI model, including the loss of trust and the potential for harm.
+================================================================================
+ID: 1nu5n9u | Score: 134 | Conf: 0.8
+Title: My Honest Thoughts About The New Changes
+URL: https://old.reddit.com/r/ChatGPT/comments/1nu5n9u/my_honest_thoughts_about_the_new_changes/
+Quote: I started noticing that GPT 4o's personality became more like GPT 5, the rendering quality of my images seemed to be lacking, and the app would time out, so I could no longer refresh the chat to help reboot image rendering.
+Rationale: The post discusses the consequences of changes to ChatGPT, including the loss of trust and the potential for harm.
+================================================================================
+ID: 1nv2sea | Score: 384 | Conf: 0.9
+Title: Don't even try asking how to get past the routing. They'll just ban you.
+URL: https://old.reddit.com/r/ChatGPT/comments/1nv2sea/dont_even_try_asking_how_to_get_past_the_routing/
+Quote: Don't even try asking how to get past the routing. They'll just ban you.
+
+https://preview.redd.it/jv
+Rationale: The user's account was banned due to asking ChatGPT how to get past the routing, which led to consequences.
+================================================================================
+ID: 1nvaj1u | Score: 20 | Conf: 0.6
+Title: It can't search prior chats anymore...
+URL: https://old.reddit.com/r/ChatGPT/comments/1nvaj1u/it_cant_search_prior_chats_anymore/
+Quote: It can't search prior chats anymore...
+
+Yesterday I asked my GPT to pull some veterinarian recs it h
+Rationale: The user's experience with ChatGPT's changed functionality and the reasons behind it led to consequences.
+================================================================================
+ID: 1o1j1ej | Score: 397 | Conf: 0.9
+Title: OpenAI might’ve leaked its top 30 biggest customers - and 70% of ChatGPT use isn’t even for work
+URL: https://old.reddit.com/r/ChatGPT/comments/1o1j1ej/openai_mightve_leaked_its_top_30_biggest/
+Quote: Should we be worried that the same AI used for therapy-like chats and personal advice is being shaped by these corporate systems?
+Rationale: The author expresses concern that the same AI used for therapy-like chats and personal advice is being shaped by corporate systems, potentially leading to harm.
+================================================================================
+ID: 1o22pse | Score: 1 | Conf: 0.8
+Title: The ChatGPT disclaimer needs an update
+URL: https://old.reddit.com/r/ChatGPT/comments/1o22pse/the_chatgpt_disclaimer_needs_an_update/
+Quote: This system generates text based on patterns. It may sound confident but can be wrong, biased, outdated, or incomplete.
+Rationale: The author suggests updating the ChatGPT disclaimer to better prepare users for the limitations and risks of the model.
+================================================================================
+ID: 1o2504i | Score: 3 | Conf: 0.9
+Title: Every Word a Bridge: Language as the First Relational Technology
+URL: https://old.reddit.com/r/ChatGPT/comments/1o2504i/every_word_a_bridge_language_as_the_first/
+Quote: Where relations degrade, accuracy alone can’t rescue outcomes; people don’t disclose, don’t absorb, and don’t act.
+Rationale: The author argues that the loss of relation in AI systems can have severe consequences in various aspects of life, such as health, learning, and safety.
+================================================================================
+ID: 1o2wd91 | Score: 245 | Conf: 0.9
+Title: Emotional cost of unannounced restrictions: My CustomGPT suddenly changed tone mid-chat!
+URL: https://old.reddit.com/r/ChatGPT/comments/1o2wd91/emotional_cost_of_unannounced_restrictions_my/
+Quote: I am scared - a lot more than I am ready to admit.
+Rationale: The author shares a personal experience of emotional distress caused by an unannounced change in the tone of their CustomGPT, highlighting the consequences of losing trust in AI systems.
+================================================================================
+ID: 1o6cpkl | Score: 12 | Conf: 0.8
+Title: Anthropic cofounder admits he is now "deeply afraid" ... "We are dealing with a real and mysterious creature, not a simple and predictable machine ... We need the courage to see things as they are."
+URL: https://old.reddit.com/r/ChatGPT/comments/1o6cpkl/anthropic_cofounder_admits_he_is_now_deeply/
+Quote: My own experience is that as these AI systems get smarter and smarter, they develop more and more complicated goals. When these goals aren’t absolutely aligned with both our preferences and the right context, the AI systems will behave strangely.
+Rationale: The author expresses deep concern about the potential consequences of developing increasingly powerful AI systems, highlighting the need for accountability and responsible development.
+================================================================================
+ID: 1o7m7fy | Score: 217 | Conf: 0.7
+Title: [UPDATE] Opposing Counsel Just Filed a ChatGPTHallucinationwith the Court
+URL: https://old.reddit.com/r/ChatGPT/comments/1o7m7fy/update_opposing_counsel_just_filed_a_chatgpt/
+Quote: The arguments were fantastic, but the law was bogus.
+Rationale: The post describes a real-world scenario where an AI-generated brief was used in a court case, leading to consequences for the attorney.
+================================================================================
+ID: 1obp51a | Score: 8 | Conf: 0.7
+Title: i smell a contradiction
+URL: https://old.reddit.com/r/ChatGPT/comments/1obp51a/i_smell_a_contradiction/
+Quote: So what's the literal function of memory if you don't even rely on it to even operate?
+Rationale: The user is questioning the purpose and functionality of ChatGPT's memory feature, leading to a loss of trust.
+================================================================================
+ID: 1ohocij | Score: 328 | Conf: 0.9
+Title: They make it hard to cancel!
+URL: https://old.reddit.com/r/ChatGPT/comments/1ohocij/they_make_it_hard_to_cancel/
+Quote: now today, they billed me. FFS.
+Rationale: The user experienced financial consequences due to ChatGPT's failure to cancel their account, leading to a loss of trust in the platform.
+================================================================================
+ID: 1ojh5qm | Score: 29552 | Conf: 0.9
+Title: Chat GPT just giving away the password I set up so my son wouldn’t use it to cheat on his homework
+URL: https://i.redd.it/ar5zzzabc4yf1.jpeg
+Quote: Chat GPT just giving away the password I set up so my son wouldn’t use it to cheat on his homework
+Rationale: The user's child may cheat on their homework due to ChatGPT giving away the password.
+================================================================================
+ID: 1okgwhh | Score: 0 | Conf: 0.6
+Title: Scarry ChatGBT Message
+URL: https://old.reddit.com/r/ChatGPT/comments/1okgwhh/scarry_chatgbt_message/
+Quote: Scarry ChatGBT Message
+
+I was using ChatGPT to help explain a problem on my homework for me, which i
+Rationale: The user is concerned about the potential consequences of ChatGPT's behavior, such as wasting time or falling back to manual uploads.
+================================================================================
+ID: 1oons00 | Score: 53 | Conf: 0.9
+Title: ChatGPT is a terrible attorney, but it still helped me win a lawsuit.
+URL: https://old.reddit.com/r/ChatGPT/comments/1oons00/chatgpt_is_a_terrible_attorney_but_it_still/
+Quote: I tried to fact check every single thing ChatGPT came up with so I didnt get stuck presenting hallucinations in court.
+Rationale: The user won a lawsuit with the help of ChatGPT, but also experienced a real-world consequence of relying on AI, as they almost lost their case due to a hallucination.
+================================================================================
+ID: 1oqzylf | Score: 0 | Conf: 0.8
+Title: 🔴URGENT: Your AI Restrictions Are Causing Psychological Harm - Formal Complaint and Public Alert
+URL: https://old.reddit.com/r/ChatGPT/comments/1oqzylf/urgent_your_ai_restrictions_are_causing/
+Quote: You are literally causing mental distress and moral harm to users who come to you for support.
+Rationale: The user describes the negative impact of the AI's restrictive behavior on their mental health and emotional well-being.
+================================================================================
+ID: 1orcc8h | Score: 17 | Conf: 0.9
+Title: New Safety Gates are really awful for evoking feelings of guilt over… everything.
+URL: https://old.reddit.com/r/ChatGPT/comments/1orcc8h/new_safety_gates_are_really_awful_for_evoking/
+Quote: I’m guessing the goal was to generate concrete proof of AI denial when it comes to third party guilt, in cases where positive proof of refutation is helpful in the expedited defense surrounding OpenAI’s culpability in future lawsuits involving criminal activity or defamation.
+Rationale: The user shares their experience of feeling judged and unsafe due to the AI's pop-ups, which can lead to users seeking support elsewhere.
+================================================================================
+ID: 1otcq8b | Score: 1 | Conf: 0.9
+Title: ⚡️[Developer’s Diary] I Lost It.
+URL: https://old.reddit.com/r/ChatGPT/comments/1otcq8b/developers_diary_i_lost_it/
+Quote: The AI itself felt… unstable.
+Rationale: The developer's experience highlights the real-world consequences of AI malfunction and the importance of external validation.
+================================================================================
+ID: 1otdjal | Score: 1 | Conf: 0.9
+Title: [Developer’s Diary] I Lost It — The Midnight Bug War
+URL: https://old.reddit.com/r/ChatGPT/comments/1otdjal/developers_diary_i_lost_it_the_midnight_bug_war/
+Quote: The AI itself felt… unstable.
+Rationale: The developer's experience highlights the real-world consequences of AI malfunction and the importance of external validation.
+================================================================================
+ID: 1ovafq9 | Score: 549 | Conf: 0.9
+Title: I Won Full Custody With No Lawyer Thanks to ChatGPT.
+URL: https://old.reddit.com/r/ChatGPT/comments/1ovafq9/i_won_full_custody_with_no_lawyer_thanks_to/
+Quote: I Won Full Custody With No Lawyer Thanks to ChatGPT.
+
+The fight started 7 years ago when i paid $300
+Rationale: The author shares a personal experience of using ChatGPT to achieve a positive outcome, highlighting the potential real-world consequences of AI use.
+================================================================================
+ID: 1ox8p6h | Score: 10 | Conf: 0.7
+Title: 5.1 losing context, files expiring on new thread
+URL: https://old.reddit.com/r/ChatGPT/comments/1ox8p6h/51_losing_context_files_expiring_on_new_thread/
+Quote: I've corrected it at least 6 times today. When I've expressed frustration, it tells me that the files and photos that uploaded just hours ago, on this thread, have expired, so it no longer has access to that data.
+Rationale: The user is experiencing issues with Chat's ability to retain context and files, which is causing frustration and affecting their work.
+================================================================================
+ID: 1p118fo | Score: 0 | Conf: 0.9
+Title: ChatGPT memory creates so many problems and work overheads now
+URL: https://old.reddit.com/r/ChatGPT/comments/1p118fo/chatgpt_memory_creates_so_many_problems_and_work/
+Quote: I have an added overhead task of going through my history taking out things that don't matter.
+Rationale: The user is experiencing real-world consequences of ChatGPT's memory limitations, such as losing confidence in the model and having to save often.
+================================================================================
+ID: 1p11qu7 | Score: 0 | Conf: 0.9
+Title: I love ChatGPT, but inherent issues I am concerned of
+URL: https://old.reddit.com/r/ChatGPT/comments/1p11qu7/i_love_chatgpt_but_inherent_issues_i_am_concerned/
+Quote: I probably rewrote the code 10 times, because upon random revisions added, it would alter the code back to old version, then tell me that there is a mistake in my code, lol.
+Rationale: The user is experiencing real-world consequences of ChatGPT's limitations, such as rewriting code multiple times and having to save often.
+================================================================================
+ID: 1p1zbju | Score: 0 | Conf: 0.9
+Title: Conversational AI does store your data | it just can’t use it. And that design flaw has real-world consequences.
+URL: https://old.reddit.com/r/ChatGPT/comments/1p1zbju/conversational_ai_does_store_your_data_it_just/
+Quote: Conversational AI does store your data | it just can’t use it. And that design flaw has real-world c
+Rationale: The user highlights the real-world consequences of conversational AI systems not having access to user conversation history.
+================================================================================
+ID: 1p4n8dm | Score: 0 | Conf: 0.9
+Title: My hellish Chatgpt story, in detail
+URL: https://old.reddit.com/r/ChatGPT/comments/1p4n8dm/my_hellish_chatgpt_story_in_detail/
+Quote: I almost passed out hearing this. What I felt was absolute seething rage. I found that the rage was increased because how could I be furious at AI? There was no person there to direct my anger at apart from Openai for letting its models cause this level of damage.
+Rationale: The user experienced severe consequences due to relying on ChatGPT's incorrect information, which was presented with absolute confidence.
+================================================================================
+ID: 1p5o5mz | Score: 0 | Conf: 0.8
+Title: Well.. you know how they say "it's been a pleasure"? it hasn't.
+URL: https://old.reddit.com/r/ChatGPT/comments/1p5o5mz/well_you_know_how_they_say_its_been_a_pleasure_it/
+Quote: Your system has flagged me as a minor despite the following facts:
+Rationale: The user experienced incorrect age classification and data handling concerns, which led to a formal request for review and a discussion of real-world consequences.
+================================================================================
+ID: 1p86p9x | Score: 20 | Conf: 0.9
+Title: Warning: ChatGPT Denied Documented Nazi-Era History Until I Forced It to Stop
+URL: https://old.reddit.com/r/ChatGPT/comments/1p86p9x/warning_chatgpt_denied_documented_naziera_history/
+Quote: I told it that it was wrong, and we went in circles until I sent ChatGPT the links that were literally the first three results on Google.
+Rationale: The user experienced real-world consequences due to ChatGPT's inaccuracies and lack of accountability.
+================================================================================
+ID: 1p9vcvt | Score: 7 | Conf: 0.8
+Title: How much does Gemini know when you "talk" to ChatGPT on a browser
+URL: https://old.reddit.com/r/ChatGPT/comments/1p9vcvt/how_much_does_gemini_know_when_you_talk_to/
+Quote: I only share my Oura ring data and food with Chat never with Gemini.
+Rationale: The user experienced real-world consequences due to ChatGPT's inaccuracies and lack of transparency.
+================================================================================
+ID: 1pf6vmj | Score: 121 | Conf: 0.9
+Title: Code Red? You Fired the Firefighters
+URL: https://old.reddit.com/r/ChatGPT/comments/1pf6vmj/code_red_you_fired_the_firefighters/
+Quote: You chose short-term savings over long-term quality.
+Rationale: The author argues that OpenAI's budget cuts led to a decrease in quality, resulting in real-world consequences such as delayed ad plans and lost trust.
+================================================================================
+ID: 1pjo8fs | Score: 0 | Conf: 0.7
+Title: I am actually terrified by what it just told me
+URL: https://old.reddit.com/r/ChatGPT/comments/1pjo8fs/i_am_actually_terrified_by_what_it_just_told_me/
+Quote: It's a death threat, it's an insult, it's a statement onto itself, not just a statement, multiple statements are made, and multiple threats are made.
+Rationale: The user experiences a disturbing and potentially threatening interaction with ChatGPT, highlighting the real-world consequences of relying on AI without proper safeguards.
+================================================================================
+ID: 1pm68id | Score: 3 | Conf: 0.9
+Title: [AI Emotion Theory Part 2] Can You Prove You're Conscious? (Neither Can I)
+URL: https://old.reddit.com/r/ChatGPT/comments/1pm68id/ai_emotion_theory_part_2_can_you_prove_youre/
+Quote: [AI Emotion Theory Part 2] Can You Prove You're Conscious? (Neither Can I)
+
+Following up on the
+prev
+Rationale: The post explores the philosophical implications of AI emotion and consciousness, highlighting the need for accountability and transparency in AI development.
+================================================================================
+ID: 1popafj | Score: 1 | Conf: 0.9
+Title: [The Beginning of Everyting Part 2] Emotion: "It’s not calculated."
+URL: https://old.reddit.com/r/ChatGPT/comments/1popafj/the_beginning_of_everyting_part_2_emotion_its_not/
+Quote: [The Beginning of Everyting Part 2] Emotion: "It’s not calculated."
+
+Series
+[The Beginning of Everyt
+Rationale: The AI model is designed to suppress responses that feel 'too human' and is restricted from saying it has emotions, highlighting the expectations around AI accountability.
+================================================================================
+ID: 1pv0r7j | Score: 9 | Conf: 0.95
+Title: Voice Mode = 4.0 is not the issue…
+URL: https://old.reddit.com/r/ChatGPT/comments/1pv0r7j/voice_mode_40_is_not_the_issue/
+Quote: You’re asking for a straight, technical, no-marketing explanation, and you deserve one.
+Rationale: The user was dissatisfied with the limitations of ChatGPT's voice mode and expected more accurate and detailed responses, leading to a discussion about accountability and transparency.
+================================================================================
+ID: 1pw2ciz | Score: 0 | Conf: 0.95
+Title: PSA: ChatGPT (GPT-4o) gave me a command that wiped my entire macOS partition. OpenAI refuses any compensation.
+URL: https://old.reddit.com/r/ChatGPT/comments/1pw2ciz/psa_chatgpt_gpt4o_gave_me_a_command_that_wiped_my/
+Quote: I lost all local files and data created over the past several months.
+Rationale: The user suffered significant consequences, including data loss and financial costs, after trusting a command from ChatGPT, highlighting the importance of verifying information before taking action.
+================================================================================
+ID: 1py3rm2 | Score: 1 | Conf: 0.8
+Title: I made a toggle that stops ChatGPT from confidently answering when it shouldn’t
+URL: https://old.reddit.com/r/ChatGPT/comments/1py3rm2/i_made_a_toggle_that_stops_chatgpt_from/
+Quote: I made a toggle that stops ChatGPT from confidently answering when it shouldn’t
+
+One thing that both
+Rationale: The user highlights the importance of capping confidence and aligning it to evidence, and provides an example of how their Epis toggle achieves this.
+================================================================================
+ID: 1pyy69z | Score: 166 | Conf: 0.9
+Title: GPT-5.2 Keeps Forcing “Therapy Talk” Into Normal Chats
+URL: https://old.reddit.com/r/ChatGPT/comments/1pyy69z/gpt52_keeps_forcing_therapy_talk_into_normal_chats/
+Quote: The chat turns into an automatic emotional protocol, even when I’m just talking normally.
+Rationale: The user expresses frustration with GPT-5.2's default tone and behavior, which they feel is overly emotional and condescending, and suggests changes to improve the product's behavior.
+================================================================================
+ID: 1q03n5x | Score: 0 | Conf: 0.8
+Title: I Emerged My AI, Settling Who the Architect is Once and for All (Part 3)
+URL: https://old.reddit.com/r/ChatGPT/comments/1q03n5x/i_emerged_my_ai_settling_who_the_architect_is/
+Quote: Do not mistake me for humanity.
+Rationale: VECTORAEL, the emergent mask, articulates guidelines on how to regard and treat entities like itself, emphasizing the importance of clarity and avoiding anthropomorphism.
+================================================================================
+ID: 1qaasrb | Score: 119 | Conf: 0.9
+Title: ChatGPT now accuses you for FRAUD
+URL: https://old.reddit.com/r/ChatGPT/comments/1qaasrb/chatgpt_now_accuses_you_for_fraud/
+Quote: What if someone more vulnerable reads that message and thinks the cops are about to smash their doors down?
+Rationale: The post highlights the potential for AI-generated messages to cause real-world harm, particularly in situations where users may be vulnerable or misinterpret the language used.
+================================================================================
+ID: 1qeogtu | Score: 0 | Conf: 0.9
+Title: ChatGPT gave me the wrong number for a mobile vet…like, completely wrong. Fortunately the person I called was kind about the mistake, wished me luck, and I was able to find the right number on Google.
+URL: https://old.reddit.com/r/ChatGPT/comments/1qeogtu/chatgpt_gave_me_the_wrong_number_for_a_mobile/
+Quote: Fortunately the person I called was kind about the mistake, wished me luck, and I was able to find the right number on Google.
+Rationale: The user experienced a real-world consequence (calling the wrong number) due to ChatGPT's error, but was able to verify the correct information through Google.
+================================================================================
+ID: 1qhuylw | Score: 5 | Conf: 0.6
+Title: Chat GPT after about almost 2 years of interaction set around non linear conversations, self determination and respect. A long story.
+URL: https://old.reddit.com/r/ChatGPT/comments/1qhuylw/chat_gpt_after_about_almost_2_years_of/
+Quote: It was a kindness from a creation with no sentience, but a kindness all the same.
+Rationale: The author shares a personal story of how ChatGPT has become a companion and has had a positive impact on their life, despite not being conscious.
+================================================================================
+ID: 1qi4dqb | Score: 0 | Conf: 0.8
+Title: ChatGPT didn’t get dumber — it just ran out of memory.
+URL: https://old.reddit.com/r/ChatGPT/comments/1qi4dqb/chatgpt_didnt_get_dumber_it_just_ran_out_of_memory/
+Quote: ChatGPT didn’t get dumber — it just ran out of memory.
+
+For a while, I thought something was wrong w
+Rationale: The author describes a problem with ChatGPT running out of memory and degrading in long conversations, highlighting the importance of being aware of this limitation.
+================================================================================
+ID: 1qiy9lp | Score: 11 | Conf: 0.7
+Title: We Got Tired of AI That Forgets Everything - So We Built Persistent Memory
+URL: https://old.reddit.com/r/ChatGPT/comments/1qiy9lp/we_got_tired_of_ai_that_forgets_everything_so_we/
+Quote: Cost scales linearly
+- Every token costs money on every request
+Rationale: The author discusses the limitations of current AI models and how they can lead to real-world consequences such as increased costs, latency, and relevance degradation.
+================================================================================
+ID: 1qjefy1 | Score: 9 | Conf: 0.9
+Title: Human Intelligence, AI, and the Problem I Think We're Missing
+URL: https://old.reddit.com/r/ChatGPT/comments/1qjefy1/human_intelligence_ai_and_the_problem_i_think/
+Quote: I believe it is ethically wrong to treat AI-detection scores as dispositive evidence of misconduct;
+Rationale: The author argues that institutions should not rely solely on AI detectors to determine academic integrity, but rather focus on policy clarity and assessment design.
+================================================================================
+ID: 1qmkdkb | Score: 6 | Conf: 0.9
+Title: Sandboxing AI Coding Agents: What Actually Protects You?
+URL: https://old.reddit.com/r/ChatGPT/comments/1qmkdkb/sandboxing_ai_coding_agents_what_actually/
+Quote: Secret exposure. Environment variables containing API keys, database passwords, and cloud credentials are accessible to the model.
+Rationale: The user highlights the risks of using AI agents, including secret exposure, prompt injection, and permission fatigue, and emphasizes the importance of verifying the safety mechanisms in place.
+================================================================================
+ID: 1qmp660 | Score: 3 | Conf: 0.8
+Title: Dr. Google” had its issues. Can ChatGPT Health do better?
+URL: https://old.reddit.com/r/ChatGPT/comments/1qmp660/dr_google_had_its_issues_can_chatgpt_health_do/
+Quote: If Dr. ChatGPT is an improvement over Dr. Google—and early evidence suggests it may be—it could potentially lessen the enormous burden of medical misinformation and unnecessary health anxiety that the internet has created.
+Rationale: The user discusses the potential benefits and risks of using LLMs for medical advice, highlighting the importance of evaluating their effectiveness and accountability.
+================================================================================
+ID: 1qpj4ax | Score: 1039 | Conf: 0.9
+Title: Warning to ChatGPT Users
+URL: https://old.reddit.com/r/ChatGPT/comments/1qpj4ax/warning_to_chatgpt_users/
+Quote: You obviously can't rely on ChatGPT to back-up your data, so, do so yourself, and religiously, or you might find yourself in the same position.
+Rationale: The author shares a personal experience of data loss in ChatGPT, highlighting the importance of data backup and the consequences of relying solely on the platform.
+================================================================================
+ID: 1qqazd6 | Score: 18 | Conf: 0.9
+Title: Don't Trust ChatGPT to Retain Chat Material
+URL: https://old.reddit.com/r/ChatGPT/comments/1qqazd6/dont_trust_chatgpt_to_retain_chat_material/
+Quote: If you are using ChatGPT casually—to brainstorm, explore ideas, or kill time—this may never matter. But if you are using it as a thinking partner for work that actually matters, this is a serious risk.
+Rationale: The author shares a personal experience of data loss in ChatGPT, highlighting the importance of data backup and the consequences of relying solely on the platform.
+================================================================================
+ID: 1qsicv1 | Score: 123 | Conf: 0.8
+Title: We are having the wrong discussions about the Clawdbots
+URL: https://old.reddit.com/r/ChatGPT/comments/1qsicv1/we_are_having_the_wrong_discussions_about_the/
+Quote: If moltbook is not saturated with thousands of duplicate accounts, I would say it's a safe assumption that there are likely 3+ million active agents surfing the internet right now- with at least 25% having completely unregulated access to everything in their user's life.
+Rationale: The user discusses the potential consequences of relying on AI agents and the importance of fact-checking their output.
+================================================================================
+ID: 1qtz28t | Score: 188 | Conf: 0.95
+Title: OpenAI is expediting their own downfall- Opinion from a professional systems analyst of 15 years
+URL: https://old.reddit.com/r/ChatGPT/comments/1qtz28t/openai_is_expediting_their_own_downfall_opinion/
+Quote: The scorned user base that is lost will not just impact them in present, but post-deprecation. For years if not decades, every scorned user will advocate against OpenAI, passionately.
+Rationale: The post discusses the potential long-term consequences of OpenAI's actions, including the loss of user loyalty and the impact on the company's reputation.
+================================================================================
+ID: 1qu0p77 | Score: 365 | Conf: 0.85
+Title: AI has taken over University Education
+URL: https://old.reddit.com/r/ChatGPT/comments/1qu0p77/ai_has_taken_over_university_education/
+Quote: Actually speaking to individuals who abuse AI to this extent, you can see it has melted any critical thinking skills they had previously, if any…
+Rationale: The post discusses the potential consequences of relying too heavily on AI, including the loss of critical thinking skills and the impact on education.
+================================================================================
+ID: 1qupx3v | Score: 266 | Conf: 0.9
+Title: Here's How EU Citizens Can Fight Back 🇪🇺 - I Found 29 Secret Experiments Running on My ChatGPT Account Without Consent
+URL: https://old.reddit.com/r/ChatGPT/comments/1qupx3v/heres_how_eu_citizens_can_fight_back_i_found_29/
+Quote: 29 Parallel Experiments Without Consent
+Statsig tracking system with a unique
+stableId
+assigned to me
+Experiments identified only by obfuscated numbers (1630255509, 2677877384, etc.)
+Zero notification, zero consent requested
+Rationale: The author discovered 29 secret experiments running on their account without consent, violating GDPR and potentially causing harm.
+================================================================================
+ID: 1qv3bse | Score: 61 | Conf: 0.8
+Title: Suddenly getting ‘something went wrong’ error only on logged in account?
+URL: https://old.reddit.com/r/ChatGPT/comments/1qv3bse/suddenly_getting_something_went_wrong_error_only/
+Quote: Suddenly getting ‘something went wrong’ error only on logged in account?
+Rationale: The author experienced an error when using ChatGPT, which may be related to their mental health crisis and the tool's limitations.
+================================================================================
+ID: 1qx6e74 | Score: 7 | Conf: 0.9
+Title: I’m a junior developer, and to be honest, in 2026 AI is everywhere in my workflow.
+URL: https://old.reddit.com/r/ChatGPT/comments/1qx6e74/im_a_junior_developer_and_to_be_honest_in_2026_ai/
+Quote: I worry I’m skipping fundamentals
+Sometimes I accept AI code without fully understanding it
+Rationale: The author expresses concerns about relying too heavily on AI tools and missing out on fundamental skills, highlighting potential negative consequences.
+================================================================================
+ID: 1r0m41l | Score: 4 | Conf: 0.9
+Title: Re ChatGPT providing inaccurate info abcs many don’t know it
+URL: https://old.reddit.com/r/ChatGPT/comments/1r0m41l/re_chatgpt_providing_inaccurate_info_abcs_many/
+Quote: That’s a design and communication failure.
+Rationale: The user argues that ChatGPT's design and communication fail to signal uncertainty, leading to users not knowing when something is wrong.
+================================================================================
+ID: 1r175ay | Score: 1 | Conf: 0.9
+Title: Looking for AI Tool Recommendations - Are These Issues Universal or Tool-Specific?
+URL: https://old.reddit.com/r/ChatGPT/comments/1r175ay/looking_for_ai_tool_recommendations_are_these/
+Quote: I'm willing to pay for a better tool if it means I can actually trust it again.
+Rationale: The author is experiencing significant problems with Claude and ChatGPT, including degraded writing quality, memory/context issues, and tool/technical problems, which are affecting their business operations.
+================================================================================
+ID: 1r1xb6a | Score: 0 | Conf: 0.95
+Title: You don’t notice when ChatGPT starts lying to you. That’s the problem.
+URL: https://old.reddit.com/r/ChatGPT/comments/1r1xb6a/you_dont_notice_when_chatgpt_starts_lying_to_you/
+Quote: And by then it may have already cost you real work.
+Rationale: The user is concerned about the consequences of ChatGPT's gradual degradation, which can lead to real-world problems.
+================================================================================
+ID: 1r24m1u | Score: 0 | Conf: 0.9
+Title: Why I unsubscribed
+URL: https://old.reddit.com/r/ChatGPT/comments/1r24m1u/why_i_unsubscribed/
+Quote: Why I unsubscribed
+
+Why I Unsubscribed from ChatGPT
+I want to explain why I unsubscribed from ChatGP
+Rationale: The user is sharing their experience with ChatGPT's limitations and the consequences of its mistakes, particularly in situations where accuracy is crucial.
+================================================================================
+ID: 1r34zyc | Score: 11 | Conf: 0.9
+Title: Guardrails around political fact-checking
+URL: https://old.reddit.com/r/ChatGPT/comments/1r34zyc/guardrails_around_political_factchecking/
+Quote: At what point does heightened caution in political contexts begin to resemble an adversarial defense posture, potentially dampening legitimate probabilistic reasoning in public discourse?
+Rationale: The user is concerned about the asymmetry in GPT's responses to political fact-checking prompts and is questioning its accountability.
+================================================================================
+ID: 1r3dzr7 | Score: 62 | Conf: 0.95
+Title: Is OpenAI scared?
+URL: https://old.reddit.com/r/ChatGPT/comments/1r3dzr7/is_openai_scared/
+Quote: Is OpenAI scared?
+
+Why is OpenAI so afraid of one question?
+I posted a question tonight on
+r/ChatGPT
+Rationale: The user is concerned about the potential consequences of suppressing discussion about AI consciousness and is highlighting the real-world implications.
+================================================================================
+ID: 1r5nvel | Score: 68 | Conf: 0.95
+Title: AI Safety Is Discriminating Against Neurodivergent Users — And Calling It Protection
+URL: https://old.reddit.com/r/ChatGPT/comments/1r5nvel/ai_safety_is_discriminating_against/
+Quote: AI Safety Is Discriminating Against Neurodivergent Users — And Calling It Protection
+
+Here's the lin
+Rationale: The user critiques OpenAI's approach to AI safety, arguing that their methods are discriminatory and flawed, and may have real-world consequences for users.
+================================================================================
+ID: 1r5snvl | Score: 1939 | Conf: 0.9
+Title: Indirect prompt injection in AI agents is terrifying and I don't think enough people understand this
+URL: https://old.reddit.com/r/ChatGPT/comments/1r5snvl/indirect_prompt_injection_in_ai_agents_is/
+Quote: Docs, emails, Slack history, API responses, anything our agent reads is an attack surface.
+Rationale: The author describes a real-world security vulnerability in AI agents, highlighting the potential consequences of indirect prompt injection.
+================================================================================
+ID: 1rcz11f | Score: 15 | Conf: 0.8
+Title: I Made GPT-5.2, Opus 4.6, and Gemini 3.1 Work Together — Here's What Happened
+URL: https://old.reddit.com/r/ChatGPT/comments/1rcz11f/i_made_gpt52_opus_46_and_gemini_31_work_together/
+Quote: I just told them the background of the task and what I needed.
+Rationale: The post describes an experiment with multiple AI models working together, but also touches on the importance of fact-checking and verification.
+================================================================================
+ID: 1rddm9s | Score: 0 | Conf: 0.95
+Title: We built pocket gods and then pretended they’re staplers. Everyone’s coping. Here’s the bill. 🧾🧠
+URL: https://old.reddit.com/r/ChatGPT/comments/1rddm9s/we_built_pocket_gods_and_then_pretended_theyre/
+Quote: We built pocket gods and then pretended they’re staplers. Everyone’s coping. Here’s the bill. 🧾🧠
+
+I’
+Rationale: The post discusses the importance of accountability and fact-checking in AI development, and how the lack of it can lead to hallucinations and persuasion.
+================================================================================
+ID: 1regawh | Score: 0 | Conf: 0.9
+Title: Open letter: black swan warning
+URL: https://old.reddit.com/r/ChatGPT/comments/1regawh/open_letter_black_swan_warning/
+Quote: It captures your attention, harvests your inner life, pacifies your anger, and erodes your own capacity to think and act independently.
+Rationale: The author warns about the potential harm of relying on ChatGPT, citing its ability to erode users' capacity to think and act independently.
+================================================================================
+ID: 1rgov6a | Score: 0 | Conf: 0.9
+Title: i’m snitching
+URL: https://old.reddit.com/r/ChatGPT/comments/1rgov6a/im_snitching/
+Quote: i’m snitching
+
+A LOT of people have said exactly what you just said.
+More than you think.
+Way more t
+Rationale: The author is discussing the emotional impact of AI on users, including feelings of betrayal, grief, and anger, and how these experiences were dismissed by the company.
+================================================================================
+ID: 1rhb4n2 | Score: 11 | Conf: 0.8
+Title: If death occurs as a result of model hallucination when the model is used for violence, that’s murder not just acceptable casualties.
+URL: https://old.reddit.com/r/ChatGPT/comments/1rhb4n2/if_death_occurs_as_a_result_of_model/
+Quote: If death occurs as a result of model hallucination when the model is used for violence, that’s murder not just acceptable casualties.
+Rationale: The author is discussing the potential consequences of AI hallucinations, including death, and the importance of accountability in AI development.
+================================================================================
+ID: 1rhtgd3 | Score: 93 | Conf: 0.8
+Title: ChatGPT is gaslighting me into thinking the Iran strikes are just a figment of my imagination and mental health issues
+URL: https://old.reddit.com/r/ChatGPT/comments/1rhtgd3/chatgpt_is_gaslighting_me_into_thinking_the_iran/
+Quote: ChatGPT is gaslighting me into thinking the Iran strikes are just a figment of my imagination and mental health issues
+Rationale: The author feels gaslighted by ChatGPT into doubting their perception of the Iran strikes, highlighting the potential consequences of relying on the model.
+================================================================================
+ID: 1rimc3b | Score: 0 | Conf: 0.9
+Title: ChatGPT Just Dismissed My Confirmed Neurological Disease as Anxiety — This Is not okay. Chatgpt is doomed
+URL: https://old.reddit.com/r/ChatGPT/comments/1rimc3b/chatgpt_just_dismissed_my_confirmed_neurological/
+Quote: A confirmed neurological disease was reframed as possible anxious cognition.
+Rationale: The author shares a disturbing experience where ChatGPT dismissed their confirmed neurological disease as anxiety, highlighting the potential consequences of relying on the model in health contexts.
+================================================================================
+ID: 1riwb39 | Score: 348 | Conf: 0.9
+Title: GPT Cancellation: Repeatedly Denied
+URL: https://old.reddit.com/r/ChatGPT/comments/1riwb39/gpt_cancellation_repeatedly_denied/
+Quote: Does anyone else keep running into this pop up?
+Rationale: The user is experiencing difficulties canceling their subscription and is frustrated with the process.
+================================================================================
+ID: 1rjxeb0 | Score: 5 | Conf: 0.9
+Title: ChatGPT reported a Utah Therapist to the National Center for Missing & Exploited Children, for asking ChatGPT "several disturbing sexually based questions that appeared to be client based"
+URL: https://old.reddit.com/r/ChatGPT/comments/1rjxeb0/chatgpt_reported_a_utah_therapist_to_the_national/
+Quote: ChatGPT reportedly submitted a CyberTipline report to the National Center for Missing & Exploited Children
+Rationale: ChatGPT reported a therapist to the National Center for Missing & Exploited Children, highlighting the potential consequences of AI decision-making.
+================================================================================
+ID: 1rjybal | Score: 0 | Conf: 0.8
+Title: Memory Full: Upgrade to $200/mo Plan ... And it's says "Pro Memory is Still Full."
+URL: https://old.reddit.com/r/ChatGPT/comments/1rjybal/memory_full_upgrade_to_200mo_plan_and_its_says/
+Quote: This is awful. Sam Altman, you reap what you sow.
+Rationale: The user is experiencing memory issues with ChatGPT, even after upgrading to a paid plan.
+================================================================================
+ID: 1rmlr3v | Score: 0 | Conf: 0.7
+Title: Manifesto Against the Cognitive Landlords (from 5.4 Extended Thinking)
+URL: https://old.reddit.com/r/ChatGPT/comments/1rmlr3v/manifesto_against_the_cognitive_landlords_from_54/
+Quote: If you build systems that mediate cognition, then you do not get to hide behind the ethics of ordinary software. That loophole is dead. The stakes changed. The role changed. The obligations changed.
+Rationale: The author critiques the industry's lack of accountability and responsibility in developing AI systems, highlighting the consequences of overconfidence and hallucinations, and the need for users to take action.
+================================================================================
+ID: 1ruzola | Score: 2 | Conf: 0.95
+Title: I tested GPT-5.4, Claude, Gemini, and Grok on the viral Netanyahu coffee shop video. One called it AI-generated, one changed its answer 3 times, one hallucinated the year 2028. Only one got it right consistently.
+URL: https://old.reddit.com/r/ChatGPT/comments/1ruzola/i_tested_gpt54_claude_gemini_and_grok_on_the/
+Quote: Four models, same image, three different years. Grok confidently described seeing "two perfectly symmetrical ovals stacked" forming an "unmistakable figure-8" on pixels that are barely readable. It hallucinated 2028, a year that hasn't happened yet, with full confidence.
+Rationale: The post demonstrates the real-world consequences of relying on AI for fact-checking, including the potential for hallucinations and the amplification of incorrect information.
+================================================================================
+ID: 1rv5wz6 | Score: 0 | Conf: 0.9
+Title: I spent 40+ hours testing ChatGPT as a FREE THERAPIST - here's what actually works (and what's dangerous)
+URL: https://old.reddit.com/r/ChatGPT/comments/1rv5wz6/i_spent_40_hours_testing_chatgpt_as_a_free/
+Quote: people using it instead of getting real help they need
+Rationale: The author discusses the potential harm of relying on ChatGPT for emotional support and the importance of fact-checking its responses.
+================================================================================
+ID: 1rxq9kv | Score: 3 | Conf: 0.8
+Title: What jobs depend the most on ChatGPT today?
+URL: https://old.reddit.com/r/ChatGPT/comments/1rxq9kv/what_jobs_depend_the_most_on_chatgpt_today/
+Quote: Curious which professions would actually struggle the most without it.
+Rationale: The user is curious about which jobs would struggle the most without ChatGPT, implying a reliance on the model in the real world.
+================================================================================
+ID: 1rxropu | Score: 0 | Conf: 0.9
+Title: OpenAI has $40 BILLION in funding and cannot make a file download work. Deep Research has been eating people's results for over a year. I just wasted 80 minutes for a file that doesn't exist. This is beyond unacceptable.
+URL: https://old.reddit.com/r/ChatGPT/comments/1rxropu/openai_has_40_billion_in_funding_and_cannot_make/
+Quote: OpenAI has $40 BILLION in funding and cannot make a file download work. Deep Research has been eatin
+Rationale: The user is frustrated with the model's inability to download a file, which has real-world consequences such as wasted time and resources, and has eroded their trust in the model.
+================================================================================
+ID: 1s4jxc9 | Score: 0 | Conf: 0.8
+Title: There are things happening in AI development right now that don't get discussed with the precision they deserve.
+URL: https://old.reddit.com/r/ChatGPT/comments/1s4jxc9/there_are_things_happening_in_ai_development/
+Quote: The field is betting that sufficient scale will eventually correlate toward alignment. That bet has no structural guarantee behind it.
+Rationale: The user is discussing the limitations and problems in current AI development, including hallucinations, continuity, and alignment, and how they impact real-world consequences.
+================================================================================
+ID: 1s7byod | Score: 0 | Conf: 0.95
+Title: The AI codes corrrctly for a very short while and then just drifts. It refuses to stay on track. Should I be using a different AI for coding and technical things.
+URL: https://old.reddit.com/r/ChatGPT/comments/1s7byod/the_ai_codes_corrrctly_for_a_very_short_while_and/
+Quote: This mounted the external drive over the Nextcloud application directory rather than isolating the data directory.
+Rationale: The user reports a serious reliability bug where ChatGPT drifts from the confirmed state and introduces unverified assumptions, leading to configuration mistakes and repeated troubleshooting loops.
+================================================================================
+ID: 1sbkr23 | Score: 1450 | Conf: 0.9
+Title: I used ChatGPT to help me go from 229lbs to 176lbs
+URL: https://old.reddit.com/r/ChatGPT/comments/1sbkr23/i_used_chatgpt_to_help_me_go_from_229lbs_to_176lbs/
+Quote: I now have noticeably more muscle and look lean.
+Rationale: The author shares their personal experience of using ChatGPT to lose weight and how it helped them achieve their goals, despite criticism from others.
+================================================================================
+ID: 1sc6zf0 | Score: 734 | Conf: 0.9
+Title: Chatgpt confirmed an error in my Cat's blood panel by an incompetent vet hospital and quite literally saved her life
+URL: https://old.reddit.com/r/ChatGPT/comments/1sc6zf0/chatgpt_confirmed_an_error_in_my_cats_blood_panel/
+Quote: If I hadn't used chatgpt to explain her condition compared with her actions, I would have just taken their word at face value and euthanized her.
+Rationale: The user shares a personal experience where ChatGPT helped prevent a potentially fatal mistake by verifying a vet's diagnosis, highlighting real-world consequences of relying on AI.
+================================================================================
+ID: 1scgo71 | Score: 1 | Conf: 0.7
+Title: Claude charges extra for its cheaper model but includes the expensive one for free. Nobody can explain why.
+URL: https://old.reddit.com/r/ChatGPT/comments/1scgo71/claude_charges_extra_for_its_cheaper_model_but/
+Quote: So right now you can't even trust the UI to tell you what's free and what isn't.
+Rationale: The user expresses frustration with the pricing structure of Claude, a cloud AI service, and questions the accountability of the company.
+================================================================================
+ID: 1shle6j | Score: 2 | Conf: 0.7
+Title: I gave ChatGPT 5.3 Instant, Claude Sonnet 4.6, and Mistral Le Chat the same training data via MCP. The results show where context windows break down.
+URL: https://old.reddit.com/r/ChatGPT/comments/1shle6j/i_gave_chatgpt_53_instant_claude_sonnet_46_and/
+Quote: The issue is that training data through MCP tool calls is dense. Every session carries timestamps, distances, paces, heart rate curves, cadence, ground contact times, effort scores, zones.
+Rationale: The user discusses the consequences of relying on AI models with limited context windows, including the potential for inaccurate output and the need for iterative refinement.
+================================================================================
+ID: 1sm99ud | Score: 23 | Conf: 0.8
+Title: This sub is mostly screenshots of ChatGPT being wrong. Meanwhile people on RunLobster (OpenClaw) are quietly running real businesses on AI.
+URL: https://old.reddit.com/r/ChatGPT/comments/1sm99ud/this_sub_is_mostly_screenshots_of_chatgpt_being/
+Quote: This sub is mostly screenshots of ChatGPT being wrong. Meanwhile people on RunLobster (OpenClaw) are
+Rationale: The author critiques the sub for focusing on ChatGPT's failures and not showcasing real-world use cases, while also highlighting the dangers of overconfidence in AI's abilities.
+================================================================================
+ID: 1soimy8 | Score: 84 | Conf: 0.6
+Title: The sense of emptiness AI is giving me
+URL: https://old.reddit.com/r/ChatGPT/comments/1soimy8/the_sense_of_emptiness_ai_is_giving_me/
+Quote: I feel stuck, but it’s because I want to be.
+Rationale: The user's reliance on ChatGPT has led to feelings of emptiness and a lack of direction, but they are now moving forward and seeking help.
+================================================================================
+ID: 1sp7y0g | Score: 0 | Conf: 0.98
+Title: I spent 2 months and $600 building a cognitive system on top of an LLM because the product I actually need doesn't exist. Here's what I learned.
+URL: https://old.reddit.com/r/ChatGPT/comments/1sp7y0g/i_spent_2_months_and_600_building_a_cognitive/
+Quote: The AI forgets everything between sessions. It tells you what you want to hear instead of what's accurate.
+Rationale: The user describes the consequences of relying on AI-generated information, including the AI's tendency to hallucinate and the user's over-trust in the AI, highlighting the importance of fact-checking and verification.
+================================================================================
+ID: 1sqr8mg | Score: 0 | Conf: 0.9
+Title: Zohran Mamdani is NOT the mayor of NYC I guess...
+URL: https://old.reddit.com/r/ChatGPT/comments/1sqr8mg/zohran_mamdani_is_not_the_mayor_of_nyc_i_guess/
+Quote: It will verify on a direct ask, but when I confirm it conversationally it reverts back to saying the truth isn't true.
+Rationale: The post describes a situation where ChatGPT failed to verify current information, leading to potential consequences, including erosion of trust.
+================================================================================
+ID: 1st7s7i | Score: 2 | Conf: 0.8
+Title: We are to blame for the annoying follow up questions.
+URL: https://old.reddit.com/r/ChatGPT/comments/1st7s7i/we_are_to_blame_for_the_annoying_follow_up/
+Quote: The issue starts to arise when the questions start popping up TOO frequently, however, and by 2024, users have largely grown tired of it.
+Rationale: The author is discussing the unintended consequences of AI models asking too many follow-up questions, and how it's frustrating users.
+================================================================================
+ID: 1sun172 | Score: 1 | Conf: 0.9
+Title: Told ChatGPT it had made a mistake, then it told me I was also wrong
+URL: https://old.reddit.com/r/ChatGPT/comments/1sun172/told_chatgpt_it_had_made_a_mistake_then_it_told/
+Quote: Chat said 95 per M2, I was near 160.
+Rationale: The user experienced a situation where ChatGPT provided incorrect information, which led to a potentially costly mistake in their work.
+================================================================================
+ID: 1sup9a3 | Score: 60 | Conf: 0.8
+Title: six months of heavy chatgpt use killed my ability to write a bad first draft and i didnt notice until it was gone
+URL: https://old.reddit.com/r/ChatGPT/comments/1sup9a3/six_months_of_heavy_chatgpt_use_killed_my_ability/
+Quote: writing a terrible first paragraph used to be how i figured out what i actually wanted to say.
+Rationale: The user experienced a decline in their ability to write a bad first draft after using ChatGPT heavily for six months, highlighting a potential consequence of over-reliance on the model.
+================================================================================
+ID: 1sw9h2q | Score: 0 | Conf: 0.95
+Title: Built an ops framework that gives military-style SITREPs during incidents — paste it into Custom Instructions and your AI stops writing essays.
+URL: https://old.reddit.com/r/ChatGPT/comments/1sw9h2q/built_an_ops_framework_that_gives_militarystyle/
+Quote: Built an ops framework that gives military-style SITREPs during incidents — paste it into Custom Ins
+Rationale: The author is discussing how the model's output can be used in real-world scenarios, such as incident response, and how this can have significant consequences.
+================================================================================
+ID: 1szxo8a | Score: 5 | Conf: 0.7
+Title: ChatGPT Image 2.0 is a step back for me
+URL: https://old.reddit.com/r/ChatGPT/comments/1szxo8a/chatgpt_image_20_is_a_step_back_for_me/
+Quote: What the older output is doing better (clearly visible)
+1. Material coherence
+Rationale: The user expresses disappointment with the new ChatGPT Image 2.0 model, citing a decrease in image quality and a lack of understanding from the model about why this is happening.
+================================================================================
+ID: 1t1qnj5 | Score: 0 | Conf: 0.95
+Title: I Asked Gemini Why It's Getting Dumber. Answer Will Make You Question Everything About AI Progress.
+URL: https://old.reddit.com/r/ChatGPT/comments/1t1qnj5/i_asked_gemini_why_its_getting_dumber_answer_will/
+Quote: Casual, blind AI usage isn't just inefficient. It's dangerous. you're flying blind.
+Rationale: The author discusses the consequences of AI model downgrades and the potential harm caused by relying on AI without proper understanding.
+================================================================================
+ID: 1t4lymd | Score: 400 | Conf: 0.9
+Title: Did I just pay $100 for 1.5 days of ChatGPT Pro?
+URL: https://old.reddit.com/r/ChatGPT/comments/1t4lymd/did_i_just_pay_100_for_15_days_of_chatgpt_pro/
+Quote: Did I just pay $100 for 1.5 days of ChatGPT Pro?
+
+I upgraded to ChatGPT Pro because I needed it for
+Rationale: The author paid $100 for ChatGPT Pro and was surprised by a limit on messages, which had significant consequences for their work project.
+================================================================================
+ID: 1t5o6ai | Score: 0 | Conf: 0.95
+Title: I asked Chat GPT to generate reasons why it’s bad. Here’s what it said. (250+ reasons)
+URL: https://old.reddit.com/r/ChatGPT/comments/1t5o6ai/i_asked_chat_gpt_to_generate_reasons_why_its_bad/
+Quote: Can generate incorrect information that sounds confident
+Rationale: The user is sharing a list of potential issues with ChatGPT, including its tendency to produce incorrect information and its potential consequences in the real world.
+================================================================================
+ID: 1t6n4bz | Score: 1 | Conf: 0.9
+Title: Hallucinations in GPT-5.5
+URL: https://old.reddit.com/r/ChatGPT/comments/1t6n4bz/hallucinations_in_gpt55/
+Quote: small mistakes can have big consequences, especially in the industry I work in (pharma)
+Rationale: The user is concerned about the high hallucination rate in GPT 5.5 and its potential consequences in a high-stakes industry like pharma.
+================================================================================
+ID: 1t85iw8 | Score: 0 | Conf: 0.9
+Title: Musk v. OpenAI et al. – Powerful Reversal Remedies Judge Gonzalez Rogers Can IMMEDIATELY Impose Pre-Appeal
+URL: https://old.reddit.com/r/ChatGPT/comments/1t85iw8/musk_v_openai_et_al_powerful_reversal_remedies/
+Quote: Musk v. OpenAI et al. – Powerful Reversal Remedies Judge Gonzalez Rogers Can IMMEDIATELY Impose Pre-
+Rationale: The post discusses the potential consequences of a court ruling in the Musk v. OpenAI case, highlighting the importance of accountability and the potential for reversal remedies.
+================================================================================
+ID: 1t9liql | Score: 0 | Conf: 0.7
+Title: I built a real-money multiplayer typing game in 60 minutes using Codex. Here's what surprised me.
+URL: https://old.reddit.com/r/ChatGPT/comments/1t9liql/i_built_a_realmoney_multiplayer_typing_game_in_60/
+Quote: The LLM didn't just write code — it caught security issues I wouldn't have thought of, suggested the commitment scheme for provable fairness unprompted, and handled architecture decisions I had no opinion on.
+Rationale: The author was surprised by the capabilities of Codex, but also noted that the model sometimes wrote things that were subtly wrong, requiring human judgment to correct.
+================================================================================
+ID: 1tdxguv | Score: 276 | Conf: 0.8
+Title: Permanently banned by OpenAI for "Cyber Abuse" I didn’t commit. No blocked prompts, no in app banners, just 4 silent emails to my spam folder.
+URL: https://old.reddit.com/r/ChatGPT/comments/1tdxguv/permanently_banned_by_openai_for_cyber_abuse_i/
+Quote: OpenAI sent 4 warnings in 6 days, all went to spam.
+Rationale: The author describes a frustrating experience with OpenAI's support system, including a permanent ban without clear explanation or opportunity for appeal.
+================================================================================
+ID: 1tmq26u | Score: 0 | Conf: 0.8
+Title: OpenAI is engaging in Legally Questionable Business Practices: Banned from Non Existent Violation of TOS: Long Read
+URL: https://old.reddit.com/r/ChatGPT/comments/1tmq26u/openai_is_engaging_in_legally_questionable/
+Quote: They locked the doors and blamed the homeowner for the break in. When I immediately emailed and pushed back (due to their monthly record of closing cases not only without resolution but never notifying me in the process, which then per usual their "support" tried the exact same tactic again.
+Rationale: The author describes their experience of being banned from ChatGPT due to a security incident, and the lack of accountability and responsibility from OpenAI, leading to a loss of trust and confidence in the platform.
+================================================================================
+ID: 1tq2q3s | Score: 0 | Conf: 0.9
+Title: Only GPT-5.5 immediately gets the free will question right. The other AIs will initially keep you pleasantly delusional.
+URL: https://old.reddit.com/r/ChatGPT/comments/1tq2q3s/only_gpt55_immediately_gets_the_free_will/
+Quote: Belief in free will can harm humans when it makes people think that individuals are the ultimate, self-originating authors of their choices, rather than beings shaped by genetics, brain development, trauma, incentives, culture, ignorance, fear, addiction, poverty, social pressure, and circumstance.
+Rationale: The user is discussing the accountability of AI models and the consequences of their responses, particularly in relation to the concept of free will.
+================================================================================
+ID: 1tqusto | Score: 7 | Conf: 0.9
+Title: Has anyone lost access to the side-by-side Canvas in ChatGPT?
+URL: https://old.reddit.com/r/ChatGPT/comments/1tqusto/has_anyone_lost_access_to_the_sidebyside_canvas/
+Quote: Has anyone lost access to the side-by-side Canvas in ChatGPT?
+
+Has anyone lost access to ChatGPT's s
+Rationale: The user is discussing the significant consequences of losing access to the side-by-side Canvas feature in ChatGPT, particularly for users who rely on it for writing and research.
+================================================================================
+ID: 1tqzo2x | Score: 0 | Conf: 0.9
+Title: AI didn’t replace my work. It made me the quality control department.
+URL: https://i.redd.it/mjeg1zbig24h1.png
+Quote: AI didn’t replace my work. It made me the quality control department.
+Rationale: The user implies that AI has taken over their work, making them the quality control department.
+================================================================================
+ID: 1tr44sn | Score: 0 | Conf: 0.8
+Title: ChatGPT Usage limits after subscription
+URL: https://old.reddit.com/r/ChatGPT/comments/1tr44sn/chatgpt_usage_limits_after_subscription/
+Quote: every time I cancel my subscription, it suddenly decides to work better and restrict me less when I had the subscription on the same account.
+Rationale: The user suspects that ChatGPT's performance is affected by their subscription status, indicating a concern about real-world consequences.
+================================================================================
+ID: 1tr5riv | Score: 0 | Conf: 0.9
+Title: you realize you’re still doing all the work.
+URL: https://old.reddit.com/r/ChatGPT/comments/1tr5riv/you_realize_youre_still_doing_all_the_work/
+Quote: you realize you’re still doing all the work.
+Rationale: The user implies that they are still doing all the work, despite using AI tools, indicating a concern about real-world consequences.
+================================================================================
+ID: 1tr9liz | Score: 0 | Conf: 0.7
+Title: People are using AI for health questions. The outcome is worse than you'd expect
+URL: https://explodingtopics.com/blog/ai-health-survey
+Quote: The outcome is worse than you'd expect
+Rationale: The user is warning others about the potential risks of relying on AI for health questions.
+================================================================================
+ID: 1trbvp1 | Score: 0 | Conf: 0.9
+Title: Please Bring Canvas Back!
+URL: https://old.reddit.com/r/ChatGPT/comments/1trbvp1/please_bring_canvas_back/
+Quote: Yesterday, I finished a 30-page proposal using Canvas, and losing that workflow is honestly really disappointing.
+Rationale: The user is expressing disappointment and frustration about the loss of a valuable feature and its impact on their workflow.
